@@ -1,0 +1,23 @@
+157D8EB || ~s~You need $~1~ to compete.
+8E194C0 || ~r~Your lowrider is history.
+F8C50D9 || Your bouncing was pure pish.
+11FAA581 || Nice wheels! Can I join you for this?
+184CE9AA || Take my money then bitch.
+23CCC703 || ~r~The meeting is dispersing because you attacked a group member.
+2A7A8B28 || I'm not losing this time
+4DD0C6D4 || Use the Special Ctrls to activate the car hydraulics.
+54CBF795 || ~s~You need a car with hydraulic suspension to compete.
+66FD9517 || You need to move the hydraulics in time to the music
+6F4BD93C || If you want to go at it again there's a contact a the taco stand, he'll tell you where and when.
+788B604F || Come back when you're ready to lose some more cash.
+7FE6A456 || ~r~The lowrider meeting has dispersed.
+88F3F43B || Try to move the suspension in time with the music.
+8F9E3022 || ~s~Get back in the ~b~lowrider~s~.
+91E8C57A || ~k~~PED_JUMPING~ Increase Wager~N~~k~~PED_FIREWEAPON~ Decrease Wager~N~~k~~PED_SPRINT~ Proceed~N~~k~~VEHICLE_ENTER_EXIT~ Exit
+96850163 || ~r~You lost the lowrider challenge.
+BAC596B9 || Choose your wager
+BDA852A0 || ~s~Get to the ~y~lowrider meeting~s~.
+CDC2A62F || You again!
+E18231F5 || ~r~The meeting is dispersing because you messed with one of their cars.
+E6EFF5EC || ~s~You need a lowrider with hydraulics.
+FFF4C4AD || Push the suspension controls in the direction shown.

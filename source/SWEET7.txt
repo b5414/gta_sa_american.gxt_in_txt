@@ -1,0 +1,128 @@
+376CC9B || ~s~Get in the ~b~car~s~ with your gang and take them to the funeral.
+41B0882 || ~s~Drive to the nearby Grove Street ~y~hangout~s~ to find some help.
+4F5E15B || Get your gang to follow you by pressing ~k~~GROUP_CONTROL_FWD~.
+77213AC || ~z~CJ, you take care of Kane - you guys, take care of these other marks!
+795AB81 || ~z~Get a move on, CJ, we gonna be late!
+AC080B0 || ~r~The job isn't going to be any easier short-handed!
+D02D77F || ~z~C'mon, CJ, I've busted into this bucket!
+D162C2C || ~z~Hey, look, we gotta go do something real big.
+E23E7AA || ~z~This is it.
+101D3909 || ~s~Good. Your respect is increasing, keep taking out enemy gang members.
+1360D974 || ~z~laid out, Little Weasel, is getting buried.
+13939A0A || ~z~We're gonna need some allies.
+13DBB1F1 || ~r~That car could have been useful! There was no need to destroy it!
+140D1D6D || ~z~Carl, whassup, baby brother?
+1419E63E || ~z~Stamp it, CJ, we gotta get after that fool before he gets home!
+14FE5E13 || ~z~What can I do about that now?
+1770FD10 || ~s~You need help on this hit but before you can recruit gang members you need to be respected.
+19AB7522 || ~r~The funeral will be over! Kane's going to survive another day!
+1A6DFDDA || ~s~Get in the ~b~car~s~ and drive Sweet back home!
+1AD6955F || ~z~At a funeral.
+1D0039C3 || ~s~Sweet's hot-wired that ~b~car~s~! Get in!
+1E6922ED || ~z~Might take a round or two to drop his ass.
+1E8E9AC0 || ~z~Tell those guys to beat it - I got two OGs in mind.
+21A5F888 || ~z~Get out and muster up the troops, CJ!
+222B5B8B || ~s~Climb over the wall and approach ~b~Sweet~s~ and his men.
+24267C1E || ~z~Man, we was a force back there.
+25469F92 || ~s~Everybody's in. Drive to the back of the ~y~cemetery~s~ before Kane arrives.
+262F84BC || ~z~C'mon, let's use this car!
+285B9F58 || ~r~Sweet's car is ablaze and he's too smart to get back in!
+2C5F406F || ~z~You blew the ambush, CJ, you buster!
+2F365B41 || Hold ~k~~PED_LOCK_TARGET~ to target a gang member and press ~k~~GROUP_CONTROL_FWD~ or ~k~~GROUP_CONTROL_BWD~ to recruit him to your group.
+30204D95 || ~z~Get alongside so I can blast this fool!
+328626E1 || ~s~Kane is getting away! Follow ~b~Sweet~s~, he's going to hijack that car!
+38BEC9C9 || ~z~Cool, we'll take my ride.
+3B306ACA || ~r~You've started trouble too early! Kane won't arrive now!
+3F34B5FD || ~z~There's a Ballas car coming to bail out Kane!
+3FD30DD0 || ~z~A Grove posse? Man, you know I'm down with that.
+404AB91A || ~z~Get me close, CJ!
+45811677 || ~s~Kane's dead! Take out the rest of his ~r~men~s~ now!
+45C93D8C || ~z~Y'all take up positions, and wait for Kane.
+4833856B || ~z~Kane's bailing!
+48D43D46 || ~z~I know a couple of Grove Streets we can bring along.
+4B5A9E45 || Time
+5128B42A || ~z~We can take this car!
+5241AF04 || ~s~Get in Sweet's ~b~car~s~. You need to get to the cemetery before the funeral's over.
+58316BD7 || Press ~k~~GROUP_CONTROL_BWD~ to instruct your gang to stay in position or ~k~~GROUP_CONTROL_FWD~ to instruct them to follow you.
+5951885B || ~z~Aw, shit, he's safe and sound now.
+5B5870F9 || ~z~Aw, man, Kane ain't gonna show now.
+5C9A2736 || ~r~Sweet's been killed! That wasn't part of the plan!
+5CD20CCD || ~z~Y'all know CJ, right?
+6077CD86 || ~s~Join Sweet in that ~b~car~s~. You need to pick up some help for the hit.
+630A2DFB || ~z~What's happening.
+63F96E85 || ~z~You ain't got enough stripes to rally up the troops.
+6467E9E2 || ~z~And all the OG's gonna be there.
+64DC8167 || ~s~Drive the car near ~r~Kane~s~ so Sweet has a clear shot!
+696E127B || ~z~Looks like that buster's wearing armor.
+6989AA56 || ~z~I told you I had two Gs in mind - tell these fools to roll!
+6A070955 || ~s~Follow ~r~Kane~s~ and kill him!
+6A4F22AE || ~z~I'll be waiting for you back here.
+6B67EAD9 || ~z~Nice one, CJ!
+6D6ACD4C || ~s~Get in the ~b~car~s~ and drive!
+6DD1A5C9 || ~z~Just like Momma's. Let's go pop these motherfuckers out.
+6EAC45B4 || ~r~Getting rough with Sweet won't earn you any respect!
+6EE46E4F || ~z~CJ, you been hitting Ryder's wet stick?
+7075233A || ~z~You take Kane, CJ - we got the small fry.
+70929B17 || ~z~We got get there early, CJ!
+727CDB98 || ~z~Eat that you Front Yard FOOL!
+73F2D1CD || You command enough respect to recruit gang members to your group.
+7471FC0D || Your gang has disbanded. Move close and hold ~k~~PED_LOCK_TARGET~ to target a member and use ~k~~GROUP_CONTROL_FWD~ and ~k~~GROUP_CONTROL_BWD~ to re-recruit.
+77FF5F0E || ~z~OK, let's cut corners - we got a couple of homies to meet up with.
+7A111CBA || ~z~Put Grove Street on the map for good. 4 life!
+7DC7B026 || ~s~You've got two gang members in your group now but not the men wanted for the job! Pick the right two this time!
+80EA0F63 || ~z~Oh, CJ, you such a asshole!
+8364AC60 || ~s~Get Sweet safely back ~y~home~s~ now!
+84096879 || ~s~It will be harder to catch Kane on foot! Get back in the ~b~vehicle~s~ now!
+85698BF5 || ~z~OK, everybody in, let's roll!
+8A6988CE || ~z~Yeah, we just catch all those ball-sack-ass-niggas at one time!
+8A9ACBB0 || ~z~Yeah I'm gonna call up the homies and get us a little crew.
+8D044CD7 || ~z~Said that one of them Ballas that you and Smoke
+8D10B784 || ~z~Smash, CJ, smash! We gotta catch him before he reaches the Front Yard set!
+8DF70FA9 || ~z~Head over to Ballas' hood, and put some work in.
+8E79ACAA || ~s~Get to Ballas territory and take out some tough ~r~gang members~s~ to earn respect.
+940B86C5 || ~z~OK, I've busted in, c'mon!
+972AB610 || ~z~OK, CJ, come on over!
+99F13E22 || ~z~C'mon, CJ, we gotta get in position before the funeral starts.
+9A7F9D21 || If your gang becomes disbanded, you can re-recruit them by holding ~k~~PED_LOCK_TARGET~ to target them and use ~k~~GROUP_CONTROL_FWD~ and ~k~~GROUP_CONTROL_BWD~.
+9C72BAB4 || ~z~C'mon, let's bail back to Ganton!
+9E9CFA3B || ~z~Too late, man, the funeral's over.
+A1B79873 || ~z~Hey, where to?
+A2393B70 || ~r~Kane's~s~ making a dash for that vehicle! Get him!
+A63DE447 || ~z~Kane's headed for that Ballas car!
+ABC75CA0 || ~z~Yeah, so if there's a hint of trouble, he's a no-show.
+AE44D836 || ~z~Get me alongside!
+B75FE977 || ~z~Aw fuck! He outran us, FUCK!
+B8ACA932 || ~z~There they go - get out and bring them along.
+BB220A31 || ~s~Kill ~r~Kane~s~, don't let him get away!
+BC4FCE28 || ~s~Get yourself and those gang members back in the ~b~car~s~ quickly.
+BD2F2DA4 || ~z~Everybody go home, stay low, we ain't seen each other all day, copy?
+BF26D506 || ~z~C'mon, we'll take that car over there!
+C058D9E1 || ~z~Aw, shit, he done made it to the pizzad.
+C1383A6D || Holding ~k~~GROUP_CONTROL_FWD~ or ~k~~GROUP_CONTROL_BWD~ for a few seconds or moving too far away from them will disband your group.
+C2512143 || ~z~CJ. you fool, Kane won't show now!
+C5DB5D77 || ~z~These two boys been watching Front Yard Ballas set things up.
+CA281D32 || ~z~I'll catch you later, Carl.
+CB48FEBE || ~r~You've wrecked Sweet's car and the job hasn't been done!
+CF4C2189 || ~z~Get that ride for us, CJ!
+CFAB99A4 || ~z~There they are, go get 'em!
+D53E0BE6 || ~r~Too late! Kane's in his own neighborhood! It's not safe to continue the pursuit!
+D6B0A8E5 || ~z~Just along the block up there by the bridge.
+D943E8A0 || ~z~Keep it steady!
+DCC06C36 || ~z~Kane? Ain't that cat front yard royalty?
+E02D8686 || ~z~Carl, you stay put while we hop over the wall and check it out.
+E3184D00 || ~z~A'ight, nigga. Let's roll.
+E97C7280 || ~z~OK, CJ, you take Kane, and we'll take the rest of these fools out.
+E99BCAAD || ~z~We missed the damn funeral!
+EA1569AE || ~s~Get those ~b~gang members~s~ to join you. They respect you enough to provide help.
+EB758A22 || ~z~Nobody messes with GROVE STREET!
+ED78ADB7 || The higher the respect you have with a gang the more members you can recruit to your group.
+EEF60EB4 || ~z~We'll go around back of Los Sepulcros and sneak over the wall.
+F06743C1 || ~z~Here he comes...
+F26EBB63 || ~z~I'll get us a getaway car, you guys take out the rest of those Ballas!
+F4639CF6 || ~s~Kane's dead, get Sweet back ~y~home~s~ safely!
+F7ED3FF5 || ~z~What the fuck you doing, CJ?
+FA037C41 || ~z~Peep this - Tenpenny just came by.
+FAF03F3F || ~z~Bad news travels fast.
+FD6EB858 || ~z~At a funeral?
+FD9DFB26 || ~z~But I warned you about putting time in for the homies.
+FE135825 || ~s~You've earned enough respect. Join Sweet back at his ~b~car~s~ now.

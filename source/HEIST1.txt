@@ -1,0 +1,106 @@
+359B72C || ~z~I'm very sorry sir, I can't make it any clearer.
+4347335 || ~z~Can I help you sir?
+5E8BF95 || ~z~OK sir. Are you aware that reproduction of such plans is prohibited?
+BA7271B || ~z~Oh, I thought I had. This window here must let some light in.
+C094D76 || ~s~You can't photo the casino blueprints with the guard around! You need to divert his attention.
+CCAE302 || ~z~Couldn't we have done this in my office?
+1104E3E3 || ~z~No, I didn't know that, why?
+12BC165A || ~z~Speaking of plans, do you have the layout to Caligula's Casino?
+13885D5A || ~z~What's your beef, man?
+14E59943 || ~z~Oh my God!
+15D149C0 || ~s~Okay! They're busy with the evacuation just now. Get upstairs and photograph those ~y~blueprints~s~ pinned to the wall.
+17639447 || ~z~Does sir understand?
+1A3E1171 || ~z~I'm going straight to the cops!
+1ED5D86C || ~z~No, I'm just a dumb ghetto kid, I don't understand shit.
+20F40999 || ~z~Alert me if you change your mind.
+23B7C77A || ~z~I'm sorry, sir, cameras are prohibited in this area.
+2A018B51 || ~z~That includes you, sir!
+2D6C4F48 || ~z~This is security, don't make me shoot!
+39EF38D8 || ~z~I will buzz open the door. It's directly by the main entrance...
+3A29B020 || ~z~No thank you.
+3BF8A950 || ~z~Seeing as you're walking away, sir I take it you don't want to talk anymore.
+3C4EC784 || ~z~Come to me if you change your mind.
+44001900 || ~z~I'd like to see the architectural plans for Caligula's Casino, please.
+44E62A5F || ~s~The cops can't shut the bottom doors due to the fire! Use your weapons if you need to.
+4CFF99C6 || ~z~Well, we don't want to be party to preparation of a daring raid on the count room!
+4D235566 || ~z~I'm rather busy sir.
+4EE8084E || ~z~Very witty sir.
+53DD33F5 || ~z~Put that weapon away sir! This is a public building!
+54B0F7EC || ~z~You are not allowed to make any copies of plans, sir!
+57F3390F || ~z~Alert me when you've thought it over.
+5A6B7FDE || ~z~I have a visual on the suspect, get to my position!
+5A90DF07 || ~r~That's just great! We should have distracted the guard before taking any photographs!
+60FC714C || ~z~Oh, of course, the owners wouldn't want to take a gamble on that happening!
+61EB5177 || ~z~Get this film developed for Woozie.
+62D6E2D5 || ~z~Meeting adjourned.
+63E2A9D5 || ~z~Hey, My dad bought me that!
+648F6DCC || ~z~Watch the van you crazy man!
+65BB26CC || ~z~I guess we got to make a plan.
+6D3921E7 || ~z~We'll see what the cops have to say!
+6F2D4AC3 || ~z~Yeah, I'm only after some reference.
+72A891A7 || Move close to the receptionist and press ~k~~PED_LOCK_TARGET~ to restart conversation.
+745E87BA || ~z~You'll find the plans on the top floor.
+7B0E7DE0 || ~s~There's a ~y~document depository~s~ downstairs. Head down to see if you can cause a distraction
+7BCD4817 || ~s~The ~y~stairwell~s~ is now accessible. Climb up to get to the location of the blueprints.
+7BCDD394 || ~z~No.
+7CA0178D || ~z~You could at least turn the lights on.
+82039048 || ~s~Take the camera film to the back entrance of the ~y~Four Dragons Casino~s~.
+833740CB || ~z~Why are you persecuting us?
+845A84D2 || ~z~The cops won't let you get away with this!
+8A810CE0 || ~z~He's trying to run us off the road!
+8BB547E0 || ~z~OK, OK, I see where you're coming from.
+8BB5DC63 || ~s~Great! You've photographed the casino blueprints! Get out of the ~y~building~s~ before you're caught.
+8CD883F9 || ~z~Shit. No. I guess I gotta go get one.
+926DD8D5 || ~s~Security's strict in the ~y~planning department~s~. Don't start trouble!
+92AE76A1 || ~z~Woozie?
+92AEED22 || ~s~There are ~r~tourists~s~ on that ship. Identify one with a camera and take it by force.
+92D76624 || ~z~Yeah, I'm only after some reference.
+95C3B2B8 || ~z~Yeah, this is perfect right here. This is where we're going to plan the heist at.
+9AD09EFC || ~z~I'm building a scale model for my uncle's birthday. He's very keen on blackjack.
+9B18A109 || ~s~Good! Get that ~g~camera~s~ picked up.
+9B8C2A36 || ~z~I'm very sorry sir, I can't make it any clearer.
+9C75FE93 || ~z~You gotta have a secret place to plan shit like this,
+9CB650E7 || ~s~This is a civic building. No visible guns or you'll be ejected from the premises
+9CE1EE2F || ~z~Can I help you sir?
+9D065DAB || ~z~Oh, of course, the owners wouldn't want to take a gamble on that happening!
+9D3D228F || ~z~OK sir. Are you aware that reproduction of such plans is prohibited?
+A32D344A || ~z~Seeing as you're walking away, sir I take it you don't want to talk anymore.
+A443130B || ~z~I'm building a scale model for my uncle's birthday. He's very keen on blackjack.
+A7F54BB9 || ~s~If you need another ~r~camera~s~ or film, head back to the casino area and persuade a tourist to part with theirs!
+AA0915E8 || ~z~Alert me when you've thought it over.
+AD858F6A || ~s~You've got a camera, now head to the ~y~planning department~s~ building.
+AFF622F4 || Press ~k~~CONVERSATION_NO~ to answer NO or ~k~~CONVERSATION_YES~ for YES.
+B308DAEB || ~z~Hey you, stop right there!
+B31224A9 || ~z~Very witty sir.
+B49EBE2B || ~r~You were told that this is a low-profile job and you were showing off your weaponry!
+B9FA35E7 || ~z~I'd like to see the architectural plans for Caligula's Casino, please.
+BABE96C0 || ~z~Everybody out, this is not a drill!
+BDD352D9 || ~z~This is your final warning, sir, put the weapon away!
+C1B4EB63 || ~z~Come to me if you change your mind.
+C40FEA7D || ~z~Where are those damn firemen?
+C415143F || ~z~I will buzz open the door. It's directly by the main entrance...
+C7D39CC7 || ~z~No thank you.
+CAD4624F || ~z~Thank you for your cooperation, sir.
+CDB9A656 || ~z~We have a troublemaker, lock the doors and call the cops!
+D0F27B2F || ~s~Those old ~g~air con units~s~ are decrepit. Destroy them anyway you can.
+D42A04DC || ~z~Well, we don't want to be party to preparation of a daring raid on the count room!
+D5F6C87C || ~z~I'm rather busy sir.
+DA82BFFC || ~s~You need a camera to get a copy of those casino blueprints. Grab one from some ~r~tourists~s~ at the strip.
+DD0E257E || ~z~Alert me if you change your mind.
+E2C4822E || ~z~Anyone else coming?
+E32FF48B || ~z~No, I'm just a dumb ghetto kid, I don't understand shit.
+E57A482F || Move close to the receptionist and press ~k~~PED_ANSWER_PHONE~ to restart conversation.
+E5A94637 || ~z~Oh, Carl.
+E5A9DDB4 || ~s~The ~y~blueprints~s~ you need to photograph are in the far room on the top floor.
+EA99B8A0 || ~z~Does sir understand?
+EB72CE05 || ~z~that's just how it's done!
+EC8B1AA0 || ~z~You'll find the plans on the top floor.
+ECFECF04 || ~z~No, I didn't know that, why?
+F430705D || ~z~You some crazy idiot or something?
+F504A0DE || ~s~Face the blueprints then hold ~k~~PED_LOCK_TARGET~ and press ~k~~PED_FIREWEAPON~ to take a photograph.
+F8E200CD || ~z~You got it, CJ! Good work!
+FAEBF86F || ~z~Hey, my camera!
+FBDF28EC || ~s~That's it! That fire alarm ought to occupy those guards.
+FBDFB36F || ~z~Meeting adjourned?
+FCB27776 || ~z~So, what do we do?
+FD863C76 || ~z~I don't know what he wants!

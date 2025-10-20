@@ -1,0 +1,76 @@
+3E04C7D || ~s~Rockshore East, Las Venturas
+5FA635D || ~s~Bayside Marina, North West San Andreas
+7E010DF || ~s~Highly illegal goods to ~a~
+800DBBA || ~s~Dillimore, East San Andreas
+A560056 || ~s~Creek, Las Venturas
+A617D78 || Deliver by
+C680C07 || ~s~You have ~1~ second to get back in the ~b~cab~s~.
+D3BC44F || ~s~Whitewood Estates, Las Venturas
+15733D46 || ~s~You have ~1~ second to reattach the ~b~trailer~s~ to the cab.
+1FC42950 || ~s~El Corona, Los Santos
+2185DFF9 || ~s~Bone County, North San Andreas
+2B0B9746 || Trucking Complete!
+2EB93645 || ~s~Las Venturas Airport, Las Venturas
+2F0BCBE4 || ~s~Goods must be delivered without damage to ~a~
+30195EA5 || Deliver the goods as quickly as possible. If you are late you'll lose cash.
+32BCDB80 || ~s~Goods must be delivered quickly to ~a~
+37932291 || ~r~Not in cab
+3801B83F || These goods are extremely fragile.
+3F0B2B09 || ~s~Easter Basin, San Fierro
+3F6C7C26 || You are running out of time. Deliver the goods by the deadline to pass this mission.
+40941207 || ~r~Trailer not attached
+471E6E33 || This is a fragile load. Deliver the goods intact or lose cash for damages.
+47F9D61E || ~r~Out of cash
+480C1B9F || ~s~Easter Basin, San Fierro
+486B4CB0 || The next trucking mission will be available when you have access to Las Venturas.
+5682EF6F || ~s~The Sherman Dam, North San Andreas
+59BE06D3 || ~s~Redsands West, Las Venturas
+5B6163C9 || ~s~You've completed your first trucking mission. Return to the depot at any time for more.
+639F5EFB || ~s~Whetstone, South San Andreas
+68C319C6 || ~s~Willowfield, Los Santos
+72FD53CB || ~s~El Quebrados, North West San Andreas
+74E77CEB || ~s~Rockshore East, Las Venturas
+7A3CF4D9 || ~s~Redsands West, Las Venturas
+7D5130C0 || ~s~Starfish Casino, Las Venturas
+7F07EB2C || ~s~Blueberry Acres, Central San Andreas
+86CD78EA || ~s~Ocean Docks, Los Santos
+8D913FD7 || ~s~Whetstone, South San Andreas
+91098A00 || ~s~Red County, East San Andreas
+92FEF212 || Damage
+935F51EC || ~s~Spinybed, Las Venturas
+943295F5 || ~s~Whitewood Estates, Las Venturas
+96644E19 || ~s~Montgomery, East San Andreas
+9CF332E7 || ~s~Tierra Robada, North West San Andreas
+9F26313F || ~s~Goods must be delivered quickly without damage to ~a~
+A0A64334 || These goods are hot and will attract police interest.
+A108E985 || You must deliver these fragile goods quickly and safely.
+A6027AB3 || ~s~Easter Bay Airport, San Fierro
+A6652D9C || The goods are very late. Your cash has been halved again.
+A9100F1F || ~s~You have ~1~ seconds to reattach the ~b~trailer~s~ to the cab.
+A9F7B732 || ~r~Truck destroyed!
+AED6DB45 || ~s~Slightly illegal goods to ~a~
+B56F02E5 || ~s~~1~ trucking missions complete.
+B7B067FF || ~s~LVA Freight depot, Las Venturas
+B88C8E43 || ~s~Bone County, North San Andreas
+C0B75769 || ~s~Randolph Ind. Est., Las Venturas
+C2683273 || ~s~All future missions will be of variable distance, difficulty, and reward.
+C8E67ACC || ~s~Verdant Meadows, North San Andreas
+CF8BBED5 || ~s~Green Palms, North San Andreas
+D1054A25 || ~s~Battery Point, San Fierro
+D1621D0A || The goods are late. Your cash has been halved.
+D34FC6D9 || Cash
+D60FD913 || These goods are very hot and will attract a lot of police interest.
+D7A173A2 || These goods are hot and will attract police interest.
+D8D45121 || The next trucking mission will be available when you have access to San Fierro.
+DE173F89 || ~s~You have ~1~ seconds to get back in the ~b~cab~s~.
+DEF087A4 || ~r~Out of time
+E1637E8F || ~s~Montgomery, East San Andreas
+E335A563 || ~s~Las Venturas Airport Depot, Las Venturas
+E458617A || ~s~Pilgrim, Las Venturas
+E60EBA96 || ~s~Blueberry, Central San Andreas
+E7D241EC || ~s~Extremely fragile goods to ~a~
+F10D98B9 || ~s~Transport goods to different destinations all across San Andreas.
+F1CA487C || ~s~Ocean Docks, Los Santos
+F2397BF7 || Deadline
+FA960F41 || ~s~Angel Pine, South San Andreas
+FAD3F6DB || ~s~Illegal goods to ~a~

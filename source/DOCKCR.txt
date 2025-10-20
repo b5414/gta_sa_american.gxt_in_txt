@@ -1,0 +1,4 @@
+1C395BB5 || ~s~Stop the boats carrying drugs from entering the docks.
+6C53AF3A || Earnings $~1~
+85300A0F || ~s~Use the crane to fling shit at them.
+F2373A99 || Boats Stopped: ~1~

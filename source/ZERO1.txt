@@ -1,0 +1,66 @@
+950A4F || ~z~Now leave, I must prepare for the battles ahead!
+BD4E7D5 || ~z~And they say gang bangers is petty and small minded!
+CB923CC || ~z~Who the fuck is Berkley?
+D880A85 || ~z~Great, kid, don't get cocky!
+13FEFFDD || ~z~CJ, bogies at 12 o'clock!
+14933BC4 || ~z~He's going for my transmitters!
+1BC3C781 || Press ~k~~PED_FIREWEAPON~ to fire the Minigun.
+1CAE0398 || SIGNAL:
+1D2577EF || ~z~you've got to stop those planes, Carl!
+20F9B416 || ~z~Thank God for that!
+2794700F || ~z~A man literally obsessed with revenge.
+2E223C24 || ~z~No. I won the prize in the science fair. First prize, that is.
+30EE9442 || ~s~You must protect the 4 Transmitters from attacking planes. Damage will decrease the Transmitter's Signal.
+37390D65 || ~z~We all know drugs are for losers, and/or sex maniacs.
+38D3AC1E || ~z~They're not toys! They're just smaller!
+39E28557 || ~z~Hey, whattup, Zee?
+3E8F414E || ~z~As usual, the forces of darkness have triumphed over good.
+3FBE6807 || ~z~Berkley's launched a full-scale attack!
+403E3DF3 || ~z~And right now, sex is the last thing on my mind.
+42C99C42 || ~z~Hey, hey, hey! FRIENDLY FIRE! FRIENDLY FIRE!
+47E9A4D4 || ~s~Take out the enemy aircraft before they destroy our Transmitters and immobilize our signal.
+498871D8 || ~z~Life is nothing but misery, briefly interspersed with agony.
+4E5FE8FF || ~r~All the transmitters were destroyed.
+4EE5B5C1 || ~z~Nothing is up, Carl, apart from my blood pressure,
+4FD49C88 || ~z~No problem man, but they only toys.
+50934099 || ~z~Oh, you put hands on him?
+57FE8480 || ~z~Berkley is back!
+59250CB2 || ~z~And now he wanna pop you?
+5BD2AD03 || ~z~Curse you, Berkley, CURSE YOOUUU!
+64F9CF4B || ~z~RC Barons at 9 o'clock high, Carl!
+6A224779 || ~z~Berkley's going for the last transmitter,
+6CC4F717 || ~r~Zero's dead!
+6D4F8360 || ~z~Another transmitters ruined!
+70FFFEC0 || ~z~Ha ha ha ha Berkley!
+77923AD9 || ~z~Never have so few owed so many...
+7CD3D743 || ~z~Hey, what's that bleeping sound?
+8341E24C || ~z~Another blow to our war effort!
+842C2655 || ~z~I thought you said you could shoot, Carl!
+85A75222 || ~s~Zero will try and maintain the Transmitters during the attack.
+8AF7AE67 || ~z~Squadron at 3 o'clock, Carl!
+8D9A6A7E || ~z~If he takes them out, I'll never be able to launch a counter attack!
+92DDB66F || ~z~Yes.
+999C5BF5 || ~z~too little, three.. no that's not it, what is it?
+9EF19FEC || ~z~...Well done, Carl.
+A0EBD4ED || ~z~Why?
+A6B739BD || ~z~This is insanity!
+A78610F4 || ~z~Excuse me, but I never take drugs.
+AE8A01E1 || ENEMY VISIBLE AT 9 AND 12 O'CLOCK!!
+B5DCCC2F || ~z~My humiliation is complete!
+B9F0E5AC || ~z~Just a man I once beat in fair competition.
+BE9D21B5 || ~z~Oh, I know - you knocked his bitch!
+C2DBFCB9 || ~z~NOOOOOOOOOooooooooooo!
+C50F3E78 || You have defeated Berkley's forces!
+C99A1123 || ~z~No, please. I never initiate violence.
+CEF7D53A || ~z~Ooohhh. Berkley.
+D0812062 || ~z~Homie, what you on? Whatever it is, you need to reduce the dosage.
+D1B0092B || ~z~All batteries commence fire!
+D7ECE47B || ~z~and the imminent collapse of my hopes and dreams.
+E5DA86F9 || ~z~That's him! We shall fight to the end!
+E9F6AF7A || ~z~As long as we have opposable thumbs, WE WILL FIGHT YOU!
+EE9B6B63 || ~z~We will fight him on the beaches, well, rooftops...
+F2A062B4 || ~s~Use the minigun to eliminate the enemy threat.
+F446D2DA || ~z~We can't lose another transmitter!
+F5CDA6AD || TIME:
+FA9D5AE8 || ~z~Kamikazes at 6 o'clock!
+FDF09EF1 || ~z~We've lost a transmitter!

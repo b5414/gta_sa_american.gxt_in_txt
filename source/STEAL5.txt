@@ -1,0 +1,44 @@
+1933119D || ~z~You loco idiota!
+1E5ED584 || ~z~Hell, you'll get me killed!
+20F3A100 || ~s~Get back in the ~b~car~s~.
+2945ED2B || Stingers
+2A345A56 || ~z~for being a danger to my sanity!
+2D599E4F || ~z~We gotta find a way to stop her, or slow her down.
+305EDC6A || ~r~You missed the car!
+321E425E || ~z~Hey, CJ, how's it going with that crazy bitch?
+332F6B17 || ~z~You'd have to ram her off the road in order to get a chance
+3442AF0E || ~z~Hey man, where you been?
+35738647 || ~z~Will do. Later, man.
+37331873 || ~r~The stinger car has been destroyed!
+3A99273C || ~z~If she's playing with you,
+403428E5 || ~s~Get the car back to the ~y~garage~s~.
+4274B6D1 || ~z~OK, careful with that puncture repair shit, CJ, it's nasty stuff!
+43459F98 || ~z~I tracked one of the cars on our shopping list,
+44285B81 || ~z~to get her car and you know a wrecked car is no good to us!
+4D9E17AA || ~z~then she probably won't get one-time involved until it turns ugly.
+57F49196 || ~r~The target car has been destroyed!
+592F19A4 || ~s~Burst the tires of the ~r~target car~s~ using stingers.
+5A5EAED9 || ~z~Too bad we can't involve the police,
+5D336AC0 || ~z~Dude, relax!
+5E42DDBD || ~r~You ran out of stingers.
+6959E512 || ~z~Back off, you crazy man!
+803A4027 || ~z~Aye cabron, what the fuck you tryin' to do?
+8757843E || ~z~Fuck you, asshole!
+AA263AAD || ~z~Dude, calm down!
+AB1713E4 || ~z~Popped her!
+AC7AD7FD || ~z~Man, this stuff is disgusting.
+AD4BFEB4 || ~z~I've been following her for hours, but she stops for nothing!
+AE3A49C9 || ~s~Get in the ~b~car~s~.
+B04CBC91 || ~s~Burst the tires of the ~r~target car~s~.
+B450CFF5 || ~z~and bang her crazy bitch ass in jail
+B7217888 || Press ~k~~PED_FIREWEAPON~ to drop a Stinger.
+C026481E || ~s~You only have ~1~ stingers available.
+C357FF63 || ~z~'cuz then they could pop her crazy bitch tires
+C43A3B7A || ~z~You know what, I think I've got an idea...
+C74B8C07 || ~s~You need to be in the ~b~car~s~ modded to use stingers.
+D93D795F || ~s~Get in the ~b~car~s~. This ~b~car~s~ has been modded to use stingers.
+DA4CCE22 || ~z~but the crazy bitch, she drives like the devil!
+DB7DE76B || ~z~Aw shit, all over my clothes!
+DC102372 || ~z~Just about to fix the tires, should be back any minute.
+DD210A3B || ~z~I swear she is playing with me!
+F73D70B1 || ~z~You trying to kill me, asshole?

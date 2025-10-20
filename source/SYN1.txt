@@ -1,0 +1,123 @@
+1DF1DC6 || ~z~These guys look organized.
+3755964 || ~s~Get in ~b~Cesars~s~ car.
+4189D7D || ~s~Got him! Look out for the next target!
+5C04B79 || ~z~OK, I'm coming to meet you.
+65561F2 || ~z~Enjoy the walk, asshole!
+6B2D9DF || ~z~Check the big guy, holmes.
+86951ED || ~z~Ha ha! That's real pimp shit right there.
+9059DB7 || ~k~~PED_SNIPER_ZOOM_IN~ Zoom in~n~~k~~PED_SNIPER_ZOOM_OUT~ Zoom out.
+B486138 || ~z~Where?
+C760752 || ~z~He gave me a tip about a Balla car going San Fierro to score yay.
+F0495F4 || ~z~Shit, Ryder - damned sherm-head fool!
+105AA8DB || ~z~Pope crap!
+13D8240E || ~r~You didn't get the photo!
+17376CC2 || ~z~Well we're not exactly inconspicuous up here.
+18C42C87 || ~z~I'm gonna try and land this thing before it blows!
+19ECE4F0 || ~z~Coolio. We got what we came for anyway.
+1A6E6825 || ~s~Zoom in further.
+1B05C9BB || ~z~We're not exactly inconspicuous, eh.
+1C680DA2 || ~z~Oh yeah, he's keeping real quiet.
+1D03AC3C || ~s~Go and steal a car.
+1F4E50B3 || ~z~Wow! Holmes! I didn't know you could fly!
+206532FB || ~z~Alright, hold up, I'll be there in a minute!
+20828AD6 || ~z~Coolio Man, we got what we came for.
+21AD2F65 || ~z~Who are all these guys?
+26C0EB7C || ~z~This more than a few thugs pushing a product. This is a serious organization.
+2AF24E05 || ~z~Here, I brought a camera.
+2D783231 || ~z~Holmes, this dude's waking up!
+2D9F8A1C || ~z~Just keep her steady and don't crash!
+32C1B733 || ~z~Ryder, little bitch!
+33E97F44 || ~z~Shit, I'm outta here!
+34630370 || ~z~There's somebody sleeping back here, eh.
+35AC732A || ~z~Hey, holmes, check the van!
+397E03BA || ~z~Land this thing!
+3B77FB18 || ~z~Who's this guy, Aztecas? Vagos?
+3C1A3F01 || ~z~Ryder, you sherm-head!
+42AB43BC || ~z~What now? Was that it?
+4409F7FF || ~z~They were headed over Angel Pine way. Follow the road and maybe we can pick them up!
+45C687A5 || ~z~Ryder's getting out of the car!
+4914F735 || ~z~OK, sucker, the game's up!
+4B1D0F97 || ~z~Who's that in the back?
+4C70CB8E || ~z~Someone's coming out of the diner's back door!
+500FC674 || ~z~Eh, Cesar, I'm coming at you, where you at?
+51C7DBEA || ~z~I didn't scope those guys, did you?
+56AA1FF3 || ~z~There's the courier with a fresh load of yay for Ryder and his new friends.
+5785BA40 || ~z~We better split up and get outta here. I'll meet you back at the garage!
+587197C1 || ~z~Hey, who's the gringo?
+5DF57E93 || ~z~I dunno, ese, it looks complicated...
+60305C54 || ~z~Ah shit, I think they peeped us out.
+64DF1498 || ~r~You destroyed the car!
+675D984D || ~z~Get us out of here!
+6B6F3D34 || ~z~Could be just a driver,
+6C02F92D || ~z~Hurry it up, holmes!
+6D6958B3 || ~s~Photograph ~r~his ~s~face!
+6EEBD466 || ~z~We better split up and get outta here. I'll meet you back at the garage!
+71B5E949 || ~z~That's T-Bone Mendez.
+731FADEB || ~s~Get a photo of ~r~his ~s~face!
+747269F2 || ~s~Get up on the ~y~roof~s~.
+76D82D50 || ~z~Cholos from up in the bay - from San Fierro, I think.
+7803A562 || ~z~Oh man, it's true, Ballas rule the Families!
+7B2295B7 || ~z~Hey, who are you?
+7B7137C4 || ~z~Shit, we gotta find out who's supplyin' those cats.
+7C1CF3DD || ~z~CJ.
+7C4F51AE || ~z~There!
+7F6E617B || ~z~What's his role in this, he ain't copping?
+80E5B54A || ~z~That was some heavy shit!
+81CD7D3D || ~z~Oh Pope crap!
+820C9801 || ~z~I think he on to us.
+8367399F || ~r~Cesar didn't make it.
+840AFD86 || ~s~Go and pick up ~b~Cesar~s~.
+85615C18 || ~z~Holmes, check the gringo.
+86470109 || ~z~I can't. I'm learning, get in.
+8953F961 || ~z~Besides, what's he going to do, huh, throw stones at us?
+8BBAD42A || ~z~And we're sitting ducks!
+91600057 || ~z~Check out the clown!
+921292F1 || ~z~Hey, my cousin just called me.
+952CF49B || ~z~Eh, you see that shit? Look over there!
+957F56E8 || ~z~I picked them up at the Mulholland Intersection and I'm trailing them now.
+960DC44E || ~z~Killed two guys inside, real bad blood with my eses.
+98D64C7C || ~z~Quite a mix meetin' down there.
+9CC91AC3 || ~z~I've got an idea - I'll be there in a minute.
+9D11CCC7 || ~s~Photograph the face of each target, but be quick about it and be sure to zoom in!
+9FBB8865 || ~z~Mac's, Uzi's, rifles - these fools connected.
+A27EAAA2 || ~z~What's he rolling with Ballas for?
+A71A9619 || ~z~No, I'm just fucking pleased to see you!
+AAE02EFE || ~z~Screw you guys!
+ABC8E689 || ~z~Neither, holmes, he's San Fierro Rifa!
+ACA52290 || ~z~That must be the cash...
+AD6A52CA || ~z~Yeah. Leave him, he should be OK.
+B3FB1FBF || ~z~There it is, holmes!
+B471638B || ~z~I've been awake for ages, land this thing!
+B496DBA6 || ~z~CJ! Oh shit, this is even more complicated!
+B67FF6ED || ~z~How many of these clowns are there?
+B8A47EDF || ~z~This guy takes himself real serious!
+BE01A758 || ~z~They spotted me and shot out my ride!
+BFC9BAC6 || ~z~More San Fierro Rifa, by the looks of things.
+C178C67B || ~z~I know a pimp when I see one!
+C376531D || ~z~Dude, he's got a gun, we better land...
+C391EB30 || ~z~Take the stick then, I'll take the photos!
+C8CE8A50 || ~z~They sure keep their security tight!
+C90697CE || ~z~Sitting by the damn road just South of Blueberry!
+CE8CEBFA || ~z~They'll all be long gone by now.
+CFA34E49 || ~z~That's T-Bone Mendez.
+D01DA68F || ~z~I hope that's a gun at the back of my head, and not something else.
+D2145E2D || ~z~That's our Ballas car alright.
+D5799A34 || ~z~This business is bigger than any gang, ese.
+DA6D625C || ~z~Where we goin'?
+DBA21206 || ~z~They're being clever about this. There ain't no exchange or nothin' incriminating.
+E10AF4D8 || ~z~He did time for running black tar out of Mexico.
+E22BC40D || ~z~Uh, a Helmet Inspection Officer.
+E278667E || ~z~Read your mind, holmes,
+E515A267 || ~z~You got it.
+E5460014 || ~z~Ow! Ooomph!
+E66730C1 || ~z~T-Bone's up to something...
+E8BCB8F3 || ~z~They packing serious heat;
+EA16FC51 || ~s~Head out to ~y~Angel Pine~s~.
+EBCE2A55 || ~z~Better make it fast, holmes, these boys aren't hanging around!
+F2666C8E || ~z~A case full of yay each...
+F30DCD10 || ~s~Track down that ~r~Balla car~s~.
+F4600909 || ~s~Get in the ~b~car~s~.
+F50BA897 || ~z~I don't like the look of him though.
+F9390DEE || ~z~I don't like the look of that guy.
+FCBDE4BC || ~z~SHIT he's onto us alright!
+FE54C9F7 || ~z~Oh fuck! OH FUCK!

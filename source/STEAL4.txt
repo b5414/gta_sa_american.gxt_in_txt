@@ -1,0 +1,92 @@
+68C2C06 || ~r~Cesar is history.
+B816C89 || ~z~the ship's loading and it moves out tomorrow.
+CECA890 || ~z~He saw one of the containers was loading up cars
+D3A39F4 || ~z~That was like a piece of tortilla!
+128A1D8D || ~s~Deliver wanted vehicles to the ship.
+129A5DC8 || ~z~Moms, Sweet, Smoke - I just can't let that go.
+13AB7481 || ~z~Don't I always!
+15E7D994 || ~s~Drive to the ~y~docks~w~.
+15F799D1 || ~z~Hey Ces, your boy is here.
+19DBB052 || ~z~Terrific! NOT RECORDED
+219D1603 || ~z~OK, I'll go sort out the crane. Gimme a second.
+26176A37 || ~z~Hey, CJ!
+2ACCBBDC || ~s~Rotate the crane back over the ship.
+2B5D4971 || ~S~Drop the ~g~container~s~.
+2BEDD2D0 || ~z~Not this one either, it must be the last one!
+2DA17FC5 || ~s~Make sure the train doesn't destroy the car you came here to steal.
+32F6E391 || ~z~Stay right there, you thieving bastard!
+33D78A9D || ~s~Take Cesar and the car back to your ~y~garage~s~.
+38619F6F || ~z~Man let's give these cops a run for there money.
+38862742 || ~z~You know, the same way they got on - use a dockside crane!
+390CD77C || Use the magnet shadow to judge where objects will drop.
+3E611365 || Use ~k~~PED_FIREWEAPON~ to release the container when in the correct position.
+3F0C5B76 || ~z~There gotta be an easier way of earning a living then this.
+44D0BA0B || ~s~You've left Cesar behind!!
+45F1D307 || ~z~Hey, hold it right there!
+496623F3 || Use ~k~~PED_JUMPING~ to raise the rope.
+4F66AFF9 || ~z~Yeah, I feel you.
+4F8117D4 || ~z~Man, those things are real high up - I ain't too good with ladders and I'm afraid of heights!
+567D9EB8 || ~z~Who's driving? Me or you?
+569A2695 || ~z~Be quick, I don't want to be caught sleeping out here!
+5B37BDFE || ~s~Place the ~g~container~s~ in ~y~position~s~.
+5B609E72 || ~z~CJ, I could do with some help!
+5C5A79E7 || ~s~Move the container into ~y~position~s~ by rotating the crane.
+5CEAE246 || ~z~No luck, CJ, try another!
+62E0E902 || ~s~You've left ~b~Cesar~s~ behind.
+62F0A947 || ~z~Must have got a crimp in it, damn!
+658D2D1B || ~s~Check the wanted board at the Easter Basin Docks for vehicles wanted for exporting.
+659D6D5E || ~z~Yeah, I know, but I just can't get it out of the back of my mind.
+68902DD1 || ~s~Get in the ~y~crane~s~.
+6956FCF0 || ~z~Let's just grab the car and go!
+6EDC80C4 || ~z~We'll just have to try one at a time, eh!
+704DCDB1 || ~z~CJ, that train's gonna hit the car!
+718B1C90 || ~r~The car you were supposed to steal is history.
+7BEB9806 || ~z~who handles freight containers down on the docks.
+7C865C1F || ~z~but it might be too late,
+82254059 || ~z~I know. So what we going to do about Sweet?
+8235001C || ~s~Vehicles are also imported on certain days.
+8AA2253B || ~z~C'mon, ese, you can drive!
+8B834C37 || ~r~The car inside the container has been destroyed!!
+8B930C72 || ~z~He ain't my boy.
+8CEE882E || ~r~You've lost the container with the car in it!
+8CFEC86B || ~z~Yeah I got it, it's in the manifold.
+92883D33 || ~z~and one was a match for a car on a customer's wish list.
+9433684E || ~z~Hey, holmes, that was fun, we should do that again!
+95E5F92A || ~z~OK, but be careful. We ain't trying to lose you again.
+98E8B9A5 || ~s~Get in the car with ~b~Cesar~s~.
+9B3E7118 || ~z~OK, let's go peep it out - see what we can see.
+A00586C6 || Press ~k~~GO_LEFT~ and ~k~~GO_RIGHT~ to rotate the crane.
+A18F76F8 || ~z~How we going to steal a car off a container ship, holmes?
+A368970C || ~s~Wait for Cesar!
+A6050ACC || ~z~Sure, holmes, I guess.
+A9B3CAED || Press the ~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~ to switch camera views.
+B539DCD2 || ~s~Pick up the other ~g~container~s~ with the crane.
+B56EFF5E || ~z~I could do with a little help, CJ!
+B89447B9 || ~z~That's the ship, CJ!
+BE73739E || Use ~k~~PED_SPRINT~ to lower the magnet.~N~Use ~k~~PED_JUMPING~ to raise the magnet.
+BEC8AAE9 || ~z~Hey, Carl, I gotta rap to you, holmes.
+BF1E3B8D || ~z~We get paid on the condition of the car, holmes!
+C23EEC44 || ~s~Move the ~g~container~s~ off the ship by rotating the crane.
+C269CFC8 || ~z~Give me a hand with these guys, CJ!
+C3AF1EE9 || Cesar
+C553285D || ~s~Pick up a ~g~container~s~ with the crane.
+C5E3B3FC || ~z~Not this one, CJ!
+C8190B1B || ~z~Be more careful!
+D06F7249 || Use ~k~~PED_SPRINT~ to lower the rope.
+D1023A5A || ~z~but what else are you qualified for?
+D1E58277 || ~z~OK, I'll use the crane, you better be ready to crack the container.
+D46FA79A || ~s~Get in the car with Cesar.
+D702B650 || Push movement controls in the direction you want the crane to travel.
+DCF882BD || ~z~Hey! What the fuck do you think you're doing?
+DEB4FA7B || Press ~k~~VEHICLE_ENTER_EXIT~ to exit the crane.
+E2E2C9BC || ~z~I know a guy who knows a guy
+E58F0DA5 || ~z~So, he marked the container with a spray can,
+E9449C0B || ~z~CJ, The car's on the tracks!
+EC39418E || ~z~That's right, sis - good looking out.
+EECEE03F || ~z~OK, CJ, this is the one, good work, holmes!
+F05FAD4A || ~z~Let's just get the car and get out of here!
+F52270CF || ~z~It's a shitty situation but I've got to let it play out a little longer, OK?
+F7D5D17E || ~z~Cesar! none of these is marked with spray paint!
+FBF9F8FD || ~z~Shit, I just changed that seal!
+FC847CA1 || ~s~Car exports and imports have been unlocked.
+FC943CE4 || ~z~Hey, we're almost living a normal life, huh. This is far from Grove Street, right?

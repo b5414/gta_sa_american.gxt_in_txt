@@ -1,0 +1,52 @@
+2C0051 || Navigate
+1EE6A66 || Penalty Damage:
+3A8D43F || Get 70% or higher to pass.
+4C51026 || You have completed the Bike School.~n~~w~Motorbike Skill +
+683AE7F || ------------------------------
+B2AD20C || ~k~~PED_SPRINT~
+10382334 || ~z~Welcome to the Advanced Motorcycle School
+23C08582 || Jump & Stoppie
+24AD419B || The 180
+29362993 || Lap 1 Time: ~1~.~1~ seconds
+2E5BED8A || Lap 3 Time: ~1~.~1~ seconds
+53AA710D || The Wheelie
+595CDD1C || Lap 2 Time: ~1~.0~1~ seconds
+5E311905 || BRONZE
+71849EE9 || ~1~%
+73C220B0 || Exit
+74AFE4A9 || ~s~Press ~k~~VEHICLE_ACCELERATE~ to continue.
+751C4AC6 || Lap 5 Time: ~1~.0~1~ seconds
+76E95AF0 || Final Position:
+772B30C7 || ~k~~VEHICLE_ENTER_EXIT~ View television
+7C2DE29A || ~k~~VEHICLE_ENTER_EXIT~
+8931728E || ~z~To pass you must score BRONZE or higher in all 6 tests.
+947A0DB7 || Results
+963CB3EE || NEW HIGH SCORE!
+9B122BEA || Lap 4 Time: ~1~.0~1~ seconds
+9DCC419C || NO AWARD
+9E4895F2 || Exit
+B03F7829 || GOLD
+B752BC30 || Lap 1 Time: ~1~.0~1~ seconds
+BAC9D438 || Jump & Stop
+BDA41021 || The 360
+BEE4F01B || Lap 3 Time: ~1~.0~1~ seconds
+C0558CA6 || Lap 2 Time: ~1~.~1~ seconds
+C73848BF || SILVER
+C9E3C08D || Lap 4 Time: ~1~.~1~ seconds
+CDCEE4AE || The Stoppie
+E13B8378 || NEW CERTIFICATE AWARDED!
+E2497739 || ~<~~>~
+E37D3D21 || NEW TEST AVAILABLE!
+E88DCF53 || Overall Score:
+E94FA564 || Start
+EACB710A || Continue
+EC151B7C || Lap 5 Time: ~1~.~1~ seconds
+EDA6B513 || Press ~k~~VEHICLE_ENTER_EXIT~ to return to the Bike School.~N~Press ~k~~VEHICLE_ACCELERATE~ to retry.
+EE22617D || ~s~Walk to the ~y~television ~s~to start the lesson.
+EFE00B4A || Final Heading:
+F89AEF07 || ~s~Jump the ramp, land in a stoppie and glide into the designated area.
+FADC515E || ~s~Jump the ramp and stop in the designated area.
+FB1E3B69 || ~s~Do a Stoppie along the coned section. Accelerate to top speed, push ~k~~VEHICLE_STEERUP~, then press ~k~~VEHICLE_BRAKE~.
+FDD5F982 || ~s~Use the bike to do a burnout donut.~N~Press ~k~~VEHICLE_ACCELERATE~ and ~k~~VEHICLE_BRAKE~ to begin the burnout.
+FE512DEC || ~s~Do a Wheelie along the coned section. Accelerate to top speed, then push ~k~~VEHICLE_STEERDOWN~.
+FF9347DB || ~s~To do a 180, accelerate to top speed, press ~k~~VEHICLE_HANDBRAKE~ to slide around the cone and then return.

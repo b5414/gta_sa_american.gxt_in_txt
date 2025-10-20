@@ -1,0 +1,76 @@
+5D053E || ~z~Bike in the road ... watch out!
+39B8DC6 || ~z~Hey, you gonna become an alien hunter, holmes?
+4F649DF || ~z~He just sees everything from a different perspective, that's all.
+730C127 || ~z~Hello. Cops, back again you idiotas?
+9EB4915 || ~z~Hello cops, what took you, eh?
+E613521 || ~z~Uh-oh, more cops!
+E868D0C || ~z~C'mon, CJ, see if you can keep up with Cesar Vialpando!
+1336F0AC || ~z~That's good, she's always been the brains in the family.
+1A80BC87 || ~z~Yeah, I know what you mean.
+1DED789E || ~z~Where?
+25ABDECF || ~z~Y- yeah, that sounds like a good idea!
+2AF64031 || Press ~k~~PED_FIREWEAPON~ to trigger a nitro.
+2D9B8428 || ~r~Cesar was killed.
+309CC60D || ~z~I've always admired your direct approach, hombre.
+326B67BC || ~z~Aw great! Why is nothing ever easy?
+3CB0EF8E || ~z~This is it, CJ!
+456C572A || ~z~Second floor? Shit!
+479BF69B || ~z~let's go get 'em!
+4BB7DF18 || ~z~Here we go, holmes.
+4CDA1B01 || ~z~They're in the second floor showroom.
+52ACEE59 || ~z~Yeah, you can help us by going to help some other motherfucker.
+55C12A40 || ~z~Aw, you a maniac, ese!
+5A9CB4BE || ~r~You lost Cesar!
+5DF170A7 || ~s~Stay close to ~b~Cesar~s~ as you return to the garage.
+609A8CDB || ~z~before I end up in a carwreck barbeque?
+6431C03A || ~z~She should get out the ghetto and make something of herself.
+6436ADFE || ~z~Fuck, holmes, did you see that?
+6AEA4808 || ~z~San Fierro, man.
+6D878C11 || ~z~Kendl seems to like it too, you know?
+7037F1B1 || ~z~OK, CJ, hey, I know a quick route!
+73F17949 || ~z~At first I thought he was just another acid casualty fruit cake.
+749CBD50 || ~z~I'll take a rain check on that one.
+775A35A8 || ~z~Follow me down the hill, holmes!
+796605B7 || ~z~BACK UP, HOLMES, BACK UP! BACK UP!
+7981BD9A || ~z~Yeah, reading you loud and clear!
+7E0BC1AE || ~z~Sure thing, holmes.
+7EEC7983 || ~z~This tram driver must be shitting himself, holmes!
+8389ED3D || ~z~but this city, it has something gentle about it.
+84E42924 || ~z~I like this place, you know.
+8A38CCD2 || ~z~Get out of the fucking road!
+8D52650F || ~z~Yeah, she's the moms of the family now...
+9005A082 || ~z~There's a shortcut this way!
+90E218AF || ~z~Beat the tram up the hill!
+9768649B || ~z~See you back at the garage, CJ!
+99545484 || ~z~Hey, CJ, watch this ... NITRO!
+9A92DC7C || ~z~I don't know, man, it ain't all bullshit....
+9DFF1865 || ~z~Hey, who's this 'Truth' guy, holmes? I don't think he's wrapped too tight!
+9E39909D || ~z~OK, Cesar, that's enough fun.
+A2D47A2D || ~z~The cars are upstairs!
+A99597B7 || ~z~Hey Carl, there's two cars on the list, ese,
+AAE420CA || ~s~You have left ~b~Cesar~s~ behind.
+AB623606 || ~z~What? How we gonna get 'em down?
+AFC97AE7 || ~z~OK, let's go get those wheels!
+B492D592 || ~s~Follow ~b~Cesar~s~ into the alleyway.
+BBCF4B6C || ~z~Alright, CJ, it's time to roll!
+BD2499B9 || ~r~The target car was destroyed.
+C395E504 || ~s~Drive back to the ~y~garage~s~.
+C4F8211D || ~s~Go and get the cars from the ~y~car showroom~s~.
+CA23A92F || ~r~The police recovered one of the cars!
+CBA5BFE3 || ~z~Can I help you two, eerr, gentlemen?
+CCC87BFA || ~z~It's follow the leader, you better keep up!
+D2BE8EA2 || ~z~This is the place!
+D5D34ABB || ~z~The cars are on the second floor.
+DDE3105C || ~s~Get back in the ~b~car~s~.
+DE92A721 || ~z~and they're in the showroom across town,
+E06F540D || ~z~OK, we're good.
+E088EC20 || ~z~Hey, CJ, is this walkie talkie working?
+E7029014 || ~z~I think we lost 'em.
+E7E52839 || ~z~Piece of chocolate cake!
+E93EA00B || ~z~Let's get these cars back to the garage!
+ED95ECEA || ~z~But some of the things he say...
+F48EDDAB || ~z~My home will always be the Varrios and El Corona,
+F993DD61 || ~z~Can we think about getting back
+FA555599 || ~z~I think she's aiming to make something out of ALL of us, eh!
+FD389180 || ~z~Oh yeah, she's really getting her head into this business thing.
+FD3FFC44 || ~z~Holy SHIIIIIIIT!

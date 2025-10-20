@@ -1,0 +1,184 @@
+76E118 || Kohl Bunker
+2D30F49 || Pebbledash
+71B2501 || Lord Lucan
+A1355EC || Chocolate Starfish
+B654362 || Money Shot
+C28C7DB || ~1~/1
+D7E91F5 || Monkeys Thumb
+130864AD || Henrik's Jaw
+131D148A || Love Burglar
+1465A0B4 || Pearl's Necklace
+1470D093 || Piddle in Perspex
+196DD059 || Duthie's Boy
+1978A07E || Dong Johnson
+1E001440 || Funbags
+1E156467 || Jackson's Lad
+206A4762 || YOUR CASH: $~1~
+212B7608 || Bush Bandit
+213E062F || Bronx Cheer
+21D9BE02 || Fish Supper
+2274C847 || ~k~~VEHICLE_ENTER_EXIT~ Exit
+2646B211 || Mr Winky
+2653C236 || Shatner's Bassoon
+26B47A1B || Arthur or Martha
+286FF229 || Scotland's Shite
+2B4EC2FC || Pebble Dasher
+2B5BB2DB || Purple Love
+2C2306E5 || Backdoor Bandit
+2C3676C2 || Cauliflower Arse
+2C991D2B || 3rd
+3174C368 || Biffen's Bridge
+3240839A || Rump Rider
+3255F3BD || Mary Hinge
+352D4783 || Juice Trigger
+353837A4 || Bolt Shooter
+3825376E || Haway the Lads
+38304749 || Dead Wipe
+38C28F43 || Hardly Flanged
+3F48F377 || Tummy Squeaker
+3F5D8350 || 2nd Hand Sock
+3FAF4B5A || Cock Soup
+40CA4DAB || LARGE ACRES
+422A7715 || Cunning Lingus
+423F0732 || Panhandle
+4547B30C || Horse Feathers
+4552C32B || Billy Sastard
+4673F3FE || Tunky Packer
+47F8F208 || PLACE BET
+484FC3E1 || Scotland Nil
+485AB3C6 || Weasel Burglar
+48A87BCC || Flange Spanner
+4F2207F8 || Salt 'n' Sauce
+4F3777DF || Up The Dumper
+4FC5BFD5 || Melancholy Thatch
+51418287 || Lush Gush
+5154F2A0 || Fingers and Tops
+51B34A8D || Bankrupt Rage
+528ED43E || Your Horse:
+562C469E || Monkey Puss
+563936B9 || Wet Cabbage
+56DE8E94 || Spicy Mushroom
+5B243673 || Ginger Witch
+5B314654 || Turbot Tornado
+5C49F26A || Love Truncheon
+5C5C824D || Diddy Ride
+5F68C2BF || Accept the Length
+63629022 || Handy Shandy
+6377E005 || Embryo Enticed
+63C54BDD || Movement Controls Navigate
+640F543B || Flaps Ahoy
+641A241C || Lolly's Fern
+690724D6 || Donner's Kebab
+691254F1 || Ring of Fire
+6E6AE0CF || Neutered Nik
+6E7F90E8 || Reef's Folly
+701C1597 || Reverse Cowgirl
+75D43FDF || Neigh Bother
+7771D18E || Saddam's Madam
+78610BB4 || ~k~~PED_SPRINT~ Select
+7A79A163 || Camel's Toe
+7B0FB7ED || Rocinante
+7C6273F4 || Crack Horse
+7D14657A || Yoghurt Cannon
+806481E3 || That's Bollocks
+8071F1C4 || Hot Pants
+84DABD25 || Wee Crunchie
+870945FA || Wet Circle
+871C35DD || No Wasps
+89D2CDC8 || Run Away Jay
+8A013517 || Vinegar Stroke
+8A144530 || Cheesy Chode
+8D6CF10E || One-eyed Warrior
+8D798129 || Watery Passage
+8EAA79F6 || Peking Twister
+90C9FC89 || Tight Brown
+926C12D8 || Skittery Trots
+931A0456 || Gypsy's Cat
+9477C04F || Dr Boogie
+9501D6C1 || Schlong Odds
+997FB0A2 || Pygmies Cocque
+9ADAD318 || 1st
+9AE09785 || WON: $~1~
+9DC18C64 || Slap & Tickle
+9E1274BB || Kinnears' Demise
+A12C66D4 || Jocks Away
+A13916F3 || Priapism Willie
+A1CBDEF9 || Chutney Bunker
+A2FF9E0B || McTagnut & Fries
+A5872A35 || Collar & Cuffs
+A641A2CD || Five Finger Splay
+A654D2EA || Wong's Wang
+A6A61AE0 || Stained Rigid
+A88F5AD8 || Bloated Bag
+AB49D220 || Syphilitic Meat
+AB5CA207 || Love Torpedo
+AC241639 || Pearly Droplets
+AC31661E || Wizard's Sleeve
+AFF7EEE6 || Tagnut
+B1946B99 || Perverted Preacher
+B2479346 || Biffin's Bridge
+B252E361 || Air Biscuit
+B52A575F || Beanflicker
+B53F2778 || Barkers Eggs
+B6ECDFA7 || Chocolate Channel
+B82227B2 || White Hinny
+B8375795 || Love Lips
+B8D0EFB8 || Uphill Gardener
+B9182910 || 2nd
+BBE4AF4A || Shoot Me
+BC9C1B74 || Stool Pigeon
+BED2EDC0 || Movement Controls Navigate
+BF4FE3AB || Filshie's Filly
+BF5A938C || The Angry Captain
+BFBD2BA1 || Smellyama
+C1EBEF31 || Tunnel Tester
+C22D67C9 || Silvery Tear
+C23817EE || Cheesy Hornblower
+C540A3D0 || Mouse's Ear
+C555D3F7 || Gentlemans Relish
+C6935B0F || Tester Turd
+C848D33D || Sarwar's Spray
+C85DA31A || Beef Bandito
+C8BA1B37 || Jockstar
+CB9B2BE2 || Knob Polisher
+CCE39FDC || Reeves' Revenge
+CF251724 || Gary's Gelding
+CF306703 || Sausage Sandwich
+CF8EC860 || Press ~k~~PED_SPRINT~ to continue.
+CFD7DF2E || Bronson
+D146925B || Bishop Basher
+D153E27C || Hairy Dyke
+D1A12A76 || Chunder Munchkin
+D2801AA3 || Dundee Ned
+D5F8AE9D || Dildonut & Burdock
+D62B5642 || New Jock City
+D63E2665 || Les Long
+D6CCEE6F || Holy Colon
+D8F0DE70 || Dead Lemon
+DB2326AF || Facial Lancer
+DB365688 || Clown's Pocket
+DBB38D7E || ~k~~VEHICLE_ENTER_EXIT~ Back
+DC4EE2B6 || Venereal Dodger
+DC5B9291 || Spam Javelin
+DC6AD7D5 || ~1~th
+DF886A4E || Sterilized Steed
+E206E657 || Little Bishop
+E370F0D9 || Split Kipper
+E41D34C0 || Fairy Hammok
+E56B224E || Buckmelad
+E7CECC1F || Loose Pink
+E915442D || Cocoa Shunter
+EA04236F || STAKE: $~1~
+EAC6BCF2 || Ochayethenoo
+EE788034 || Jauques Yerlot
+F00E756C || Axe Wound
+F01B054B || Falkirk Boy
+F3DD8DB3 || Mackem Delight
+F763B175 || Cryptorchid
+F776C152 || Pillow Biter
+F9AD4960 || Kelly's Boy
+FA6BC198 || Brown Eyed Girl
+FA7EB1BF || Duck My Sick
+FD060581 || Knuckle Shuffle
+FD1375A6 || Barnton Bellbanger
+FED5FD5E || Chunky Colt

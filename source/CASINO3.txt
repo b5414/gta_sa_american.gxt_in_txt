@@ -1,0 +1,44 @@
+2BB6C54 || ~s~Heads up! It's the minimum wage crew! Get safely away from the factory to complete the job!
+42320D8 || ~z~Get the boys ready! Production line's gotta keep rolling!
+1D381199 || ~z~counterfeit chips
+29529E4B || ~z~Yeah, I'm going for a five card hand! Come on...
+29963F97 || ~s~Excellent! Those machines are outta commission!
+2E3F5A52 || ~z~Not good, man. You got, eerr, forty-seven.
+2F0E731B || ~z~Hey, watch the car, I just got this baby detailed!
+3049AF0A || ~z~No. I just took a guess.
+362AB7EF || ~s~They're expecting visitors now! Get into the ~y~factory~s~ quickly!
+37246B13 || ~z~Insolent bastards!
+40235B85 || ~z~I'll make sure the cashiers are extra vigilant.
+474E9F9C || ~z~Why else would he come in with two chips and sound so worried?
+4FF60F4B || ~s~Head towards the ~y~factory unit~s~ on the outskirts of town. You're going to disturb their operation.
+5809438D || ~z~We better go warn the boss.
+59386AC4 || ~z~Damn. You're bad luck for me.
+59FCCB18 || ~w~Stay away! I'll make ya eat your fucking shoes!
+5E55AEDD || ~z~OK, here.
+5E910F01 || ~s~I don't know who that guy thinks he is but his card is gonna get marked if he sees too much!
+6A3F210F || ~z~Tell Woozie, we'll be getting no more trouble with them.
+7324104E || ~z~Someone's got a fucking deathwish if they're starting trouble 'round here!
+75BC5CC2 || ~s~Great work, the job's done! Get back to ~y~Woozie's casino~s~ in one piece!
+826DAD73 || ~z~Man, look, don't trip. I got you on this.
+9A47B57B || ~z~Hey, who's this prick?
+A695AA7E || ~s~Destroy every one of those injection molding ~g~machines~s~ now!
+A79B7682 || ~z~The Sindacco Family owns a plastics factory across town.
+A940FEB0 || ~z~That's amazing. You didn't even touch them.
+AE2D3AA9 || ~z~Oh yeah. The dragon on this got the sunglasses and a white stick.
+B05BCFF1 || ~z~Are you sure, man?
+B16AE6B8 || ~z~What? He must be a fed! Let's give him a proper Sindacco welcome!
+B7360BE8 || ~z~How would I know? You tell me.
+BE8047C3 || ~z~Boss, take a look at these two chips!
+C0313B7E || ~z~I'm gonna stick. What you got?
+C1001237 || ~z~Hey, who's this character? He looks like a cop to me.
+C75CFF67 || ~z~Hit me!
+C9877755 || ~z~You know, when I play the other guys I always win!
+D09C4614 || ~z~It's obvious where these chips are coming from!
+D6FF5EF1 || ~s~Those mobsters have some guards watching the main goods entrance. Try and get into the ~y~factory~s~ unnoticed.
+D92A0A3F || ~z~You take a look.
+DE47CE26 || ~z~One's a fake.
+EA2D41F4 || ~z~Hey, what's going on?
+ECB50D78 || ~r~What the fuck? I said no rough stuff! The mafia are gonna be on red alert now! Dumbass!
+ED4085ED || ~z~Somebody take care of this joker!
+F33670B5 || ~z~Hey, Carl, how'd it go?
+F56A9DE5 || ~z~I'm gonna blow it to shit!

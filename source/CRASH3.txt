@@ -1,0 +1,60 @@
+91A7ED2 || ~s~The meeting is taking place in the ~r~office ~s~at the back.
+1A718B40 || To roll you must be crouched and have a gun equipped, then press and hold ~k~~PED_LOCK_TARGET~ and use ~k~~GO_LEFT~ and ~k~~GO_RIGHT~ to roll.
+1BA0B78A || ~z~Dumb bastards?
+1CCD7393 || ~z~Y'all take care, now!
+20209923 || ~z~I like having all you bastards doing my job for me -
+231552A5 || ~z~Hey, hey, maybe we can talk about this!
+247896BC || ~z~Got to get away from this crazy Americansky!
+2996D508 || ~z~Carl, I'm hurt, I truly am.
+2EFB1111 || ~z~Carl!
+308DE449 || ~z~I'm saying the Ballas have brains, Carl, they watch the news.
+32566C9C || ~s~The meeting is taking place in the ~y~office ~s~at the back.
+353BA885 || ~s~The Russians and the Ballas are having a meeting inside the warehouse.
+37E02050 || ~z~Now, if it's brought to my attention
+393BA862 || ~z~Man, cut that bullshit, Tenpenny - just say what you mean, man.
+3A0E63E4 || ~z~Hey, who the fuck are you?
+40E710C6 || ~z~blowing each other's guts all over the sidewalk.
+423C9813 || ~s~You will have to find some way inside.
+45515C0A || The door is locked. Damaging the keypad might get it open.
+478AD4DF || ~z~So what you saying, man?
+4E3C98F4 || ~z~Lots of cheap guns coming into America since the fall of the wall, Carl.
+537FA62A || ~z~Doing business in America is dangerous!
+5727A9B5 || ~z~I like the status quo, Carl.
+59FC2187 || ~z~Where you running off to, Carl, I thought we were friends!
+5E62A6E0 || ~z~Hey, who the fuck are you?
+5E91E59E || ~z~Yeah right.
+6511CB37 || ~z~Shit!
+6BCA4305 || ~z~Go check out a busy freight warehouse down the docklands and you'll see what I mean, Carl.
+6C54C462 || ~z~He's after the guns!
+6CA7871C || ~z~Yeah, whatever.
+6D76BBD6 || ~s~Take out the ~r~Russian arms dealer~s~ inside the office!
+754FF523 || ~z~Big mistake, my friend!
+79708A5D || ~s~Take out the ~r~gang members~s~ involved in the meeting!
+7E1D4E44 || Strafing allows you to look around corners and position yourself more effectively in gun fights.
+82A9E630 || ~z~Yeah, OK.
+8378DAFA || Rolling is useful in gun fights as it allows you to dodge gunfire and surprise enemies. You can roll left or right.
+84151EE3 || ~r~He got away!
+85C42229 || ~z~Damn!
+90132F68 || If you press ~k~~PED_LOCK_TARGET~ while armed with a gun you can strafe.
+977EEB71 || ~s~The ~r~Russian Mafia Boss ~s~is getting away chase him down!
+A307325E || ~z~You don't want to be nosing around here!
+A984B5F3 || ~z~I'm saying they're making friends, cutting deals,
+AC32F93F || ~s~Go to the ~y~docks ~w~where the Ballas and the Russians are making a deal.
+AEE971EA || ~z~that one tribe gets an unfair advantage over another,
+B06CC7CC || ~z~I think you are trespassing, my friend!
+B09F84B2 || ~z~And just as I was about to help those poor Grove Street boys.
+B7F240AB || ~z~As an officer in charge of putting an end to gang violence,
+BA1C031F || ~z~Stop, we could do business!
+C0F5703D || ~z~I find myself in a difficult moral position, Carl.
+C76BF75A || ~z~Go on, get out of here!
+C798B424 || ~z~Oh yeah? How?
+CD1B3389 || ~z~Fuck you, Americansky! I'm gone!
+D40002C8 || ~z~You're putting your nose where it's not wanted!
+D9EE417C || ~z~that truly troubles me, Carl.
+DE838565 || ~z~and tooling up for more than half-assed drive-by's.
+E079DBE7 || ~r~He got away!
+E7141FFE || When strafing you can manually aim and shoot by using the camera movement controls.
+F2C312BF || ~z~Where you off to?
+F3122E75 || ~s~He has got in a ~r~car~s~! Chase him down and take him out!
+F55D95D8 || ~z~Wrong, I'm after you!
+F5AED6A6 || ~z~For sure.

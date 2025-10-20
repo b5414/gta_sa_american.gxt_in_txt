@@ -1,0 +1,58 @@
+C02444 || FUEL ~1~
+626942A || ~z~Don't let him get away, punish him for his war crimes!
+9234664 || ~z~Fight or die Carl, it's the only choice we have.
+1220A5A1 || ~z~smells like... victory!
+17009D37 || Press ~k~~VEHICLE_FIREWEAPON_ALT~ to fire Machine Guns.
+18506172 || ~z~Just one more and Berkley's mail order department is finished!
+1961483B || ~z~That went right up my crack...
+1F3DA56B || ~z~One down, four to go!
+2016C723 || ~z~You're battery's nearly flat, hurry up!
+20F1AD26 || ~r~The plane was destroyed!
+225B3BAC || ~s~Destroy the~r~ couriers ~s~before they complete their deliveries.
+258CA28B || ~z~I am a 28 year old man,
+282BFF7F || ~s~Destroy as many of Berkley's delivery vans within the time limit as possible!
+2947E10D || Press ~k~~PED_FIREWEAPON~ to self-destruct
+2B572AB9 || ~z~Hey, Zee, where you at?
+2C3AEEA0 || ~z~Man, them some pretty strong drawers!
+2D0BC7E9 || ~z~Launch the Red Baron!
+2F463B66 || ~s~Fly back to ~y~Zero's roof.
+324C1BF8 || ~z~from which I had been hanging from my underwear,
+3521DFE1 || ~z~Uhh... I've got a prototype of a miniature plane.
+3C9793CA || ~z~OK, cool!
+4226EF77 || ~z~Well with that plane, we gonna go humiliate Berkley.
+454B2B6E || ~z~contemplating my inadequacy, for nearly two hours.
+496702ED || ~z~Well done, Carl!
+4B90A35C || ~z~Man, this is ridiculous.
+507C33AC || ~z~Watch your fuel, Carl, only half a tank left!
+528B921D || ~z~whose landlord just helped him down from a hook,
+592D1582 || Press ~k~~VEHICLE_ACCELERATE~ to increase throttle. Press ~k~~VEHICLE_BRAKE~ to decrease throttle.
+5B3DDE36 || ~z~Yes, my hero. Carl, he came back and humiliated me!
+5C501A2F || ~z~Go away, Carl. I'm very, very, busy back here. Top secret stuff. Not for your eyes. Too sensitive...
+5D613366 || ~z~Bring his mail order model business to its knees!
+5E40D19B || TIME ~1~
+5F2CCFE9 || ~s~Destroy as many of Berkley's delivery vans as possible.
+624A512E || ~z~Smell it! You know that two-stroke smell,
+6F5751E4 || ~z~Only two left now, Carl - HUNT THEM DOWN!
+8634F4D1 || ~z~That's two Berkley, TWO!
+8C443002 || ~z~smells like... victory!
+9F2FC590 || ~z~He's armed his lieutenants, be careful, Carl!
+A76963C1 || ~z~Now get her back home in one piece, before her battery runs flat!
+AB454A42 || ~z~What kind of weapons you got?
+AC288E5B || ~z~Ow! Ooh, my crack...
+B04EB0B7 || ~s~Line up RC Baron behind the ~r~courier~s~.
+B25E7B03 || ~z~I said go away, Carl. I don't need any friends today, thank you.
+B4029653 || ~z~Berkley has his sycophantic lackeys do all his deliveries.
+B533BF1A || ~z~where I will be found dead, and broken.
+B64F6ADC || ~r~You ran out of fuel!
+B72374AE || Use ~k~~VEHICLE_STEERDOWN~ and ~k~~VEHICLE_STEERUP~ to change the plane's altitude.
+BE725280 || ~z~Watch your battery, Carl. Only half the charge is left!
+C0244438 || Press ~k~~VEHICLE_LOOKLEFT~ to turn left and ~k~~VEHICLE_LOOKRIGHT~ to turn right using the rudder.
+C1485A4A || Score ~1~
+C2348F8C || ~z~I shall probably turn to prostitution now,
+C305A6C5 || ~z~Well, we shall hit him where it hurts the most!
+C5594B95 || ~z~Come on, homie, where are you?
+C9756216 || ~z~You're nearly out of fuel, hurry up!
+D06E5357 || ~z~Now get her back home in one piece, before she runs out of fuel!
+DC427AD4 || ~z~Look, you gotta get even, homie.
+F133C447 || ~z~Ha ha, only three delivery boys left!
+FB430094 || ~z~The smell, you know that ozone smell,

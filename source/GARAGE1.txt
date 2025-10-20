@@ -1,0 +1,175 @@
+36920F4 || ~z~You know, car mods, lowriders, all that shit.
+38E98D9 || ~z~Do you know what a sub-dermal neurophone is?
+404E4ED || ~z~Yeah, that was, like, so far gone, man.
+919E427 || ~z~Da Nang Boys, Shining Razors, Butterfly Children.
+9FE5C0A || ~z~He's got his own shop,
+BAC1900 || ~z~They're good people, I swear it.
+CC1DD19 || ~z~Both of you.
+D03B72E || ~z~Hey, Cesar! Come over here.
+E939813 || ~z~Where to next, Spacehead?
+1002D566 || ~z~I met them at the '89 Fierro Love-in, apparently.
+176F117F || ~z~a quart of mescaline vodka, polar bears...
+1788A952 || ~z~OK, you know the drill.
+183FED3A || Press ~k~~VEHICLE_HORN~ to sound car horn.
+189C513A || ~z~I'll do that.
+1A7211B5 || ~z~Ooh, don't look.
+1D1FD5AC || ~z~Sshhh!
+1FF19523 || ~z~Carl here is opening a garage around the corner.
+20814AC3 || ~z~Oh, that's a great idea, sis! Why don't you shut up?
+214320F4 || ~z~and when it does, we are gonna have money.
+22D30FC9 || ~z~Now, what if I told you we never went to the moon,
+25BECBD0 || ~z~Look, what's goin' on, Truth?
+262EE4ED || ~z~Or better yet, you turn the property into a business.
+27EC8EDA || ~z~I mean look, we in a strange place, we got shit to our name,
+28447337 || ~z~Can we swing by the hospital, it's over in Santa Flora district, west of here.
+28A3CB1A || ~z~Like, listen to the man, dude, he's real serious about that shit.
+2D644BA1 || ~r~The car's destroyed!
+315F4276 || ~z~Oh man, do I owe you?
+31B8FA5B || ~z~Jethro's in, how about you?
+347F7AE0 || ~r~Truth's dead!
+35F40E97 || ~z~Last I heard, he was working at a garage over North Esplanade way.
+380EB670 || ~z~The garage is on the waste grounds in Doherty.
+385811B5 || ~z~Hey Carl, look - I think I found a way for us to get paid.
+399A7B82 || ~z~Well, I'm sorry I'm fucking up your vibe, old man,
+3B2F86A5 || ~z~'til the mob bought their business over in Vice.
+3BC83E88 || ~z~Get in, I'll fill you in as we drive.
+3C4242BC || ~z~We'll pick up Jethro first.
+3CA5FA91 || ~z~Blow the horn.
+3EF7BF9B || ~z~I must be the biggest fucking idiot in the whole fucking world!
+3F35D5AC || ~z~- Hey man.~n~- Dude.
+4135B6F9 || ~z~Hop in, man. I've landed you a real job.
+41D20ED4 || ~z~Dude, Dwaine, man, how's the hot dog business?
+43784A76 || ~r~Zero's dead!
+465872E0 || ~z~Hey there Truth dude!
+46BFCACD || ~z~Ah yeah, cool man.
+4832E53A || ~z~Cesar, this is Jethro, Dwaine and Zero.
+49F08F0D || ~z~Gave me this shithole instead of a pink slip?
+4B45722A || ~z~Last I heard, he was working at a garage over Easter Basin way.
+4C28B633 || ~z~Now they try and make ends meet by taking any old job.
+4CCF0E1E || ~z~Oh, hey, Truth.
+4E9D4B14 || ~z~You're really killing my fucking vibe here!
+4F5F2123 || ~z~Horale, let's get to work.
+50EBBE4C || ~z~My bad, man. I'm just pissed for all of us.
+5129D47B || ~z~Look, you buy a dump like this, fix it up and sell it.
+55D43F5F || ~z~Listen to Jethro.
+56441062 || ~z~Look, Carl, this place is gonna get on its feet,
+57867A55 || ~z~Then make it into a garage.
+58C93F95 || ~z~OK, next stop the cop station downtown.
+5C627374 || ~z~was because snake-headed aliens run the oil business?
+5F4343A1 || ~z~Wassup man.
+5FA4FB8C || ~z~Wuh? OK, but you're starting to freak me out with all that space shit, man.
+606821E9 || ~z~Polar bears?
+63AEA911 || ~z~He's working a hotdog van at the tram terminal in King's.
+662D2D87 || ~z~Grade A, tip-top genius, that's me.
+6705E5F0 || ~z~Apparently?
+67E25DDD || ~z~OK, we're good to go.
+685519B5 || ~s~Get to The Hospital.
+68F6A5B5 || ~z~Sup.
+6A18E53A || ~z~You tripping again.
+6D752123 || ~z~Nothin'.
+6F38DDAC || ~s~Get inside the ~b~car~s~.
+6F9B61AC || ~z~You should drop by the shop sometime, see some of my shit, bro.
+7303D47B || ~z~No, but they've been known to shit in the liquor tent, if I remember it right.
+73E46C56 || ~z~C'mon, dude, what's all that about?
+746E1062 || ~z~I'm opening a garage in Doherty by the waste ground.
+7489A84F || ~z~A what?
+7A0487B8 || ~z~and let me work the property thing, OK?
+7BC6ED8F || ~z~C'mon stop tripping, man.
+7CAB2996 || ~z~I know a few guys. Come with me, friend.
+7E1ED4B1 || ~z~Watch yourself, dude. These cats are real serious.
+7EF96C9C || ~z~He could fix a supercomputer with a paperclip.
+8136BC80 || ~r~You abandoned Jethro!
+81950080 || ~z~I told him you're the man to speak to when it comes to electronics.
+84168416 || ~z~Cover your faces.
+88234CAB || ~z~OK, we here.
+890B84DC || ~z~Hey man, how'd you meet these dudes anyway?
+8CD3BDE2 || ~z~Oh, man - I'm about to ride with this fool again?
+8DA0C83D || ~z~OK, I've seen enough.
+8E6640C5 || ~z~a field of tents, crazy-assed music,
+8E81F8E8 || ~z~Don't look interested in anything.
+9010B59D || ~z~This here's Vietnamese gang territory.
+90F70DB0 || ~z~but he's always ready to help fellow travelers along the path.
+92A548BA || ~z~Woah man, the energy here - it's fantastic.
+9367228D || ~z~Yeah, that's my baby girl right there, holmes!
+940AE694 || ~z~Look, I wouldn't even know where to start.
+95C88CA3 || ~z~Now you've got something, and you don't know what to do with it.
+979AC9A9 || ~z~There's an electronics guy I've had dealings with,
+9A87C963 || ~z~Sometimes it's best to stay in the dark, kid.
+9B130491 || ~z~We got your back, CJ.
+9D0DB557 || ~z~You down?
+9DEA0D7A || ~z~Why?
+A0932A38 || ~z~Holmes, take it easy. At least we're alive.
+A151400F || ~z~Wassup, B?
+A226D71F || ~z~C'mon, man, there's these two guys I know - used to work on marine engines,
+A2C16F32 || ~z~Home, James!
+A4C06771 || ~r~You abandoned the car!
+A54B1306 || ~z~but the smoke don't get in the way of their skills with an engine.
+A5ACAB2B || ~z~Leave me alone Berkley!
+A63C8416 || ~z~Nice place you got here.
+A7FEEE21 || ~z~Motherfucker! That mute asshole!
+A8B1ABE1 || ~z~So uh you tell me where you guys are going to be at and I'll meet you dudes there.
+A8E70C24 || ~z~I ain't going to no college to study no accounting!
+A9256613 || ~z~but I can't wait to get my hands on that mute
+AA1BEF43 || Hey! Get back in the ~b~car.
+AD762B5A || ~r~Jethro's dead!
+AF3BD7D5 || ~z~Coz I swear I paid for that weed, dude!
+AFDC6FF8 || ~z~Uh, my friend Carl here is opening a chop shop.
+B03E5752 || ~z~You know what, Carl, you are a fucking idiot.
+B1FC3D65 || ~z~If you want to make something of yourself,
+B26C1258 || ~z~I think you popped another microdot.
+B620E694 || ~z~Yeah, you sick?
+B6C75EB9 || ~z~If I told you, the likelihood is you'd get a probe up your ass within a month.
+B84A714E || ~z~The snowball gets bigger...
+B9881B79 || ~z~and for once I try to make something work, this garage,
+BBDA5E73 || ~z~JFK lives in Scotland with Janis Joplin,
+BCB79A6A || ~z~Who was them dudes?
+BEE5DF60 || ~z~Hey!
+BF27B557 || ~z~Decorating ain't exactly my thing, either.
+C127D602 || ~z~No. The government is, but that's a long story.
+C1C06E2F || ~z~What? You out your mind! Why?
+C56B22CE || ~z~Good. Keep it that way.
+C64A121B || ~z~Jethro, Carl. Carl, Jethro.
+C6FB0DF3 || ~z~you gotta let your money work for you.
+C73967C4 || ~z~Your whole life you've wanted something for nothing.
+C82085C1 || ~z~No, property development!
+C9E2EFF6 || ~z~My cousin? You're gonna dis my familia?
+CBB0AAFC || ~z~Don't go there, man.
+CCDD6EE5 || ~z~and the only reason we've been in a cold war for the last forty-five years,
+CE8F2BEF || ~z~and it ain't even a garage.
+CF4D41D8 || ~z~I dunno, sis, this all sounds big time to me.
+D0F9DEB7 || ~z~That fucking snake without a tongue!
+D13BB480 || ~z~A week of hard work and we'll transform this place.
+D24C2390 || ~z~They're a little bit dulled by their habit,
+D2AB9BBD || ~z~This is stalking!
+D3C757E7 || ~r~You abandoned The Truth!
+D600D75C || ~z~I'll see y'all later.
+D6567099 || ~z~Salutations, my sibling!
+D7941AAE || ~z~Carl, friend, fellow traveler, relax, man.
+D83CE743 || ~z~No, man, we're good, I think.
+D8DB5F6E || ~z~It's totally shit. Why, what's happenin'?
+DA711BCC || ~r~Dwayne's dead!
+DBFA6FBB || ~z~Last I heard, he was working at a garage over East Esplanade way.
+DE225685 || ~z~and your bitch ass cousin.
+DF51235A || ~z~Hey, Jethro!
+DFB69B77 || ~z~Uh I've got like some shit to take care of first though.
+DFE03CB2 || ~z~No, idiot, property!
+E09DF93F || ~z~goes by the name of ZERO.
+E2CFBC35 || ~z~Well, make it good enough. We'll help, right?
+E30DD602 || ~z~Look, you two concentrate on the garage,
+E460121B || ~z~Man, you chose her, I'm stuck with her!
+E5A2782C || ~z~Yeah, alright, but how am I gonna find some good mechanics to work up in here, man?
+E7F03D26 || ~z~Let's go introduce you to him
+EA0A85C1 || ~z~Do polar bears shit in the woods?
+EAED3DEC || ~z~You don't want to know.
+EC143407 || ~z~Ommmmmm...
+ED6741D8 || ~z~So y'know, like what's the deal, dudes?
+ED80F9F5 || ~z~Exactly.
+F0D73C78 || ~z~Yeah. Go figure. But they were funny guys, man - great sense of humor.
+F1FFF40F || ~z~Carl, Zero, Zero, Carl.
+F311B480 || ~z~Think about a yellow rubber duck.
+F47C7099 || ~z~What we here for, anyway?
+F6318C16 || ~r~You abandoned Dwayne!
+F6923016 || ~z~Actually, I'm the ONLY man to speak to.
+F9617053 || ~z~You know how it is, man,
+F986C87E || ~z~Picture a pink golfball in your mind.
+FAA7F8AB || ~z~Let's go see if we can find Dwaine.

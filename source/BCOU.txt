@@ -1,0 +1,39 @@
+AA6C7E1 || 2 out of 4 runs completed
+DCB03F8 || 6 out of 4 runs completed
+2BFB50F1 || Items Spare
+32E061B0 || ~r~Out of time!
+358DA5A9 || ~s~You've got ~1~ seconds to get back on the ~b~bike~s~ or this run's over!
+380D531F || ~s~Get those items thrown through the ~y~dropoff coronas~s~ quickly!
+3F1AD957 || Los Santos
+3F609706 || ~s~Payment $~1~
+45E75126 || Press ~k~~TOGGLE_SUBMISSIONS~ to end delivery run.
+481DE9C1 || San Fierro
+4867A790 || ~s~All items delivered! Head back to your ~y~pick up point~s~ to collect your payment.
+4F702DD8 || Hold ~k~~VEHICLE_LOOKLEFT~ or ~k~~VEHICLE_LOOKRIGHT~ and press ~k~~PED_FIREWEAPON~ to launch an item to the left or right. Drive over the last unsuccessfully thrown item to reclaim it.
+5CFC6067 || Time Left
+77D133A4 || Good job! Let's work out your cut of the profits!
+7ACC336E || 7 out of 4 runs completed
+7DA1F777 || 3 out of 4 runs completed
+93AF965B || 1 out of 4 runs completed
+94C25242 || 5 out of 4 runs completed
+9704DABA || LA Biker
+99DF5288 || ~s~Launch a package and get it through the ~y~dropoff marker~s~ to register a successful delivery.
+9D741E69 || ~y~Los Santos Courier complete!
+A61388ED || Las Venturas
+A669C6BC || ~s~Drive the bike around town and launch items through the ~y~dropoff coronas~s~ before time runs out.
+AC84F413 || Time
+AFDF8A97 || items onboard
+B2F2014B || SF Biker
+B59FC552 || Total Cash
+C5F531DD || Payment:
+D114B87B || Items Held
+D16EF62A || ~s~Item Delivered! Get to another ~y~dropoff corona~s~ and deliver another item.
+D8D8BA01 || Hold ~k~~VEHICLE_LOOKLEFT~ or ~k~~VEHICLE_LOOKRIGHT~ and press ~k~~PED_FIREWEAPON~ to launch an item to the left or right. Drive over the last unsuccessfully thrown item to reclaim it.
+DB83C485 || ~r~Delivery run over.
+DCEE009C || Get on bike:
+E003EA2C || LV Biker
+E3C562D4 || 4 out of 4 runs completed
+E4A8A6CD || 0 out of 4 runs completed
+EA732EFF || ~y~San Fierro Courier complete!
+EED8621E || ~r~You don't have enough items available to fulfill the delivery quota of this run!
+FDB3978C || ~y~Las Venturas Courier complete!

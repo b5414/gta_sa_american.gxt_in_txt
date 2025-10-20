@@ -1,0 +1,54 @@
+80E4F5 || ~z~I feel it harder, Than anybody in the world could do, Just like a...
+2E43838 || Perform the stealth kill by moving slowly towards the guard while holding ~k~~PED_LOCK_TARGET~ and then pressing ~k~~PED_FIREWEAPON~ when your arm is raised.
+589FC21 || ~s~There are lots of shadows in this area to hide in. Hiding in shadows makes it difficult for a ~r~guard ~s~to spot you.
+7ED20EC || ~z~Hey, dude - you ever thought about
+894FCEB || If the white blip on the radar that represents your position turns blue it indicates that you are in the shadows and are hidden from patrolling guards.
+926F0E7 || ~z~Hey, I'll catch you later.
+E5B6CC7 || ~z~How about if I get somebody to write something for me,
+10A26349 || ~s~The ~y~main door ~s~is around the back of the mansion.
+17405D86 || ~z~Damn - my shit was whack!
+199BD5B4 || ~z~What?
+1EF611AD || ~z~Madd Dogg's rhyme book?
+30D25ABA || ~s~You need to take the rhyme book back to OG Loc. He is at ~y~Burger Shot~s~.
+37BF9EA3 || ~s~To use the skateboard pick it up and select it from the weapons inventory items. Press ~k~~PED_ANSWER_PHONE~ whilst over it to pick it up if your inventory is full.
+3B109265 || ~z~He moves like his bowels have let go...
+3E09D288 || To use the skateboard, select the it from your weapons inventory. Use the movement controls to steer the skateboard. Tapping ~k~~PED_SPRINT~ helps you pick up speed and ~k~~PED_JUMPING~ makes you jump.
+45B1B6E1 || ~z~C'mon, man. I'm hot, Like fire, All nighter, All righter, When I kick it, I feel I hit it...
+46676620 || ~z~Peace, homie!
+490EE21E || ~r~Madd Dogg's personal security ~s~are patrolling the mansion. Do not use any guns on your way to the rhyme book - you will alert them. Use stealth to steal the rhyme book.
+4C17A2F3 || ~z~Yeah, look how this Tanner guy runs!
+5015D35F || ~s~Use the skills you have learned to get past any ~r~guards ~s~on patrol and ~y~exit ~s~the mansion so you can get the rhyme book back to OG Loc.
+60476D10 || ~z~Hey hey hey, it's OG Loc, homie, and I'm gonna kick it a little something like this...
+60C897C6 || ~s~The patrolling ~r~guards ~s~are shown on the radar by the red blips which point in the direction the security guards are facing.
+673AF130 || ~z~Tanner, you suck ass!
+67A553DF || ~s~The ~g~rhyme book ~s~is in Madd Dogg's recording studio.
+69F1213B || ~z~Madd Dogg's rhyme book! From his home in the hills!
+6E9CE522 || ~z~only they didn't know about it?
+70EA107A || ~z~Hey, Carl - what up, man?
+728ECCB7 || ~s~A ~r~guard ~s~is coming.
+75E308AE || Press ~k~~PED_FIREWEAPON~ to perform the stealth kill.
+7787D463 || ~z~Hey yo, when I come through up in the place, You don't want me to call with a gun in your face...
+795C5C51 || ~z~Shit, I ain't in the rap game, you know, that ain't my thing. But we'll have to think about something. Man.
+7B38809C || ~s~If you walk straight past the ~r~guard ~s~here he will see you. Try crouching and walking past the bar to remain out of his line of sight.
+7E21C071 || ~z~Holmes, you ice cold, dude!
+7F93CC7D || ~y~Exit ~s~the mansion and get the rhyme book back to OG loc. It's safe to use your weapons now, although it may be less risky if you use stealth to get past any ~r~guards ~s~on patrol.
+8092840E || ~z~I think I just might have found a ghost writer.
+8770BAC1 || If you crouch while you move you will make less noise. Crouch and then target the ~r~guard.
+87FF4017 || ~z~Man, you said you'd help, Carl.
+89AB32F3 || ~s~Go to ~y~Madd Dogg's mansion~s~.
+8EC6F6EA || ~s~The first ~r~guard ~s~cannot see you. This means you can sneak up behind him with a melee weapon and perform a ~h~stealth kill~s~.
+9989B54F || ~z~Yo! That shit sucks! Damn!
+9BED6982 || ~s~A ~r~guard ~s~is patrolling the swimming pool area. Observing his route will allow you to work out how to get past him undetected.
+9EE47156 || ~z~getting a writer to help you out with this shit?
+A9DB0B00 || The ~r~guards ~w~are using silenced guns. If you manage to obtain one it will allow you to fire a gun without being heard by nearby guards.
+D51EF349 || ~z~Oh man, this sucks!
+D9B1FF8F || To stay hidden you have to stay crouched and walk past the bar.
+DEDC3B96 || Using the camera movement controls you can rotate the camera, this is for looking around corners and spotting enemies.
+E72891CB || ~z~Hey Loc, I got what you wanted.
+E9E341C0 || ~z~Yeah, I did. But who, homie, who?
+EB879D0D || ~s~Find a suitable place to hide before he spots you. Look for an area with shadows.
+EE8E85D9 || ~z~Hey, what's happening, Loc?
+F0F87081 || ~z~Hey hey heyeyeyey. I'll do anything, homie. I swear that. OK?
+F795B498 || ~z~I'll become the reciter, all nighter, all righter!
+F9C1C67C || ~r~Madd Dogg's personal security ~s~are patrolling the mansion. You do not have any powerful weapons, stealth is your best option here.
+FE33A08A || ~z~This sucks. I mean, how could Refractions mess up so bad?

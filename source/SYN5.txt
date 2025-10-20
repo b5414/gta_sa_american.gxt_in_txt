@@ -1,0 +1,80 @@
+925965E || ~z~CJ, what happened? You just let them get cut to pieces!
+9C22E73 || ~z~Sure thing, see you back at the garage!
+B686AD1 || ~s~Clear the roof so that the Triads can proceed.
+C05AEC8 || ~s~Find and kill ~r~T-Bone~s~!
+EAFEA6A || ~z~'Sup Cesar.
+103EA71F || ~z~That's it, CJ, keep icing those Rifa!
+12735B90 || ~s~Kill ~r~Ryder~s~. You can do a drive-by on his boat.
+17B4DB2B || ~z~Hey, that's my pinche boat!
+2208C59D || ~z~Let's head on over and see what we can see.
+22EF7DB0 || ~z~You sold us out Ryder. You fucked with us all!
+2582B9A9 || ~z~Hey Ryder, sherm-head asshole,
+2878014E || ~z~Take 'em out, CJ, they're right in the thick of it!
+287F6C8A || ~z~Man, my busting was tight!
+3163300F || ~z~So, what's up with Jizzy?
+32A5B8F7 || ~z~Tear gas! They're taking off!
+35C87CEE || ~z~Chopper inbound!
+360EF416 || ~z~Eh.
+3B13F4DC || ~z~We should be able to see everything from up here.
+3C7E30C5 || ~z~CJ, you head down when you're ready,
+3FB8B83D || ~z~Look, down by the side entrance.
+4109C480 || ~z~They've got men on the roofs watching over the pier.
+42CF4C78 || ~z~That's gotta be Toreno.
+45A28861 || ~z~Head down, we'll cover you!
+46640099 || ~z~Nice job getting that phone message.
+48BF88AB || ~z~That was Woozie's boys, they're in place.
+4B790053 || ~z~we'll give you cover from up here.
+4C14C44A || ~z~Here comes T-Bone....
+4FD24CB2 || ~z~Mira, we're gonna have to take out T-Bone's men on the rooftops before this whole gig blows wide open!
+55E84D26 || ~z~What you wanna do with him, holmes?
+56CE1037 || ~z~So much for a surprise, c'mon, we gotta take these fools right now!
+5812F5C1 || ~z~They're getting cut to pieces, CJ, shoot those damn Rifas!
+5B33C514 || ~z~Don't worry about it, I got this.
+5C5E010D || ~z~Mendez, I see you, Rifa motherfucker!
+5F7F31D8 || ~z~Shit they walked right into it!
+67399789 || ~z~Just a few more, holmes...
+7B029E5E || ~s~Jump into the water and swim after ~r~Ryder~s~.
+7C6F5A47 || ~s~Walk into the ~y~doorway~s~ to access the roof.
+7E22A6C8 || ~z~We can't do this without Woozie's boys, man...
+7EC51EE5 || ~z~Listen, you better clear out. The cops gonna be all over the spot in a minute.
+8937F6A5 || ~z~Oh yeah, One down...
+8B7A0A2A || ~s~Get in the ~b~boat~s~.
+8E5A32BC || ~z~Hey, there's still some on the left, CJ...
+8EBD8A91 || ~z~Oh my God, my boat!
+902CC7E4 || ~z~Oh, man, you just let them get wiped out!
+92613B6B || ~s~Go upstairs and meet ~b~Cesar~s~.
+950CFF72 || ~r~The Triad Leader has been killed!
+97A6BBD0 || ~z~You OK, holmes, we been watching from the pier with binoculars!
+9CBAB359 || ~r~Ryder has escaped!
+A1DC2D9E || ~z~Shit, they headin' up to the roof!
+A21AA566 || ~z~Nice shooting, CJ.
+A577617F || ~z~Look at that fool, hanging out with the Ballas like they was life long pals.
+A6B1E987 || ~z~OK, yeah, yeah, yeah, I see you.
+ABACE94D || ~z~Too late, man, he's tripping out!
+AF07A5AC || ~z~Dead. So, what's the plan?
+B1763D30 || ~z~Hold up, something ain't right. Where's Toreno at?
+B2506021 || ~z~Yeah, I'll be back for you, Johnson!
+B61C94ED || ~z~One of those Triad boys is down!
+BB019427 || ~z~Nice one, CJ!
+BBE62C0A || ~z~I'm a motherfucking genius!
+BC8BE813 || ~z~where do you think you're going?
+C11BA47B || ~z~Hey, that's one more Mountain Cloud Boy down!
+C55750B7 || ~z~He's headed for those boats!
+C6710DA6 || ~z~Smoke grenades!
+C6766062 || ~z~Take the shot, CJ, they'll be up there any moment!
+CB8CD885 || ~z~C... Can't stop me...
+CCE11C9C || ~z~Aauuuauuughhhh...!
+D27051E9 || ~z~And here's that snake Ryder.
+D6DB1D08 || ~z~Shit!
+D800953A || ~z~T-Bone's security got here real early.
+DBC61DC2 || ~z~Something ain't right. Where's Toreno?
+DCABD9DB || ~z~Oh shit, he'll see the bodies on the rooftops!
+DF6D5123 || ~z~Hey man.
+E046336B || ~z~You can break the news to Woozie, holmes.
+E0A18B46 || ~z~Yeah, I'm good, I think.
+E20BCFE4 || ~r~Cesar has been killed!
+EBBD83CF || ~s~Kill ~r~Ryder~s~.
+F44002E0 || ~z~Hey, holmes, I'm up here. Go around the back!
+F95D022A || ~z~Some more to the right..
+F9BABA07 || ~z~Stop, you pinche bastard!
+FC7D3ABC || ~s~You have left ~b~Cesar~s~ behind.

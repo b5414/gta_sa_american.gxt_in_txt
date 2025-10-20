@@ -1,0 +1,30 @@
+10BAB9BC || Shoot ~1~ pedestrians in ~1~ minutes.
+17D77DA5 || Bikes ~1~
+25E11F27 || Shoot ~1~ pedestrians in ~1~ minute.
+2F91DBF4 || Peds ~1~
+31E72EAC || Bike limit
+46E01E3A || Ped limit
+52E62FB1 || Destroy ~1~ vehicles in ~1~ minute
+558BEBA8 || Level passed
+5896EB62 || Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select select an option.~N~~k~~PED_SPRINT~ Select~N~~k~~VEHICLE_ENTER_EXIT~ Quit Press ~k~~PED_LOOKBEHIND~ to start the challenge mode.
+5FFB2F7B || Kill ~1~ pedestrians in ~1~ minutes.
+67BD892A || ~r~Player one was killed
+8005A42D || ~r~Both players are dead!
+84AEE8CC || Peds
+89B3E806 || LEVEL ~1~
+8A7560FE || Yes
+8EDE2C1F || Cars ~1~
+A158333D || Car limit
+B1F54E57 || ~1~
+B6988A4E || ~1~ mins
+B843027C || Destroy ~1~ bikes in ~1~ minutes.
+BB858A84 || Kill ~1~ peds in ~1~ minute and ~1~ seconds.
+BCE84E9D || Destroy ~1~ bikes in ~1~ minute.
+C19FBAD8 || ~1~ min
+CBEF7E0B || Kill ~1~ pedestrians in ~1~ minute.
+CC82BA12 || Destroy ~1~ vehicles in ~1~ minutes
+D65F03AB || Time limit
+E0C22DC8 || ~r~You didn't get enough kills in time!
+F3A9D85A || ~1~
+F70294BB || ~r~Player two was killed
+FD725068 || No

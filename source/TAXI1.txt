@@ -1,0 +1,139 @@
+20F7DAE || ~s~DESTINATION ~y~County General Hospital.
+45D8287 || ~s~DESTINATION ~y~24Hrs Men's club.
+562B9B7 || ~s~DESTINATION ~y~Market Station.
+940824D || ~s~DESTINATION ~y~Redsands West fire station.
+E2D4654 || ~s~DESTINATION ~y~Golf clubhouse.
+10985BFC || ~s~DESTINATION ~y~Pier 69.
+1284507F || ~s~DESTINATION ~y~The Pik 'n' Go market.
+15E99466 || ~s~DESTINATION ~y~Glen Park.
+17F59FE5 || ~s~DESTINATION ~y~The bridge.
+18C00717 || ~s~DESTINATION ~y~Clown's Pocket Casino.
+1B144CEF || ~s~DESTINATION ~y~Burger Shot.
+1FADC30E || ~s~DESTINATION ~y~VRock Casino.
+1FFFE029 || ~s~Oops! You better find another ~b~passenger~s~.
+226DD18E || ~s~DESTINATION ~y~24/7.
+22B29BAB || ~s~DESTINATION ~y~The Sherman Dam.
+25001597 || ~s~DESTINATION ~y~Estate agents.
+27430248 || ~s~You have ~1~ second to get back in the ~r~taxi~s~.
+29222E6D || ~s~DESTINATION ~y~Reece's Barber Shop.
+2B35276A || Taxi mission over
+2E4FEA74 || ~s~DESTINATION ~y~The Airport.
+2F204664 || ~s~You have ~1~ second to get into any ~r~taxi~s~.
+324B5226 || ~s~DESTINATION ~y~Cathedral.
+3526963F || ~s~DESTINATION ~y~Mall.
+3B76E0CF || ~s~DESTINATION ~y~Come-a-lot Casino.
+3BB5083F || ~s~DESTINATION ~y~Missionary Hill viewpoint.
+3C1B24D6 || ~s~DESTINATION ~y~Pirates in Men's Pants Casino.
+3CD8CC26 || ~s~DESTINATION ~y~Airport.
+4221A6A9 || ~s~DESTINATION ~y~Skyscraper in King's.
+454C62B0 || ~s~DESTINATION ~y~Country Club.
+4B1C1440 || ~s~DESTINATION ~y~Caligula's Casino.
+4BDFFCB0 || ~s~DESTINATION ~y~Easter Basin Docks.
+4C71D059 || ~s~DESTINATION ~y~Camel's Toe Casino.
+4CB238A9 || ~s~DESTINATION ~y~Central Hashbury.
+52072501 || ~s~DESTINATION ~y~The courthouse.
+5398FC9F || ~r~You're out of time!
+556AE118 || ~s~DESTINATION ~y~Ammu-Nation.
+55B5AB3D || ~s~DESTINATION ~y~Desert Airfield.
+5948DAE2 || ~s~DESTINATION ~y~Unity Station.
+5E251EFB || ~s~DESTINATION ~y~The Well Stacked Pizza Co.
+60F2AF73 || ~s~DESTINATION ~y~Church.
+62EEA4F0 || ~s~DESTINATION ~y~The Stadium.
+634AAC97 || The tip bar decreases with time and damage.
+658360E9 || ~s~DESTINATION ~y~Jefferson Motel.
+679F6B6A || ~s~DESTINATION ~y~Tuff Nut Donuts.
+68AAF398 || ~s~DESTINATION ~y~Police station.
+69C06779 || ~s~DESTINATION ~y~The Smokin' Beef Grill.
+6AEAC790 || ~r~Not in taxi!
+6C137C79 || ~s~DESTINATION ~y~Burger Shot.
+6FC73781 || ~s~DESTINATION ~y~The shopping mall.
+7183F846 || FARES
+72658921 || ~s~DESTINATION ~y~The Donut Shop.
+735AB211 || ~s~DESTINATION ~y~Tiki Hotel.
+75084D38 || ~s~DESTINATION ~y~Skate Park.
+792A76C2 || ~s~DESTINATION ~y~Military fuel depot.
+7E47B2DB || ~s~DESTINATION ~y~The Steakhouse.
+821D1D55 || ~s~DESTINATION ~y~Santa Maria Beach.
+823B4DEE || ~s~DESTINATION ~y~Leon Diamonds.
+84E4A6BC || ~r~Taxi destroyed!
+8570D94C || ~s~DESTINATION ~y~The Legal Cinema.
+86A492B4 || ~s~DESTINATION ~y~The Starfish Casino.
+87D60DC2 || ~s~There are no fares nearby. Keep looking.
+89910A46 || ~s~DESTINATION ~y~Top of the twisty path.
+8B8D01C5 || ~s~DESTINATION ~y~Sculpture Park.
+8EFCCE5F || ~s~DESTINATION ~y~Chinatown Gates.
+8F12DE9F || ~s~DESTINATION ~y~Blackfield Chapel.
+9049D3F7 || ~s~DESTINATION ~y~Yellow Bell train station.
+9107F510 || All taxis have Nitro.
+95DDA426 || ~s~DESTINATION ~y~The Country Club.
+972417EE || ~s~DESTINATION ~y~Greenglass College.
+97D29548 || TIME
+99FF9FDC || ~s~DESTINATION ~y~Hotel.
+9A391724 || ~s~DESTINATION ~y~Sex shop.
+9B032FAD || Fare complete!
+9B062C14 || ~s~DESTINATION ~y~The police station.
+9C6BE80D || ~s~DESTINATION ~y~Ammu-Nation.
+9D54D33D || ~s~DESTINATION ~y~Church.
+A27FB175 || ~s~DESTINATION ~y~Royal Casino.
+A2BC5985 || ~s~DESTINATION ~y~Vank Hoff in the Park Hotel.
+A2F44FB7 || ~s~DESTINATION ~y~Library.
+A512756C || ~s~DESTINATION ~y~Visage Casino.
+A5D19D9C || ~s~DESTINATION ~y~Downtown skyscraper.
+AB42039C || ~s~DESTINATION ~y~Cranberry Station.
+ABC9FD5E || ~s~DESTINATION ~y~Pink Swan Casino.
+AC67D1B7 || ~s~DESTINATION ~y~Under Gant Bridge.
+B02B7FD7 || ~s~DESTINATION ~y~Mama's Cinema.
+B2D2CC1F || ~s~DESTINATION ~y~Chinese Mall.
+B62917DE || ~s~You have ~1~ seconds to get into any ~r~taxi~s~.
+B746BBCE || ~s~DESTINATION ~y~The tattoo shop.
+BB648034 || ~s~DESTINATION ~y~Freemont St. Casino.
+BBBBCA11 || ~s~DESTINATION ~y~The Big Spread Ranch.
+BC09442D || ~s~DESTINATION ~y~Art Gallery.
+BCD60E08 || ~s~DESTINATION ~y~Lil' Probe Inn.
+BDB7C588 || ~1~ IN A ROW bonus! $~1~
+BE4A53F2 || ~s~You have ~1~ seconds to get back in the ~r~taxi~s~.
+BEF0F7E5 || ~s~DESTINATION ~y~The Airport.
+C0418B58 || ~s~DESTINATION ~y~The truck park.
+C5D5FC89 || ~s~DESTINATION ~y~Burger Shot.
+C72C4F41 || ~s~DESTINATION ~y~A 24 hour motel.
+C9F7C773 || ~s~DESTINATION ~y~The Observatory.
+CB0E74BB || ~s~DESTINATION ~y~Bank.
+CB729F29 || ~r~Your car is trashed. It needs to be repaired.
+CBD13E9E || ~s~DESTINATION ~y~Shooting Range.
+CC63B0A2 || ~s~DESTINATION ~y~Topless Girls of Bush County.
+D21545FA || ~s~DESTINATION ~y~Tourist Information.
+D2D6AD0A || ~s~DESTINATION ~y~Easter Basin Naval Station.
+D4D77229 || ~r~Your passenger wants to escape!
+D54636E7 || $~1~
+D57881E3 || ~s~DESTINATION ~y~High Roller Casino.
+D5BB6913 || ~s~DESTINATION ~y~Biffin Bridge Hotel.
+D5F37F21 || ~s~DESTINATION ~y~City Hall.
+DB28F713 || ~s~DESTINATION ~y~Downtown skyscraper.
+DB60E121 || ~s~DESTINATION ~y~Downtown Square.
+DC45330A || ~s~DESTINATION ~y~Stadium.
+DCCECDC8 || ~s~DESTINATION ~y~The Four Dragons Casino.
+DD2044C9 || SPEED BONUS!
+DDDBAFAE || TIP
+E0232778 || ~s~DESTINATION ~y~Las Venturas Airport.
+E2DA94B0 || ~s~DESTINATION ~y~Brown Starfish bar and grill.
+E74EE361 || ~s~DESTINATION ~y~Baseball stadium.
+E86BEDA6 || Taxi Missions Complete!
+EA53E3AB || ~s~DESTINATION ~y~Hospital.
+EB6CD89B || ~s~DESTINATION ~y~All Saints General Hospital.
+EC011C82 || ~s~DESTINATION ~y~Pershing Square.
+ED3E27B2 || ~s~DESTINATION ~y~Linden Station.
+EEF8AF4A || ~s~DESTINATION ~y~Souvenir Shop.
+F0C936C3 || ~s~DESTINATION ~y~Art-Deco Cafe.
+F1A3A222 || ~s~DESTINATION ~y~The Emerald Isle.
+F3E3962A || ~r~Out of time!
+F469EA1E || Stop near a highlighted pedestrian to pick them up then drive them to their destination before the time runs out.
+F4F2AAC3 || ~s~Look for a ~b~fare~s~.
+F51A2DC3 || ~s~DESTINATION ~y~Pro Laps store.
+F53C7D78 || ~s~DESTINATION ~y~Ten Green Bottles.
+F6CE663B || ~s~DESTINATION ~y~The oil refinery.
+F815EE09 || ~s~DESTINATION ~y~Blackfield Stadium.
+F9FBFEC9 || ~s~DESTINATION ~y~The Well Stacked Pizza Co.
+FBE7F54A || ~s~DESTINATION ~y~Liquor Mart.
+FC8A3153 || ~s~DESTINATION ~y~Church.
+FE963AD0 || ~s~DESTINATION ~y~Burger Shot.
+FEBD9134 || ~r~Your car is trashed. Get it repaired.

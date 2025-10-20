@@ -1,0 +1,107 @@
+781D03 || ~z~And yo' moms. And yo' dad!
+87C5D24 || ~r~You alerted the other drivers with your bad driving.
+9CE5128 || ~z~Ah, so I've heard!
+EA39531 || ~z~You want a record contract?
+F11993D || ~s~Press ~k~~VEHICLE_ENTER_EXIT~ to bail out now!
+10D56069 || ~z~Who the fuck are you?
+11676C65 || ~s~Go and meet up with the other ~y~drivers~s~ before 10pm. Don't damage your car!
+1303B0A8 || ~z~That's what I'm talking about, man. Down, with a frown, on the town, a sad clown.
+146E74B1 || ~z~Well, I didn't mean date him.
+1C43C029 || ~z~Said he was headed over to the Music Awards!
+2135D22A || ~z~Loc, is he available for coh-myoo-nee-kay-shun?
+22E302EB || ~z~Hey, what kept you?
+23510EE7 || ~s~Get back in the ~b~car~s~ and get on with the mission.
+243CCAFE || ~r~You killed one of the other drivers!
+25697EDF || ~z~Hey, where's he off to?
+258EC6F2 || ~z~Stick close and let's roll!
+26581633 || ~z~So, he's out back cleaning the fryer.
+36E53360 || ~z~Today we're taking the scenic route,
+382EE36B || ~z~Man, I'm an artiste! I'd rather be inside!
+3A4A3FA6 || ~r~You were too slow!
+3BF833AA || ~z~Hey, watch what you're doing!
+3D27FBBF || ~r~You strayed too far and alerted the other drivers!
+3F432772 || ~z~Heavy? Man, he's five foot three.
+41E203F6 || ~z~via the bottom of the ocean!
+468FC7EF || ~z~Hey, man.
+484417E4 || ~z~But that fool strong. Man, we gotta take him out. He done blackballed me, man.
+4A20CB29 || ~s~Keep in the middle of the two cars until you reach the awards ceremony.
+4B92C725 || ~z~Keep your mind on the job!
+4D4D0F30 || ~s~Go and steal his ~r~car~s~ and meet the other drivers before 10pm.
+4F29D3FD || ~z~Man, I can't get a deal for nothing. Motherfuckers always wanna keep a nigga down.
+515F26A5 || ~z~Hey, what up, Loc?
+5289F664 || ~z~Hold up here for a second until the cops let us through.
+533BFA68 || ~r~You killed a cop and alerted the other drivers!
+54563E71 || ~r~You left the car and alerted the other drivers!
+5632E2BC || ~z~Who? Loc? Oh you mean Jeffrey!
+5F94F6AE || ~z~Security team, the Principle is being kidnapped!
+60BF94E6 || ~z~I can't fucking swim, you fucking psycho!
+63694427 || ~z~Listen, he's gonna be attending some awards ceremony,
+6404803E || ~z~Alright, so what you want me to do?
+66605CF3 || ~s~Stop the car here.
+6B44F0BF || ~z~One of Madd Dogg's chauffeurs just left the Burger Shot across town.
+6DA2942C || ~z~Hey, what the fuck are you playing at?
+7012E98C || ~z~Dangerous motherfuckers!
+777F2D95 || ~z~They'll fuck you up so bad!
+7816A9AB || ~s~One of the other ~r~drivers~s~ saw you dispose of Madd Dogg's Manager. Kill them!
+79A4A5A7 || ~z~They'll do anything you want!
+7F7B6DB2 || ~s~The car is damaged, go and get it repaired.
+8227558A || ~z~Good lookin'. I'm a see if I can catch up with them.
+84D16920 || ~z~Man...
+886E3DDF || ~s~Don't damage the car!
+89DC31D3 || ~z~Where's my usual driver?
+8A0AE112 || ~z~Well, he obviously ain't heard your new shit. That shit is outrageous.
+8D67250B || ~z~Kill him?
+8F03F9C6 || ~s~Press and hold ~k~~VEHICLE_ENTER_EXIT~ to bail out now!
+90C70092 || ~z~What you want, fool, money?
+91750C9E || ~r~You were too slow! Madd Dogg's other cars have left without you.
+9618C887 || ~r~Madd Dogg's Manager has been spooked and refuses to come out!
+97AAC48B || ~z~Man I can make any fool a superstar!
+99714CB9 || ~z~Fuck, NOOOOOOOOO!
+9E1C88A0 || ~z~You Grove Street Families?
+9FAE84AC || ~s~Hurry up, you have to meet the other drivers before 10pm!
+A127B2D1 || ~z~Happy? Man, hell, no. I can't take this shit much longer.
+A2F16210 || ~z~Watch the damn car!
+A42EAA05 || ~s~Go and meet up with the other ~y~drivers~s~. Don't damage your car!
+A64A76C8 || ~z~He crampin' my style for real.
+A881A6C3 || ~z~Not today, asshole.
+AD98E62E || ~s~There is a ~y~pier~s~ to the South that you can dump the car off.
+AFFC3AE3 || ~z~a communicator and nobody can even hear my message.
+B483D76F || ~r~You let Madd Dogg's Manager escape!
+B6E70BA2 || ~z~Hey - my shit is so tight right now, it's about to bust!
+B83C8390 || ~z~Whuh? Who? You want fries with that?
+BA585F5D || ~r~The convoy vehicle has been destroyed!
+BBEA5351 || ~z~Come on we need to go and pick up the boss!
+BC602F65 || ~z~Hey, where you going?
+BC879748 || ~z~Keep frosty, guys.
+BD359B44 || ~s~You have ~1~ seconds to rejoin the convoy.
+BF514789 || ~z~So...
+C1E03B34 || ~z~CJ. What's up, homie?
+C384E7F9 || ~s~Damage the ~r~car~s~ to force the driver out.
+C69DA714 || ~z~Rescue him at all costs!
+C856771F || ~z~Yeah, our Appliance Technician called in sick so Jeff- LOC, he got promoted.
+CA32ABD2 || ~s~You have ~1~ second to rejoin the convoy.
+CCED63C7 || ~z~Hold position in the middle of the motorcade until we get to the Awards Show.
+CD5F6FCB || ~S~Get in the ~r~car~s~.
+CF3BB306 || ~z~Hey, 'scuse me. Loc around here?
+D14D465E || ~z~And that Scipio, Madd Dogg's manager, is putting it on me real heavy, man.
+D3299A93 || THE MOOTV AWARDS CEREMONY
+D4445E8A || ~s~One of Madd Dogg's Manager's ~r~drivers~s~ is eating at the Burger Shot across town.
+D5F65286 || ~z~You unprofessional asshole!
+D6208247 || ~z~So you happy now, homie?
+D8FB0A75 || ~z~I can't get in the game no way. I told you I'm an artist,
+DA9FD6B8 || ~s~Dump the car in the water but make sure no-one sees you!
+DF869655 || ~z~Take me back to Dogg's mansion.
+E0ADF41D || ~z~I know people in this town, powerful people!
+E11FF811 || ~s~Park the car facing the same way as the other cars.
+E6723C08 || ~r~You were too slow! Madd Dogg's cars have left!
+E7C03004 || ~z~I got bitches, loads o'fine bitches, take 'em.
+E8A9B43A || ~s~Keep your speed up to the end of the pier then press ~k~~VEHICLE_ENTER_EXIT~ to bail out.
+E91BB836 || ~z~I know Ballas OG's, we're like brothers!
+EE767C2F || ~z~Holy FUUUUUUUUUUCK!
+F24DA105 || ~z~Ah Loc, what's up now man?
+F3D659B6 || ~z~and that's the only time he leaves Dogg's side.
+F804C950 || ~s~Keep your speed up to the end of the pier then press and hold ~k~~VEHICLE_ENTER_EXIT~ to bail out.
+FA60159D || ~z~I want you to take that motherfucker out!
+FD0DD184 || ~z~He's going around, telling everybody I'm whack.
+FEDB0145 || ~z~Unlock this fucking door!
+FF690D49 || ~r~You didn't dump the car in the water!

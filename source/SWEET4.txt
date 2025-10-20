@@ -1,0 +1,92 @@
+12635E4 || ~z~Where we going, homie?
+1D5769A || ~z~Man, you always crashing cars and shit.
+64BF1FD || ~z~Do us a little drive by, huh?
+6AC49D0 || ~z~CJ, get us to a spray shop!
+6B8B283 || ~z~I can drive as well as CJ, man, I'm telling you.
+8633AB1 || ~z~No disrespect, man, but you can't drive for shit!
+91B0DB8 || ~s~You've left ~b~Ryder ~s~behind!
+C3B352E || ~z~Get us the hell out of here!
+E76C9A1 || ~s~Take your homies back to ~y~the hood~s~.
+FFDBDD6 || ~z~You know somethin', matter of fact, you're our chauffeur for this little gig. C'mon.
+10003CF9 || ~s~Get in the ~b~car~s~.
+12AA785B || ~z~You're down with the Grove and the Ballas know it,
+15C7BC42 || ~z~Man. I'm shocked you didn't get us killed, CJ!
+176DF8E0 || ~r~Your homies didn't make it.
+18CE47DB || ~z~He's trippin'.
+1EDBB4CB || CAR HEALTH
+1FA383C2 || ~z~You such a good gunman, homie, you gotta ride shotgun.
+1FB77891 || ~z~The one-times' on us again!
+2A0B6627 || ~z~Yeah - Ballas turf. You dogs ready?
+2D66A23E || ~z~Yeah if the car stops, we're dead meat.
+2D811A13 || ~z~That was way too easy! Let's go blast on some more Ballas fools.
+33105766 || ~z~What did I say? Told y'all CJ drives like a blind motherfucker.
+349A2B52 || ~z~We didn't get all those motherfuckers!
+3E0D57AC || ~z~Motherfucker! I've got the wheel!
+439D1BC4 || ~z~Let's finish 'em off! Woo Woo!
+49EDDF17 || ~z~Yeah, what you waiting for, Carl?
+4E67A323 || ~z~Damn, he's shook us!
+52FF16F4 || ~z~Now, what was I sayin'?
+577C9262 || ~z~Smash on it, Carl, smash!
+5A6192A8 || ~z~Listen to the man, fool! And try not to park us up a tree or something.
+5A862A85 || ~z~What you waiting for, CJ? Find us some more Ballas so we can cap 'em.
+606AC876 || ~r~You sure you're down for the 'hood?
+62C08CD4 || ~z~Yeah for sure. They was slippin' man!
+654AF0E0 || ~z~Man, what'd I tell y'all - told you he was a buster!
+65AD48CD || ~z~Hey, Carl, ignore that motherfucker, you did good today.
+67070C6F || ~s~Drive your homies into ~y~Balla territory~s~.
+68A4B354 || ~z~Show CJ what's cracking.
+68B04807 || ~z~CJ! Are you trying to get us pinched?
+69DC845D || ~s~You've left ~b~Smoke ~s~behind!
+714CC16B || ~z~Kilo Trays country.
+71AB7946 || ~z~C'mon, CJ, get us someplace safe!
+71BF8215 || ~z~Hey, homie, whassup?
+76D2460C || ~z~And for some reason now you back,
+78FA8D40 || ~z~You ain't cold enough for that shit, CJ.
+7971F937 || This will allow you to see where your enemies are located.
+7B3C05B8 || ~z~Man, they trying to get us popped!
+7C51C1A1 || ~z~Shit! Get us out of here! We're sitting ducks!
+7E1C3D2E || ~s~You've left ~b~Sweet ~s~behind!
+7F640A27 || ~z~Thanks, man. No, no, no, say what you really mean.
+821565CA || ~z~so watch yourself from now on, CJ.
+86AAD278 || ~z~Wassup, man?
+86BE292B || ~z~CJ! You such a liability, man!
+89096D43 || ~s~Get to the ~y~spray shop~s~, you can lose the police there!
+8B4491CC || ~z~Carl's quitting on us!
+8BA329E1 || ~z~Let me check myself. Am I dead?
+8E64A95A || The spray shop icon is marked on the radar as a spray can.
+90125C02 || Press ~k~~VEHICLE_LOOKLEFT~ or ~k~~VEHICLE_LOOKRIGHT~ to look left or right when in a car.
+925FA08D || ~z~What is you doing! CJ?!
+96F4EC6C || ~z~Gee, thanks G.
+982F645E || ~z~Rollin' Heights Ballas country.
+98DC2720 || ~z~Man, why don't you take it easy.
+9F42A047 || ~z~For real. You down, Carl?
+9FA5186A || ~z~C'mon, CJ, we gotta lose this attention!
+9FB1E339 || ~z~I'm saying that the East Coast made you drive like a idiot, fool!
+A069C20F || ~z~I'll get us up out of here!
+AA1906DC || ~z~CJ, you a mark. Don't ever by a ride, never.
+AD937AE8 || ~z~Some of those fools are still standing, we gotta make another pass!
+B302379D || ~z~Yeah, for sure, I'm ready.
+B4884BA9 || ~z~We iced them! CJ, let's hunt down some more!
+BCF177D8 || ~z~OK, we're cool. Now what was I sayin'?
+C405070B || ~z~Carl, Just concentrate on the driving and we'll take care of the shooting.
+CBF6474E || ~z~Hey, what was we hollerin' about?
+CE75C3D8 || ~z~Damn, the ride is hot! Every one-time in South Central is going to be looking for this car!
+D0E48EAD || ~z~That's right! Now let's get back to the Grove!
+D76EF299 || ~z~Fuck you, CJ! I'm on it.
+DD1E364A || ~z~This fool crashing on purpose - I swear!
+DDF98E67 || ~z~Where you going CJ? There's sill some more Ballas need to get popped.
+E1F3DCFA || ~z~Just don't drive like no fool.
+E2355402 || ~z~What the fuck are you doing, CJ? Move it!
+E558901B || ~z~Damn, man, move! MOVE!
+E7156C94 || ~s~You have a two star wanted level, the cops will chase you down.
+E84590D1 || ~z~Man I ain't even strapped.
+E8B6D3AF || ~z~Hey, what you saying about me, fool?
+EF2854C8 || ~z~Front Yard Ballas country.
+EFDB17B6 || ~z~all it is, is 'CJ drive here, CJ drive there.' Bullshit!
+F1ADE2EE || ~z~Hey, you know something - you're right. Yeah, CJ, you can drive, homie.
+F512555C || ~z~Here, take this, go get yourself some beers.
+F96399CC || Drive your vehicle into the spray shop to lose your ~h~wanted level~w~, ~h~repair ~w~and ~h~respray ~w~your vehicle. Cost - ~h~$100~w~. This time it's free.
+FBC9DD6E || ~z~Yeah, Grove is back, man, Grove is back!
+FC43A15A || ~z~Carl, don't run out on me again!
+FCA41977 || ~z~Yeah, yeah, for sure, you know that. I'll see y'all later.
+FE0E5DD5 || ~s~Shoot up the neighborhood.

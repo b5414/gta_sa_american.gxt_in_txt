@@ -1,0 +1,80 @@
+1B1AFCE || ~z~Oh yeah, I see it!
+9C893BF || ~z~Enough! We settle this here!
+C4B1729 || ~z~Not long until we're drinking cola in the free West, eh!
+133136E4 || ~z~Excuse me.
+15502668 || ~z~Keep it down, you want to bring the snakehead down here?
+18AA9E8F || ~z~They're all over the containers!
+20EC38DE || ~z~Hey, please, help us!
+21075466 || ~z~CJ, you caught me on my way out.
+252BB865 || Go back and meet the ~b~refugees~s~. They will lower some dinghies into the water.
+266A907F || ~z~But something's come up, and I've got to sort things out myself.
+276644EA || ~z~Stick this up your ass!
+2781FCC7 || ~z~Thank you for everything!
+2FDCDC54 || ~z~Damn!
+32EB0116 || ~s~Shoot the ~g~padlock~s~ on the front of the refugees' container.
+3387CD4C || ~z~We're hit!
+36C7ED15 || ~z~Look - if everything goes well,
+381C6527 || ~z~The Da Nang Boys are arriving today on a container ship.
+39F7099F || ~z~Just bumped into Woozie on his way out.
+3B5D4D3D || ~s~Take out the refugees' ~r~guard~s~.
+3C308924 || ~s~Make your way down into the ~y~hull~s~ of the ship.
+3E7D75AB || ~z~Can you see any survivors?
+3F71A13E || ~z~Your help and friendship has been invaluable to me.
+41C0DD83 || ~z~to do a couple of flybys of the ship.
+43ED39C3 || ~z~Brace for impact!
+4480FDDA || ~z~Where? Which side?
+45EC3180 || ~r~The helicopter has been destroyed!
+487691A8 || ~z~Thanks, my friend.
+4C5A7DAB || ~s~Perform a silent kill on the ~r~target~s~.
+4EF03909 || ~z~He filled me in. I thought I'd roll with you.
+4F1B55B1 || ~z~Trouble?
+516DA0E9 || ~z~this is the one that is going to seal my place in the Red Gecko Tong.
+522C88F3 || ~s~Make your way down into the ~y~hull~s~ of the ship.~N~Be quiet for as long as possible!
+560064F0 || ~z~Woozie, my man!
+57EB0848 || ~z~Please, the snakehead tricked us, we're prisoners.
+58DBECC2 || ~z~OK, shit. Take Guppy and go check it out.
+5A11B0AF || ~z~Can you see any survivors?
+5D9BCC9B || ~z~Shit, lost all my weapons!
+64360672 || ~z~I'll call you in a week or so and invite you to my new spot.
+667F37E6 || ~s~Leave no one alive on the bridge!
+6827D22D || ~z~Not long until we're drinking cola in the free West, eh!
+6FADAE19 || ~z~I see 'em!
+713CE36C || ~z~Keep it down, you want to bring the snakehead down here?
+76B69F58 || ~z~To the boat - it's moored out in the bay.
+8629B301 || ~z~Go get the snakehead!
+86CE0B2C || ~z~I got 'em man, right in my sight!
+8BD30BE6 || ~z~Stick this up your ass!
+90C1C205 || ~z~Defend yourself!
+95424693 || ~z~Hey, who the fuck are you?
+9FD53A6D || ~z~You better lock and load, they'll be on their guard!
+A0FE5825 || ~z~Hey CJ, what are you doing here?
+A115349D || ~z~Little Lion's gone to check it out - I really gotta go too.
+A2541C87 || ~S~Make your way to the cabin and kill the ~r~Snakehead~s~ and his ~r~bodyguard~s~.
+A539D89E || ~s~Swim over to the ~y~freighter~s~.
+A678F084 || ~z~Thanks man. Where the other guys?
+A7742411 || ~z~No. Nobody's getting out of that alive!
+A7939C3C || ~z~Strap in and strap up!
+ADE358EF || ~z~(Sirens, whines, clattering gears etc.)
+B80E05DC || ~z~Business?
+B9E56964 || ~z~Hey you, help us!
+BE88AD7D || ~z~The Snakehead is up on the bridge...
+BF63C1C5 || ~z~Little Lion, what's the news?
+C318E115 || ~z~No. Nobody's getting out of that alive!
+C4929D21 || ~z~Oh man, that hurt!
+C864F153 || ~z~Damn. Why today of all days?
+C98F9DEB || ~z~Please help us escape!
+CF09354A || ~z~This is the big one,
+D094ACAA || ~z~Well we ain't rollin', we're whirling!
+D17FC012 || ~z~Oh, they're getting a helicopter
+D23EE808 || ~r~One of the refugees died!
+D5532C11 || ~r~The helicopter pilot has been killed!
+D612040B || ~z~Hey man, look. Don't even trip. I'm gonna handle this for you, alright?
+DAE46879 || ~z~We're going down!
+DD89AC60 || ~z~RPG! RPG!
+E2457605 || ~z~Go get the snakehead!
+E8D20AFB || ~z~Locked and loaded!
+EFBFCEE2 || ~z~Where we headed?
+F12E8397 || ~z~Hey, who the fuck are you?
+F1C93BBA || ~z~Hit those Da Nang bastards!
+F3277B35 || ~z~Damn, lost everything but my blade!
+F6A4FFA3 || ~z~Holy fuck, they're gunning for us already!

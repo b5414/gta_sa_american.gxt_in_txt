@@ -1,0 +1,159 @@
+19AA3CA || Press ~k~~TOGGLE_SUBMISSIONS~ to lower your landing gear.
+3D75F45 || ~z~I got my own shit to worry about.
+4BA9B5C || ~z~and use it to destroy a flotilla of spy ships, nothing big.
+52D5F7F || ~z~Yeah, sweet as... Come on. You having that, Maccer, you having that?
+8CB57CC || Using ~k~~TOGGLE_SUBMISSIONS~ raises and lowers the landing gear.
+9A79B96 || ~z~Man, I must be crazy...
+A61136E || ~z~you'll be home for a blow job and a bologna sandwich.
+BEA6719 || ~s~Try not to alert the ~r~guards~s~.
+C87A300 || ~s~Enemy jet destroyed. ~1~ still active.
+D0CD777 || ~z~There's a boat.
+ECA5F8F || ~z~Man, go out like this?
+105B12FA || ~z~He's stealing a Hydra!
+10BCAAD7 || ~z~I think I'm gonna hurl...
+12F15658 || ~s~Guide the plane into the Hangar.
+159C9241 || ~s~Get back in your ~b~jet~s~.
+17D16ECE || ~z~What thing? I don't know what you're talking about - you stole it. Got nothing to do with me, I don't know what you're talking about. See ya 'round.
+1B5BAA27 || ~z~What's this?
+1C366E3E || ~z~Go on... Go on.... Come on... Come on.... Go on...
+1E6722E5 || ~z~Toreno? TORENO!
+1F0BEEBF || ~r~Toreno dead.
+226D7078 || ~z~He can't fly that!
+228AC855 || ~z~Well, can you help me now?
+28FA0C86 || ~z~I knew you'd come anyway.
+296DC8A5 || ~z~But she had great tits.
+2AB7F009 || ~s~The ~r~guards~s~ have found a dead body. The Aircraft Carrier is now on alert.
+2DDA3410 || ~s~You've made too much noise entering the Aircraft Carrier.
+2E000CBC || ~z~You shouldn't be choking the gecko in the first place!
+3076F9E4 || ~z~Communists at the gate, Carl.
+371B3DFD || ~z~C'mon, keep it together, man - we can't fuck with his flow.
+39DC059B || ~s~Take the Hydra to the ~y~airstrip~s~.
+3B764139 || ~z~He's going to crash for sure!
+3B91F914 || ~z~Did you hear that?
+3CFC3D0D || ~z~For real?
+3EB1C182 || ~s~Get back in the Hydra!
+401C0D6B || ~z~I can't be held responsible for dodgy gear, alright?
+424D41B0 || ~z~Now make your way to the flotilla and sink the fuckers!
+4771C972 || ~z~Listen; you gotta pull one last string for me, OK?
+4B1CB5B6 || ~z~Who is that idiot?
+4BFB0D9B || ~z~You're not a British tank, so you should be fine.
+4C7171AF || ~z~Man, he won't last long!
+4C96C982 || ~z~Stolen Aircraft; Prepare to be vaporized!
+4EDB350D || ~s~Be careful not to be spotted by the ~r~guards~s~!
+520784F7 || ~z~Hey, he ain't the pilot!
+556A40EE || ~z~Some ghetto boy stealing the Hydra!
+558DF8C3 || ~z~Once you're on the inside, I cannot help you.
+59073C2A || ~z~Ooh, sorry geez.
+5ADD0486 || ~s~The ~r~guards~s~ are now on alert.
+5DB0C09F || ~s~There has been an explosion. The Aircraft Carrier is now on alert.
+5E6AF833 || ~z~That wasn't a groupie, that was a roadie!
+5FC0E531 || Use ~k~~VEHICLE_TURRETUP~ and ~k~~VEHICLE_TURRETDOWN~ to position the thrusters for hover.
+5FFD3C10 || ~z~Yeah, well, that's not important right now.
+6031E675 || ~z~All hands on deck!
+60D65E58 || ~z~Shut up, Toreno. Where do you want this thing?
+629BA2D7 || ~s~There is a ~r~military jet~s~ after you. Take it out!
+65F666CE || ~s~Get inside the ~y~ship~s~ before the rear door closes. Swimming will help avoid detection by the guards.
+675C226C || ~z~Who is that guy?
+67BB9A41 || ~z~Fuck you TORENO, I never want to go through this again!
+680CDE29 || ~r~Toreno's car destroyed.
+69601273 || ~z~See you 'round.
+6B315EA8 || ~z~I'm gonna catch you later!
+6C5C9AB1 || ~z~That's my Dogg!
+6F611A30 || ~r~You failed to gain entry to the aircraft carrier!
+722A6FE9 || ~z~Right, mind how you go, sunshine.
+73BDABCA || ~z~Oh man, you shittin' me.
+74D06FD3 || ~z~Would you like to see your brother this week?
+769D935C || Use ~k~~TOGGLE_SUBMISSIONS~ to raise and lower the landing gear.
+79CD6F19 || ~z~I just got to concentrate on getting through this alive.
+7A0BE7E1 || ~z~All the gear you'll need is on board. I'll keep you briefed as you go.
+7B809396 || ~s~Take the jet to the desert airfield and land anywhere on the ~y~landing strip~s~.
+7CED578F || ~s~Find the ~y~control room~s~ to switch off the SAM sites.
+7EA0AB00 || ~z~Deep in the shit now, deep in the shit...
+7FCC675A || Press ~k~~PED_FIREWEAPON~ to launch countermeasures.
+8003B746 || ~z~SHIT!
+8252FB9D || ~z~Come on:... Come on... Come on... Come on...
+83C53FBE || ~z~OK Carl, the ship is moored in the Easter Basin Naval base.
+85238FD0 || ~s~You've made too much noise entering the Aircraft Carrier. The ~r~guards~s~ are now on alert.
+853F3F84 || ~z~Hey, I gotta get out of here. You got this?
+8602BF05 || ~r~No jets remain on Carrier.
+876E735F || ~z~It's got nothing to do with me.
+8BE4B7B6 || ~z~What's happenin' here?
+8BF807E2 || ~s~Spy ship destroyed. ~1~ ship remains.
+8C95C3FB || ~s~The Hydra will now always be available in this hangar.
+8E3F8759 || ~z~ALAARRM!
+8ED83F74 || ~z~Ooh, what a big whiner, you want some cheese with that wine? Hey, you were spectacular.
+92A05F4A || ~r~You failed to steal the Hydra!
+92E336A3 || ~s~There's a silenced pistol and a knife in the ~b~speedboat~s~.
+936842D4 || ~z~Yes you are, don't be ridic--here take this earpiece. Trust me, do as I say,
+958EF2BA || ~s~The SAM sites are still active.
+97C30E35 || ~z~How he expect me to fly one of them things.
+9893F270 || Press and hold ~k~~VEHICLE_HANDBRAKE~ to target an enemy. When the target changes to red it is locked on. Press ~k~~VEHICLE_FIREWEAPON_ALT~ to fire homing missiles.
+9ADE0EFF || ~z~How long's this going to take?
+9C240EC5 || ~z~Hold up, mate, look, hold up one second.
+9C38BE91 || ~s~All enemy jets destroyed. Now destroy the ~y~spy ships~s~.
+9DB3CAE6 || ~z~You just gotta steal a military jet off an amphibious assault ship
+9E75421E || ~z~Can't go out like no bitch.
+A0C9E475 || ~z~I'm tired of this, Toreno.
+A0D55421 || ~s~Make your way to the ~y~aircraft carrier~s~ in San Fierro.
+A512D49A || ~z~Should we shoot?
+A5F56CB7 || ~z~Yeah. Ignore them.
+A7B89038 || ~s~The ~r~Hydras~s~ are on your tail. Take them out!
+A97FA85E || ~z~Finally! I thought I'd never get through to you.
+AC43209C || ~z~Yeah, well, probably.
+AE0EDC13 || ~r~Your Hydra is toast!
+AE126C47 || ~z~I dunno, bruv, it all just went!
+B064991F || ~z~Remember what happened at that gig in Hamburg?!
+B1CE841D || Keep ~k~~VEHICLE_HANDBRAKE~ held to maintain ~r~lock-on~s~ and press ~k~~VEHICLE_FIREWEAPON_ALT~ to fire. Each ship will need a few hits to destroy it.
+B1F35D3C || ~z~Well, no invite to the housewarming, huh kid?
+B3BEA1B3 || ~s~A mechanic found a dead body. The Aircraft Carrier is now on alert.
+B4D365AA || ~s~You have been detected by a mechanic. He is running to trigger the alarm.
+B69E9925 || ~z~Get in.
+B7095D06 || ~z~Will you please leave yourself alone!
+B9CE6560 || ~s~Find a way to switch off the SAM sites
+B9D2D534 || ~z~MAN tits! They were MAN TITS!
+BC09E5DB || ~z~Get him out of there!
+BCEE5DF6 || ~z~Uh, well, no. Actually, no.
+BD652981 || ~s~A mechanic has triggered the alarm. The aircraft carrier is now on alert.
+C00E6D90 || ~z~Oh, you manky mongrel!
+C199A9B3 || ~z~I'll bring you up to speed on the way, get in.
+C3D4553C || ~s~All spy ships destroyed. Now take out the remaining ~r~jets~s~.
+C4B99125 || ~s~You've been detected by the ~r~guards~s~. The Aircraft Carrier is now on alert.
+C6C9B48B || Press and hold ~k~~VEHICLE_HANDBRAKE~ - this will ~g~target an enemy ship~s~ and soon achieve ~r~lock-on~s~.
+C763A989 || ~z~That groupie loved it!
+CA621917 || ~s~A mechanic has found a dead body. He is running to trigger the alarm.
+CB0ED54D || ~z~Intruder!
+CC631154 || ~z~What do we do?
+CC84A979 || ~z~Sneak in the back without being seen.
+CEC955F6 || ~s~Destroy the flotilla of ~r~spy ships
+CED5E5A2 || ~z~Hey, what happened? Hey, where the sounds at?
+D0BFA0AE || ~r~You destroyed all the Hydras!
+D215E40C || ~z~Is this a prank?
+D2F25C21 || ~z~Prepare to be vaporized', what a bunch of bullshit. Ignore them. They shoot at you and it's an international incident.
+D5782015 || ~z~We're gonna get the shit for this!
+D59F9838 || ~z~Ya see? Ya see? What did I tell you? It was a snap!
+D7CED4E3 || ~z~I'm outside. Let's take a ride.
+D7D264B7 || ~s~Find a Hydra Jet.
+D909EC85 || ~s~Get in the boat
+D9155CD1 || ~z~You're fucking shite you are, P.
+DE7898C8 || ~z~What the- Toreno? Is that you?
+E0C43EA3 || ~z~Man, I'm screwed, totally screwed...
+E289C22C || ~s~Steal one of the military jets.
+E302B65B || ~z~Would I shit you, Carl?
+E46F7242 || ~z~I ain't coming back from this one, am I?
+E5E40635 || ~s~Head for the ~y~ship~s~.
+E7A9FABA || ~z~I can't believe I let that maniac talk me into this...
+EAB4FA70 || ~z~Yeah, what can I do?
+EB233E53 || ~z~Now I'm hearing things - fuck me!
+EB3F8E07 || ~s~Spy ship destroyed. ~1~ ships remain.
+EF94C2E6 || Use ~k~~VEHICLE_TURRETUP~ and ~k~~VEHICLE_TURRETDOWN~ to control the attitude of the thruster nozzles between down (for take off and landing) and back (for forward thrust).
+F1058F93 || ~r~Jet destroyed.
+F224BF46 || ~s~You've been detected by a mechanic. The Aircraft Carrier is now on alert.
+F2380F12 || ~z~Hey, Dogg, I gotta go hit a marketing meeting,
+F555CB0B || ~z~Oh, fuck!
+F938B7CF || ~z~Sound the alarm!
+F9DF0FE2 || ~z~You know what, I'm beginning to think my little Carl is a double agent. Oooh.
+FB92F36D || ~s~There are ~r~military jets~s~ on your tail. Take them out!
+FCE38720 || ~z~Toreno?
+FCFF3774 || ~s~The Carrier's rear door is closing.
+FE5573D6 || ~z~Somebody stop him!
+FEB2CBFB || ~z~You see? Child's play!

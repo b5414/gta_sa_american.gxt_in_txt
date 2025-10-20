@@ -1,0 +1,66 @@
+26D6F55 || ~z~This is private flight CJ101 on approach to Liberty, over.
+168CE6F3 || ~z~He's going to hit us!
+1A2E1DD1 || ~z~Mr. Leone.
+1B765E14 || ~z~Welcome to Liberty City, CJ101...
+1D43D9C8 || ~z~If he looks like making a run for it, kill him.
+28187F53 || ~z~Perhaps you'll be cured of your little antisocial condition, mate.
+29403C96 || ~z~Alright, you guys better get out of Las Venturas, fast!
+2F75BB4A || ~z~Hey, you're the one to blame on that front!
+31034E12 || ~z~Heh-hey! Remember all those jobs we did together, huh?
+3664D977 || ~s~Fly back to ~y~Las Venturas Airport~s~.
+366E8A0B || ~z~How would you like to hit the St. Mark's Bistro?
+38BF5145 || ~r~Maccer is dead!
+3D460D1D || ~z~Marco Forelli, I'm here for you!
+4163E9E1 || ~s~Fly to ~y~Liberty City~s~.
+4169BA9D || ~z~A hit in Liberty City? Cool, but I'm gonna need some backup.
+46047E84 || ~z~Huh? You and me, Carl, remember, huh?
+48D5A5CA || ~r~The car has been destroyed!
+4A413D8B || ~z~Marco, I'm coming for you!
+4D2CF992 || ~z~Salvatore sends his regards!
+4FB861D3 || ~s~The ~b~jet ~s~is at the end of the runway, get into it and fly to Liberty City.
+5437C8D3 || ~z~Private function, invitation only!
+58728BDC || ~z~Can I fucking go now, or fucking what?
+592AC819 || ~z~Of course he will, you fucking moron, come on!
+5F1F4FC5 || ~z~Carl, my man!
+618BD665 || ~z~The guy's a maniac!
+6601AA51 || ~z~Flight CJ101, you are cleared for take-off!
+66E6127C || ~z~Prepare the fire crews for a crash landing!
+67938193 || ~s~Get to the ~y~airport~s~.
+6A44E95E || ~z~Alright, boys, let's bounce.
+6D292D47 || ~z~C'mon, Sally boy, I'm bored! Can we go to your room?
+7F1A9B10 || ~z~This is flight CJ101 out of Liberty City,
+83274C6B || ~z~It's been a fucking blast - top banana.
+844A8872 || ~z~Ah what the hell, he makes me sick anyway.
+88E87350 || ~z~Oh my God, he's going to lose it!
+9114FA3C || ~z~Flight CJ101, you are clear for landing on runway 3.
+9B643EEF || ~z~Flight CJ101, we have you on our scope.
+A1B600FF || ~r~Paul is dead!
+A1BC5383 || ~z~Ice Cold Ken, that's me...
+A32298BE || ~z~I'm here to spill pasta sauce!
+A44F5CA7 || ~z~I'm your worst egg plant nightmare!
+A80A1FA8 || ~z~Well I usually use these two.
+AF67DBB1 || ~z~what it means to screw with Salvatore Leone!
+B0496D2C || ~z~I'll be in touch.
+B1112EE9 || ~z~Ooh, you fuckin' twat! Right in the fucking happy sack!
+B67CEAF0 || ~z~I can feel the weight of someone's weapon!
+B8A762C2 || ~z~You did a real number on those Forelli losers.
+C17BDA66 || ~z~Just feel the weight of the weapon, sweetheart.
+C6161E7F || ~z~(giggling)
+C74E5DBA || ~z~What about your backup, man, will you be a'right without us?
+CD3E9969 || ~z~Oh yeah? Well Mr. Leone says otherwise!
+CFA05254 || ~z~Looks like this piece of shit was right.
+D1DCF470 || ~r~You have destroyed the jet!
+D3486C31 || ~z~Mafia assholes!
+D425A828 || ~z~The Forelli's are finished in this town!
+D6B13069 || ~r~Rosenberg is dead!
+D6BB6315 || ~z~You know, you used to call me 'Killer' Ken? Ken the Killer? Killer?
+D860EB27 || ~z~Now, it's time the Forelli's found out
+DF0D2F3E || ~z~Take who you want.
+E613CAAA || ~z~requesting final approach to Las Venturas International, over.
+EC630E79 || ~z~Stay on current heading and await final approach instructions...
+F34DB8E4 || ~z~And him too, I guess...
+F4207CFD || ~z~See ya, thanks for having me, man.
+F88287DF || ~z~Holy fuck, who's flying that thing?
+FE9AD029 || ~s~Kill ~r~Forelli~s~ and all his bodyguards.
+FEBD537F || Press ~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~ to change camera modes.
+FFEF43C6 || ~z~Prep the emergency crews!

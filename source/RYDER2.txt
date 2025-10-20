@@ -1,0 +1,139 @@
+2C83583 || ~z~OK, CJ, let's roll!
+2DCCED0 || ~z~- Go hit the wet, nigga. Go hit the wet!~n~- Get that outta my face, man, you know I don't fuck with that, man. C'mon!
+340915C || Shoot the ~r~switch~w~ on the warehouse wall to open door.
+102B64CE || ~s~Drive down to the compound at ~y~Ocean Docks~s~.
+13AA38B3 || ~z~Whatever you say, fool. You don't know what's going on.
+14C7FCAA || ~z~You want it smooth? You don't want no trouble. I keep it real.
+1629BC25 || ~z~Are we up for this?
+19DAFC60 || ~z~We've got an intruder, sound the alarm!
+1A5BA01D || ~s~You need to let Ryder in, shoot the ~r~switch~s~ at the front gate.
+1BC7FF91 || ~z~No, that ain't it.
+1BD304C2 || ~z~They got a storage garage up in Willowfield! GO!
+1C5978F6 || ~z~Just shut up and get in.
+1CAA3B88 || ~z~I am the real deal, fool. Oh yeah. A genius.
+1D366404 || ~s~Drop the box behind the van, beside Ryder.
+1D71B081 || ~z~I ain't listening to you, Carl.
+1EB73879 || ~z~You're a phony!
+20B49246 || ~z~Yeah, I guess...
+219C5A31 || ~z~You ain't changed, CJ. Buster! Still a busta!
+221D064C || ~r~Ryder is history.
+286DC29F || ~s~You can only ditch 3 boxes, you need to keep the rest!
+2902DE6D || ~z~Give it a rest, man.
+29E56640 || ~z~Shit, CJ! Shit!
+2BEC9EE2 || ~z~Tight? Man, that shit was shit.
+2E6F1A74 || ~z~Ocean Docks.
+2E88A259 || ~z~Punk-ass National Guard!
+30FE5701 || ~z~C'mon, CJ, we don't have all day!
+3176F3DE || ~s~Lift boxes with the forklift and drop them ~y~behind the van~s~.
+32F7AFA3 || ~z~Right there, man!
+361B37C7 || ~s~Get in the ~b~van~s~.
+37742B35 || ~z~C'mon CJ, we ain't got all day!
+37939318 || ~z~What you playing at, CJ?
+38876B70 || ~z~These part time soldiers got a chip on their shoulders!
+3FEAAF69 || ~z~Sound the horn, I'll throw a crate at 'em.
+40731BA3 || ~z~Get in and drive, motherfucker!
+4094A38E || ~z~Giddy up, CJ!
+411C0751 || ~s~Head to the lock up in ~y~Willowfield~s~.
+45F09F35 || ~z~Just put it down here, CJ!
+4671C348 || ~s~Shoot ~r~switch~s~ to open warehouse door.
+48ED9FFF || ~z~A'ight, check it out.
+4922EFA5 || ~z~There's more outside!
+4A03DF70 || ~z~Now open the warehouse and keep these motherfuckers busy!
+4F805BE6 || ~z~What's happening back there?
+54929205 || ~z~OK, we're in, move it, Ryder!
+551A36DA || ~s~Open the front ~r~gate~s~.
+569B6AA7 || ~z~Man, I knew you was a buster all along!
+59682AE2 || ~z~How we get this van? It wasn't outside when I came through.
+598F92CF || ~z~They're crawling out the woodwork!
+5CEBAE74 || ~z~Man, you say you down for the homies, but all you do is complain.
+5E05EEFB || ~z~I lost my little brother and now I lost my Moms.
+5F6AF209 || Press ~k~~VEHICLE_HORN~ to make Ryder throw a box.
+612E8CB3 || ~z~Man, this shit look real serious.
+63C0CC3C || ~z~We got the guns. You ain't no gangster, homie.
+64AD0825 || ~z~It mess with your mind.
+664348AA || ~z~Now get in there and open the damn gate!
+66A4F087 || ~z~Get out the damned way, CJ!
+672C5458 || ~s~Get in the ~b~van~s~ with Ryder.
+69B008EF || ~z~SOUND THE ALARM!
+6A315492 || ~s~Pick up a box with the forklift truck.
+6A768017 || ~z~which it could do, if it gave you a hit first.
+6BAD0B1E || ~z~It's 'cause I'm too intelligent for this shit, man.
+6CC0CF07 || ~z~Because you been dealing drugs, man, since the age of ten!
+6EC4C68A || Press ~k~~PED_FIREWEAPON~ to pick up and drop boxes.
+6EDDCCF6 || ~z~You here for the shipment?
+72A2C10C || ~z~C'mon, CJ, we got enough!
+7447A1CA || Shoot the ~r~switch~w~ on the wall beside the front gate to open it.
+75DBFE46 || ~z~Yeah... Yeah!
+7835BDF2 || ~z~Get over that wall and open the damned gate!
+7DB63964 || ~z~Sorry, CJ, but we gotta keep some of these crates!
+7FBFC1C6 || ~z~OK, homie, let's load this shit up!
+80D3ADDA || ~z~Hey, stop where you are!
+82CEAE2B || ~z~Hey, Ryder! This nigga's loaded... Ryder!
+82DA5578 || ~z~LB's got us a spot in Willowfield - hit the gas!
+8352F1A7 || To drop a box press ~k~~VEHICLE_HORN~.
+8478E13B || ~z~You wouldn't know real if it came and hit you in your cheeks, homie,
+8550294C || ~z~You think you can roll this van without killing us both?
+85A36A32 || ~z~Because you went and put hands on that teacher for wearing Ballas colors!
+87BE69C3 || ~z~Hey, this shipment ain't going out until tomorrow!
+884D2986 || ~z~It's National Guard, fool! Weekend soldiers!
+88AA91AB || ~z~You want me to run you down, just say so!
+8C152619 || ~z~Oh, oh yeah...
+8D897995 || ~r~Too many boxes were destroyed!
+8DCEAD10 || ~z~And what that mean?
+91B1A0EA || ~z~Drop 'em at the back of the van and I'll load 'em up.
+9A49C0E6 || ~r~Forklift truck is history.
+9BC16439 || ~z~CJ, get up front and drive us outta here!
+9BD59F6A || ~z~A man with a lot of guns? Shit, I give up!
+9CB85B73 || ~z~Get that outta my face, man, you know I don't fuck with that, man. C'mon!
+9EE28C07 || Ryder
+A6A42A56 || Use ~k~~VEHICLE_TURRETUP~ and ~k~~VEHICLE_TURRETDOWN~ to control the truck's forks.
+A6E3FED3 || ~z~Nice rhymes, man.
+A72C8E89 || ~z~They got more crates outside, CJ!
+A87FA264 || ~s~Open the warehouse door by shooting the ~r~switch~s~ on the wall.
+A9F706BB || ~z~Get a move on, CJ!
+ABFEFE19 || ~z~Drop it here, CJ!
+AE7D7A8F || ~z~Hey, CJ, you ain't punking out on us again, are you?
+AE9AC2A2 || ~z~Hey, quit smashing the crates!
+AF12667D || Press ~k~~PED_FIREWEAPON~ when in the forklift truck to pick up and drop boxes.
+B00B8FD7 || ~z~Unlike some of you motherfuckers...
+B0EC37FA || ~z~CJ, help me, motherfucker!
+B1649325 || ~s~Use the forklift truck to load boxes onto the ~b~van~s~.
+B2E5CF58 || ~z~That shit was tight!
+B7664BCE || ~z~Hey, Ryder, where we going?
+B781F3E3 || ~z~Gimme a hand, CJ, I'm swamped!
+BB1457F6 || Boxes
+BC7993EF || ~r~The van has been destroyed.
+C28F3BD7 || ~z~Here, man, take your cut and get the fuck out of here!
+C663A3B3 || Use ~k~~VEHICLE_LOOKLEFT~ and ~k~~VEHICLE_LOOKRIGHT~ to look left and right.
+C70CBF41 || ~z~My homie LB, he's like a clockwork ninja! Real dependable.
+C7EB076C || ~z~There's too many damned weekend soldiers!
+CA11BF8B || ~z~Man, just shoot the switch next to the damn gate!
+CB7EA379 || ~s~Shoot the ~r~switch~s~ on the wall beside the front gate.
+CD9BC3BF || ~z~Yeah, open for business. Back that van up in here.
+CEBAF36A || ~z~Don't matter how much shit this city throws at you, CJ, you gotta stick by yo'homies!
+CF923B1D || ~z~Where you going? Buster! BUSTER!
+D1A31AC0 || Position the forks below the box then raise the forks to lift the box.
+D1E4CE45 || ~z~Hey, we're real heavy, toss some crates!
+D30A8ECA || ~z~Nice job, CJ, thought that was a suicide mission for sure!
+D6890A5C || ~z~Damn, man, these idiots just don't give up!
+D81556EB || ~s~Drop the box.
+D99DF234 || ~z~We need those crates, CJ!
+DEF0362D || ~z~Shit's getting hot, get a move on!
+DF7892F2 || ~s~Shoot the ~r~switch~s~ to open the front gate.
+E13CEC48 || ~z~Go open the motherfucking gate, CJ!
+E4BF68DE || ~z~I ain't throwing no more, we gotta keep some!
+E6B6907C || ~z~I'll watch our backs while you use the forklift to collect the crates.
+EBBF6BE5 || ~z~Aw, c'mon, man! Buster.
+ECC654AF || ~z~You got the con, CJ, take us out!
+ECD2AFFC || ~z~The army, my nigga, the army! Let's go.
+F0B95955 || ~z~Just back her up and I'll open the door.
+F2A45AA4 || ~z~No, that ain't it either.
+F3380528 || ~s~Get in the ~b~forklift~s~ truck.
+F5C99EBD || ~z~Yeeaahh, CJ... Hey, CJ, tell me why I didn't finish high school.
+F827DD09 || ~z~This is the spot - National Guard Depot.
+FA8E4903 || ~s~Open the front gate by shooting the ~r~switch~s~ on the other side of the wall.
+FAC99D86 || ~z~I ain't listening to no more of your bullshit.
+FB12168F || ~z~Who has more straps than anybody? Who has all the straps, huh?
+FDA4599F || ~z~I ain't rolling with you no more, man, 'til you off that water, homie.
+FF4A1910 || ~z~Ain't no match for Grove Street OGs!
+FFADA13D || ~z~Quit trying to kill yourself under the van!

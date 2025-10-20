@@ -1,0 +1,90 @@
+3E3A558 || ~z~Okay. Say, Smoke, what's going on with Tenpenny?
+48E6141 || ~z~Yes you have. I saw him leaving your apartment.
+748E9B9 || ~z~Brothers from different mothers, sisters from different fathers.
+993618B || ~z~Oh yeah?
+D382D6A || ~z~Man, that ain't nothin'. He a busta,
+EFEA592 || ~z~Ah Smoke, you full a shit.
+108850CA || ~z~CJ, this one's all yours, baby.
+1329E311 || ~s~Chase down the Los Santos Vagos ~r~gang member.
+1A1F2C34 || ~z~You a great man, Carl. A great man!
+1A9FAF3A || ~s~The ~r~gang member ~s~is escaping in a car!~N~Get a vehicle and chase him down.
+1AF89419 || ~z~Man, what's happened to the world, man?
+1D72E82D || ~z~Hey Carl, I'll see you later, alright?
+200BCF6F || ~z~Now that ain't nice. Coughio up el weedo,
+21FE6E6B || You can only use the Super Sprint for a short time before becoming tired.
+224D7136 || ~z~Yo, the gang's real important, CJ, you know that!
+2520B52F || ~z~Think I'm Mr Big, or something.
+27660B76 || ~z~Here, pull up here, let me do the talking.
+28CEF69B || ~z~Get after him, CJ!
+310DCDF8 || ~s~Catch the ~r~gang member ~s~before he reaches his destination!
+3910FE2E || ~z~Get him, Smoke.
+3C3B846E || ~z~Asshole.
+3E7D3A37 || ~z~Man, I shoulda known.
+41673977 || ~s~Drive Big Smoke to the ~y~meet.
+460AFD6E || ~r~He got away!
+497A0AA1 || ~z~What?
+4B3CB4F8 || ~z~Fuck they doing over here, anyway? Punk-ass police.
+4E17CEB8 || ~z~Yeah, yeah, you go get that shit, nigga...
+50613BE0 || ~z~Hey - excuso me, Jose, yo soy El Grando Smokio,
+522785B9 || ~z~But I don't tell them shit.
+554A41A0 || ~z~You down to represent, baby?
+55B902DE || ~z~Cat like me likes to scope the streets once in a while, ya know what I'm sayin'?
+570CFFF9 || ~z~before I blow your brains out all over the patio.
+5FC9C60D || ~z~CJ, do something useful. Catch that guy.
+6343179E || ~s~Get into Big Smoke's ~b~car.
+678F605C || ~z~I ain't built for this shit!
+6D181CA2 || ~z~Well try harder. Look at me, man.
+6D989FAC || ~s~The ~r~gang member ~s~is escaping in a car!~N~Catch him before he gets away.
+6DFFA48F || ~z~Man, people have no dignity no more!
+704FD92F || ~z~Everybody is my cousin.
+738951D7 || ~z~Oh, Is that his name?
+74E495CE || ~z~Who?
+79F99504 || ~z~Yeah, me an' her go way back, way back.
+7A3F1DFC || ~z~likes to give people a hard time, you know that Carl. But you know me.
+7E94511D || ~z~No reason. I just wanted to get in the car pool lane.
+83F1C5A3 || ~z~Come on CJ!
+847BB997 || ~z~And, look here, don't let that Pentenbury or whatever his name is, give you no bullshit.
+8A20B2AB || ~r~Big Smoke died!
+8D4D76B2 || ~s~Get back into Big Smoke's ~b~car.
+97F7F428 || ~z~Yeah man, just cool out homie, just chill.
+992C7C1A || ~z~And all that kind of shit.
+9AEAF4E2 || ~z~Let's go home, I gotta eat, man.
+9D8730FB || ~z~Man, I ain't never heard of him.
+9E41B803 || ~z~Don't be prejudiced again in my presence, Carl.
+A019AF94 || ~z~Man, let me get the heater on this...
+A532D5D4 || ~z~Alright then, c'mon.
+A7746B8D || ~z~We gotta stick with him!
+A8DC9660 || ~z~CJ, get in!
+A9AFE3BF || ~z~Yeah, motherfucker, Big Smoke! Remember that name!
+AF69585B || ~s~Chase down the ~r~gang member~s~.
+B0B4D2FE || ~z~This was just the point man!
+B1C7A721 || ~z~CJ, what you hangin' around for?
+B2F26CA7 || ~z~Look, my cousin is coming into town from Mexico,
+B8F73FD1 || Tap ~k~~PED_SPRINT~ quickly to use the Super Sprint.
+B9029ED5 || ~z~Eh, fuck you cabron
+BB44208C || ~z~Yeah, whatever you say.
+BC29E495 || ~z~Those nosey motherfuckers won't leave me alone!
+BE6F5ACC || ~z~sweet sticky bud fresh off the plantation.
+C5F55C31 || ~z~Yeah.
+C7B3E268 || ~z~Chinga a tu madre, pendejo.
+C9686A5A || ~z~OK, my cousin Mary's in there,
+CB2ED403 || ~z~BOO!
+CC43101A || ~z~For me, it's all about my homeboy, Carl.
+CCB05364 || ~z~Why you let me drive all the time, Smoke?
+CE05AE43 || ~z~and I want that grass? Comprende?
+D0735B1B || ~z~That other motherfucker'll lead us straight to the weed!
+D235E542 || ~z~I gots to go scoop her up.
+D558215B || ~z~Yo Carl, see you around...
+D71E9F02 || ~z~Oh, what's up with this shit, man? Fuck this, man, fuck this.
+D86E68CD || ~s~Get a weapon, then get back into Big Smoke's ~b~car~s~.
+DEA8D329 || ~z~Damn!
+DF03ACD4 || ~r~Big Smoke's car was destroyed!
+E0F0C4BE || ~z~Your cousin's coming here? From Mexico?
+E3364C46 || ~z~Yeah. You know it is.
+E45B885F || ~z~It takes more than a fool like him to bug me out.
+E79D00A7 || ~z~What you want me to roll with you for anyway?
+EA80006D || ~z~Tenpenny.
+F37C8901 || ~z~I'm trying, man.
+F39B312C || ~z~This guy is really getting on my fucking nerves.
+FA4A4624 || ~s~Drive Big Smoke to the ~y~meet.~N~~s~If you need a weapon, go to Emmet's house.
+FE8631E6 || ~z~Man, I'm done!

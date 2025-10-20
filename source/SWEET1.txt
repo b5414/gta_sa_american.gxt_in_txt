@@ -1,0 +1,77 @@
+628671 || ~z~I'm kinda short, you know.
+4CEA754 || ~z~There's another two Balla tags in the hood.
+70F4268 || ~z~I'll catch up with you.
+83651A3 || ~s~Get back in ~b~Sweet's car!
+12EC85DE || Spraying over a rival tag will gain you respect from your gang. There are many tags scattered around Los Santos to find.
+1AB8520C || ~z~Get that fool!
+1DD59615 || ~z~What the fuck?
+287D73F0 || ~z~You already spreading out, fat man. Now let's play.
+2B4FD5B2 || ~z~I'll get this one, follow me in the car.
+2C2211AB || ~z~CJ, check out Ballas' turf with me.
+2F10B7E9 || ~z~Hey, CJ.
+316642B1 || ~z~Look who's here, it's running man. What, you think you back on the set?
+319501CF || ~z~Yeah, for sure.
+360B86A8 || ~z~We gotta go hit up the hood.
+36F8C5D6 || ~z~Hey wait up.
+3F4E89FD || ~z~My ride, dude! You drivin' like a bitch!
+3F79C880 || ~s~Drive with Sweet to ~y~Idlewood~s~.
+3FBDCA83 || ~z~Start with our own set first.
+410CB63E || ~z~Let them know you're back on the set.
+46617227 || ~z~I told you that, bro.
+46923159 || ~z~You wanna drive?
+4849B96B || ~z~Hey, everybody, look at Mr. Wheeler over here!
+48BAFA15 || ~z~Later on, we'll spread out and take the whole hood back.
+4F247D72 || ~z~The steering wheel ain't thee for no decoration, man!
+52936D16 || ~z~While you're doing this, I'll be doing another block.
+5817877F || ~z~Let's see what you got, pork chop!
+5B25213D || ~z~Let's check out the Ballas' turf.
+5C48E524 || ~z~I'm gonna tag this block - follow me in the car.
+5F7A4366 || ~z~- C'mon, fat boy. C'mon, fat boy. Fat boy - look at you, look at...~n~- Yeah, yeah, watch out. Fool... Watch this, watch this...
+62867151 || ~s~Go back to ~y~Sweet's house~s~.
+64092EB1 || ~z~CARL, QUICK, GET IN!
+65EBB548 || Keep ~k~~PED_FIREWEAPON~ pressed until the tag is completely sprayed over.
+6DBF629A || ~z~Cap that mother!
+700872FE || ~z~Here, get yourself a beer or something.
+71EAE907 || ~s~Go to the ~y~blip~s~ to find the next tag.
+7765B6E7 || ~z~How you doin' on the feddy?
+79BE3ED5 || ~z~C.R.A.S.H. took all my paper, man, left me with nothing but small change...
+7CB15C8A || Stand in front of the fence and press ~k~~PED_JUMPING~ to climb the fence.
+8253984F || These are Ballas gang members, dressed in purple. They are your sworn enemy.
+83B103B6 || ~z~Chase him down!
+84DCC7AF || ~z~Hey, that's our tag!
+8A074F9D || ~z~CARL, GET IN THE WHIP!
+8BE5D464 || Look at the tag and hold ~k~~PED_FIREWEAPON~ to spray it.
+8D6A8B84 || ~z~Like riding a bike, ain't it, boy?
+913F0019 || ~r~Sweet is dead!
+996BD7CB || ~z~C.R.A.S.H.took what I came with.
+9DC7F6EE || ~z~You go get 'em and I'll keep the engine running.
+9FE4882B || ~s~Spray over the remaining ~g~tags~s~ in this area.
+A12A1C5E || ~z~Trays are gonna see us coming from a mile off!
+A647D847 || ~z~Hey, I just got this shit out of the paint shop, man!
+A670993A || ~s~Drive to ~y~East Los Santos~s~.
+A86F130B || ~z~C'mon, man, gimme a break.
+A89C5075 || ~z~This ain't Liberty, homie, watch the road!
+AF02D712 || ~z~Take this paint and go hit shit up.
+AFF1946C || ~z~Thought you'd hang with your brother huh?
+B174224A || ~z~Ah ha ha ha! Bam!
+B2468408 || ~z~Watch for those rollers as I tag this up.
+B52B4011 || ~z~You hit this up here, and I'll go up and do another hood.
+C22C7087 || ~z~Hit this up, and I'll go hit up another block.
+C541B49E || ~z~C'mon, let's cruise into Ballas territory.
+C67312DC || ~z~Yeah, yeah, watch out. Fool... Watch this, watch this...
+CFCB7F70 || Enemy gang territories can be dangerous. Hang around for too long and you will attract attention.
+D140E8D1 || ~z~You back for five minutes and you've wrecked my car!
+D62D2CC8 || ~z~Dude, you drive like a base head!
+D805E784 || ~z~The Johnson brothers are rolling again.
+D8F6A4FA || ~z~Aw, ease up little man, c'mon, it's been difficult.
+DF68239D || ~z~Your word don't mean shit around here.
+DF9B60E3 || ~z~Easy on the gas, partner.
+E5B80D30 || Press ~k~~PED_JUMPING~ to climb onto the wall.
+E638308F || ~r~You destroyed Sweet's ride!
+EE6CE75D || ~z~Already? Shit, them boys on their game!
+F2396CC0 || ~s~Find and spray over the ~g~tags~s~.
+F25F8A01 || ~r~You need a spraycan!
+F3DBF739 || ~z~You some kind of mental case, fool?
+F554A8D9 || Press ~k~~PED_FIREWEAPON~ to spray the gang member in the face.
+FA6DBB12 || ~z~Yeah, it all comes back.
+FB8F20EB || ~s~Get in ~b~Sweet's car~s~.

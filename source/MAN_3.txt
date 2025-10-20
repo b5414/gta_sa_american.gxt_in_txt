@@ -1,0 +1,96 @@
+564F19 || ~z~No idea what's going on,
+24E9D9D || ~z~I need to check on things in the hood.
+73B8B00 || ~z~Answer it.
+94F3A59 || ~z~You gotta understand, shit's all fucked up now, dude.
+9E00332 || ~z~I just want you to go pick up your brother.
+BF8D1B6 || ~z~Hey man, let me get you some new clothes, c'mon!
+C9515AF || ~z~Hey, man - we off to our new spot!
+FA98A37 || Sweet's out of jail, he's going to need a ride.
+10FB3273 || ~z~Oh, will you stop. This is pathetic, come on. You're embarrassing yourself.
+12E3E0F7 || ~z~What you done for our hood?
+158E24EE || ~z~You always a perpetrator, running from what's real.
+16B2BB76 || You need a vehicle to pick-up Sweet.
+194D7E58 || ~z~Toreno, fuck you. I almost lost my life out there for you.
+1B55ACDC || ~z~That's everybody's dream, to get out of the hood...
+1E20BA41 || ~z~I don't care 'how', I care 'when'.
+2262699A || ~z~Alright, let's get out of here. Go see Kendl.
+2484D9F4 || ~s~Now take back the hood!
+250FAD83 || ~z~My brother can be a real pain in the ass!
+2A4DE769 || ~z~You was born in there. Damn!
+2A5F51C6 || Kill any crack dealers in your hood to keep your gang healthy.
+2C16D8C3 || ~z~Come on, put it down. Don't be ridiculous, OK?
+2D202370 || ~z~Looks like baseheads have took over the spot.
+33446087 || ~s~Shoot some Ballas to start a gang war!
+3429A49E || The car is too full, there's no room for Sweet!
+35A2D0E9 || ~z~Strawberries!
+37EF2C66 || The vehicle is too full, there's no room for Sweet!
+39CEB334 || ~z~I'm alright, man.
+3B7958DB || ~z~Punk ass yay whores!
+3C149CC2 || ~z~Get outta this neighborhood!
+3EA3772D || ~z~Alright, man, you hard. I'm gonna show you what's going on in the hood.
+42A5E07F || ~z~This was my mom's house!
+44435011 || ~s~Go back and take the hood at ~y~Grove Street~s~.
+49A447BB || ~z~What's up, bro?
+4B13AC54 || ~z~Crack-a-lack-a ass!
+52089D15 || ~z~Rome wasn't built in a day, niggah!
+5383E962 || ~s~Now kill the ~r~Dealers~s~!
+5A2713E6 || ~z~Man, what the fuck? That's Mom's blender!
+5B11E855 || ~z~Aw, Sweet!
+5D4AD7FF || ~z~Get these fuckers out of Mom's house!
+5D586150 || If a gang member is high on crack you won't be able to use him.
+62891478 || ~z~Hey man, shit's fucked up there.
+65E4D061 || ~z~Man, what the hood done for me?
+67FC02E5 || ~z~Hey, I got a little surprise for you here. You ready for this? Huh?
+6803C7CB || ~s~Drive Sweet to ~y~Grove Street~s~.
+69278AD7 || ~z~As in 'now'. You hear me?
+6C529C4A || ~z~Man, you sound just like Smoke right now.
+6E4A4ECE || ~z~I've just got one tiny little thing for you to do,
+6F6E03D2 || ~s~Pick up Sweet from the ~y~Precinct~s~.
+703CBB96 || ~z~Hello?
+7549AD0B || ~z~Man, that's the problem.
+76753293 || ~r~Sweet has been killed.
+77517F8F || ~z~but I'm in the square outside the precinct in Commerce.
+78AEBAA1 || ~s~Get a bigger vehicle!
+7925CED6 || ~z~Just take me to moma's house.
+7B922539 || ~z~We got a mansion, Sweet! We been putting in work, and shit is going well.
+7CFFE120 || ~z~New clothes? Nigga, what the fuck is this bullshit?
+7EE733A4 || ~z~Get out of here.
+80442FE2 || ~z~You know what? I'm tired of your fucking little jobs.
+816062FE || ~s~You lost ~b~Sweet~s~, go back and get him.
+8729EBFB || ~z~Hello, boss man. Taking care of business I see.
+8BEAB14D || ~z~Ever since I got out of the hood shit been cracking!
+8C877554 || ~z~No. That's exactly where I want to be.
+90466BE3 || ~z~Yeah.
+92F1800C || ~z~You never did get it, did you, Carl?
+959C4415 || ~z~we're getting into the rap game!
+995F1EA3 || ~z~So what was that little job you was talking about, Toreno?
+9E32DABA || ~z~I don't know what happened, they just released me.
+A2700961 || ~z~Base pushing ass pussies!
+A51DCD78 || ~z~I'll kill all you motherfuckers!
+A7AA2697 || ~z~How you doin', bro?
+AA4D313D || The Hood is yours!
+ACAB8153 || ~z~Motherfuckers!
+B344B6D3 || ~z~Let's go home.
+B42972CA || ~z~Yo, man, y'all want to buy a blender?
+B43BC465 || Time Left
+BB6B3820 || ~z~Kendl can come see me right here, at her home.
+C218B9EF || ~z~Alright.
+C32E425C || ~z~It's really good. It sort of works.
+C4438645 || ~z~This is home, man.
+C45130EA || ~s~Take back the hood from the Ballas and clean out the ~r~Dealers~s~!
+CC6C08B6 || ~z~But it ain't nothing here no more.
+D0AD1601 || ~z~Hey, what's up, man?
+D21AFDEE || ~z~Y'all going down, motherfuckers!
+D57739F7 || ~z~Punk crack bitches!
+DBACB1C5 || ~z~Crack hos!
+DD4A01AB || Sweet
+E29B7483 || ~z~We got a stake in a casino, we got some insane shit in Fierro,
+E5F6B09A || ~z~What you mean, man? What's mine is yours, and you know that.
+E7415B75 || ~z~What you want, it ain't round here no more.
+E935EA2C || ~z~Carl, it's me, Sweet.
+EE582E35 || ~z~Alright you hold tight, I'll be right there.
+F02EDB6D || ~z~Hey, man, what the - ?
+F6675268 || ~r~You missed the bus.
+F7431F74 || ~z~then I'm out of your life forever.
+FB8045C2 || ~z~You don't want to be in the hood.
+FCED81DB || ~z~Always dragging me down.

@@ -1,0 +1,114 @@
+38D7D78 || ~z~We don't like him and he don't like us.
+4E0B961 || ~z~Time to go to work, CJ, and earn your freedom.
+5EA70E2 || Denise is now a potential girlfriend. Return here at any time to ask her for a date.
+90EFAD5 || ~z~Yeah, but those flames, they're too hot! I'm scared!
+9E942F8 || ~z~You're CJ, right?
+B43065A || ~s~Torch the house. Throw molotovs into the ~r~5 downstairs windows~s~ - that'll make it burn.
+C2EC243 || ~s~Go in through the ~y~front door~s~.
+C5804C9 || Press ~k~~PED_FIREWEAPON~ to use the fire extinguisher. Use ~k~~PED_LOCK_TARGET~ for a better view. Aim at the base of a fire to put it out.
+E8486E1 || ~z~Where you live?
+1015CB94 || ~z~You started this!
+1258371B || ~s~You've left the ~b~girl~s~ behind. Go back for her and take her home.
+179FB7A0 || ~z~Hey, man, I owe you my life...
+1A650F47 || ~z~The smoke, it's choking me!
+1A964C39 || ~z~Now you get this straight. We own you. You're ours.
+1D08CB5E || ~z~FIRE! Help, FIRE!
+1DFB8820 || ~z~So you finally found time to drop by.
+206E5599 || ~s~Good shot! A few more like that should do it.
+2223A916 || ~z~Put it out! Put it out!
+22C4113B || ~z~Stand back, I've got it!
+235D847E || To smash the windows, hit them with a weapon or throw a molotov at them.
+25A9D522 || ~z~Hurry up, put it out, put it out!
+28B4D5E8 || ~z~OK, I'll catch you later, CJ.
+2FCDEAA2 || ~z~- Oh, shit...~n~- Come on over here, son!
+31485C84 || ~z~(SCREAM)
+3625989D || ~z~(SCREAM)
+3B389857 || ~z~OHMYGOD, what was that?
+3F93D4B6 || ~z~(SCREAM)
+4122A80B || ~z~(SCREAM)
+41C51026 || ~z~This is my place, here!
+464F6C12 || ~z~(SCREAM)
+4894E420 || ~z~(SCREAM)
+4C3FA8C1 || ~z~Hey, the building's starting to collapse, we gotta get out of here, fast!
+55C321AD || ~z~Put out that fire, quickly, quickly!
+5769650F || ~s~That'll burn nicely. Torch another.
+58CADA34 || ~z~Come on over here, son!
+58DE2167 || ~z~Hey, what's your name?
+5B18A99F || ~z~I can feel the floor giving way!
+5C756D86 || ~z~Hold on, we're nearly there!
+5F545D53 || ~z~Stay at the window, I'm coming up!
+63B9B7E3 || ~z~Oh God, the flames! THE FLAMES!
+6712FB02 || ~z~Eh, this Grove Street chingon started the fire!
+67F5432F || ~z~Yeah, please, thanks.
+6A0FFBC8 || ~z~Please, God, somebody, HELP!
+6AFCB8B6 || ~z~Man, I've been busy. I've been burying my Moms, man.
+6D623FD1 || ~z~Somebody help me, help!
+6D917CAF || ~z~We can shit on you from such a height
+73E789F7 || ~z~There's a guy holed up across town.
+748A4DEE || ~z~Now you make sure he never leaves the neighborhood -
+77583E45 || ~z~but I thought you'd run away.
+796950C5 || Press and hold ~k~~PED_FIREWEAPON~ to throw a molotov. Hold ~k~~PED_FIREWEAPON~ for longer to increase the throwing distance. Be careful! If you don't throw it far enough you'll get caught in the blast.
+7B29F2D5 || The girl is upstairs. You don't have much time before she burns.
+7C4436CC || ~s~There are some more ~g~molotovs~s~ nearby.
+7E09CA43 || ~z~Hold on, there's probably a fire extinguisher in the kitchen!
+7EEE726E || ~z~I like to live dangerously.
+839F1D83 || ~z~Officer Pulaski thinks you're trying to screw with us, Carl.
+84019AE4 || ~z~Please, somebody, anybody, help!
+84F2D99A || ~z~Move over, let him sit down, asshole!
+891C9A2E || ~z~Who the fuck are you?
+8A2951A8 || ~z~You understand?
+8B5166A1 || ~s~Drive the ~b~girl~s~ ~y~home~s~.
+8DB7D6CF || ~z~CALL 911!
+8E96E61A || ~z~I was nearly dead there, for sure!
+9007AB6F || ~z~You there, you OK?
+90E01342 || ~z~Yeah, how you know me?
+924A57E0 || ~s~You've got molotovs. Go to the ~y~gang house~s~ and torch it.
+933260E9 || ~z~Now get the fuck outta here!
+952793F9 || ~s~You've trapped a girl inside the burning building. You'll have to save her.
+978DD75B || ~z~Just off Grove Street.
+983A9333 || ~r~The girl is toast!
+99565F69 || ~z~I never 'ran away' OK, I just needed to...get away from shit.
+9A842CC2 || ~z~Another gangbanging, drug-pushing, cop-killing bitch, just like you.
+9C91DFD2 || ~s~Take the fire extinguisher upstairs and rescue the ~b~girl~s~.
+9DE9E8DB || ~z~Yeah, he better had.
+A231C9ED || ~z~Oh God, I'm so scared!
+A69A850C || ~z~(SCREAM)
+AA0CF1B1 || Girl
+AF2CC927 || ~z~(SCREAM)
+B27B0CAA || ~z~Shit! Shit! The house is collapsing!
+B6C4BB18 || ~z~Hell, no. I'm outta here...
+B6D0404B || ~z~Yeah, I'd like that.
+B9670423 || ~s~Fire in the hole! Keep going.
+BB2AF8AC || ~z~Stand back!
+BBCD4081 || ~z~Gimme a second girl, don't panic!
+BCA08498 || ~z~Oh my God, we'll never escape!
+BE0AC03A || Aim fire extinguisher at the base of a fire to put it out.
+BF92DB43 || Rumble... Rumble... (sounds of building collapsing)
+C1C38B8E || ~z~Waiter, can we place an order over here!
+C1D770DD || ~z~Denise. Denise Robinson. Give me a call sometime, we should go out, or something.
+C57C3C3C || ~z~Oh my God, the house is going to go!
+C65D0CE9 || ~z~Hold tight, girl, I'm coming!
+C90DF0AC || ~s~Burn, baby, burn. Now hit the next room.
+CBA7B40E || ~z~Quickly, QUICKLY!
+CCCA7017 || ~z~Quit panicking, I'm on it! I'm on it!
+CE6034B5 || ~s~Up in flames! Torch the next.
+D82BF9B1 || ~z~(SCREAM)
+DF463DA8 || ~z~(SCREAM)
+E06D5FE0 || ~z~I'll be right back!
+E08AE7CD || ~z~No shit! What you doing in Vagos 'hood?
+E220A36F || ~s~Well done. The house is going to burn to the ground.
+E435507F || ~z~not even in a box.
+E54D6776 || ~s~Tenpenny has hidden some ~g~molotovs~s~ in an alleyway in Downtown Los Santos. Pick them up.
+E7E723D4 || ~z~Everybody in the Grove knows you and your brother,
+EAEED84D || ~z~He better fucking understand.
+EB96EF44 || ~s~There's a ~g~fire extinguisher~s~ in the kitchen downstairs.
+ED831C54 || ~z~You got that address, Pulaski?
+EF3DA3A5 || ~r~The girl is dead!
+F306AA72 || ~z~Hey! Can anybody hear me?
+F3F5E90C || ~z~HEY! CARL JOHNSON! CJ!
+F46B6E6B || ~z~Oh my God, help!
+F4982D15 || ~z~Sounds like a fucking excuse to me.
+F9766EA1 || ~z~Some Grove Street OG started the fire!
+F991D68C || ~z~Hey, you look pretty shook up. girl, you want me to take you home?
+FC565637 || ~s~You have left the ~b~girl~s~ behind. Go back and get her.
+FD2E613E || ~z~you'll think God himself has crapped on you.

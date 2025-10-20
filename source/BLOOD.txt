@@ -1,0 +1,12 @@
+3EB05C || ~s~Get your overall time above the Target Time to win!
+7537445 || New Best Time (mins):
+6E22B18B || ~s~The current Target Time to win the Blood Ring is ~1~ mins.
+705444D3 || Results
+773980CA || ~s~You will lose if your overall time reaches zero.
+802CD0A7 || ~s~The overall time starts at 30 seconds and counts down.
+97EC69D4 || Cars Destroyed:
+9E5A25FF || ~s~Pick up car upgrades to increase your chances of winning.
+E0EB5942 || ~1~
+E95D1569 || ~r~You ran out of time!
+EE30D170 || ~s~Drive through the checkpoints to increase your overall time.
+F72BE031 || ~s~The current Target Time to win the Blood Ring is 1 min.

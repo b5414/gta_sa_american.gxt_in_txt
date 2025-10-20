@@ -1,0 +1,152 @@
+1191D27 || ~z~Let me re-introduce myself...
+334F967 || ~z~Hell's sewers, that was a sniper bullet!
+4593D7E || ~z~Ready?
+8AF510C || ~z~Hey, what's happening Woozie - y'know, how you doin'?
+8FA3B37 || ~s~Get Woozie back to his ~y~place
+9A38599 || ~z~Hey, what's with all these people?
+A82B54C || ~z~YOUR BLOOD WILL RUN LIKE WINE!
+C20010F || ~z~Thank you, Carl, you saved me from having to kill them all myself.
+DEF7155 || ~z~CJ, take out that sniper!
+E29F9AD || ~z~NO!
+ECE4180 || ~z~Follow me.
+FC29515 || ~z~A'ight. I'll keep that in mind.
+10B8B4D8 || ~z~This is the place!
+11B4604D || ~z~Curse? Nah.
+1399840D || ~z~In the car, quick!
+14F44014 || ~z~Let's get the hell out of here!
+16D9A454 || ~z~Easy, man, I'm here to see Woozie.
+1732C8EC || ~z~Just, eerr, checking the, um, y'know. Shut up, Carl.... THIS WAY!
+18022C66 || ~z~And the Triad that would do anything for him.
+1A2FC826 || ~z~Hold up, Woozie, we still got trouble!
+1D420C3F || ~z~I see him. He on the roof!
+206096D5 || ~z~The Mountain Cloud Boys will not rest until the Blood Feathers are avenged.
+228ED65A || ~z~Something's not right.
+238202CF || ~z~Where I come in at?
+24EFC6D6 || ~z~Nice to meet you.
+2504AA6E || ~z~Yeah, traffic and other shit.
+25E31243 || ~z~This way, I think.
+26259ABB || ~z~You're an outsider.
+270D52CC || ~z~That look like the last of 'em.
+2819AAA4 || ~z~Enough! What happened here?
+2A344EE4 || ~z~Come with me, and you'll see how we Triads settle things
+2F746EBD || ~z~Oh, oh sorry, didn't see you lying down there.
+2F93D690 || ~z~Some small time Vietnamese gangs have been making trouble lately.
+3223AB30 || ~z~18, 19, twenty. Now was it right or left?
+366F5FFC || ~z~Strange, this gate is usually locked.
+3B95E71B || ~z~Hold on, just getting my bearings.
+3CF82302 || ~z~Was it fifteen paces, or fifteen feet?
+3DF4F797 || ~z~A'ight, I'll ride with you.
+3E16638D || ~z~You drive, I'll send them back to the sewers!
+3EDE7380 || ~k~~CONVERSATION_YES~ = YES ~k~~CONVERSATION_NO~ = NO
+41686F6A || ~z~Here, this is the place.
+42495FBF || ~z~That's the smell I was after.
+45249BA6 || ~z~Ah, the unmistakable skitter of tiny rat feet!
+46E2135E || ~z~Hurry up, Woozie. What's the problem?
+4AF3C701 || ~z~without recourse to...unnecessary violence.
+4BFF1394 || ~z~With the wind on my right, sooo...
+4EB4870F || ~s~Let Woozie destroy the attacking ~r~cars~s~.
+52039AF8 || ~z~Exactly! Trust me, I know what I'm doing. Follow me!
+52E422D5 || ~z~We should proceed with caution.
+53E8F640 || ~z~I am the boss of the Mountain Cloud Boys.
+54853259 || ~z~that disputes are settled without...damaging important business.
+56A8D619 || ~z~Shit, here they come again!
+5767A643 || ~z~We've lost a Triad to interlopers.
+58735E2B || ~z~What's got spooked?
+5894E606 || ~z~We're not sure why they're gaining any courage now, but I'm nervous about the situation.
+5D337E72 || ~z~that failed to show face at the last Tong meeting.
+5E0A3AF9 || ~s~Take Woozie to the Tong ~y~meeting~s~.
+5ED1EA68 || ~z~First we must mourn and make funerary arrangements.
+5F1E9A32 || ~z~Dai Dai Lo! Forgive me, I was too scared to fight, so I hid.
+5FF9221F || ~z~The Blood Feather Triad have a storehouse around the block.
+60D24057 || ~z~Come on, it's this way.
+61DE94C2 || ~z~We're closed! Pokgai!
+63F37082 || ~z~Let's get the fuck out of here!
+649EB49B || ~z~Woozie, keep it down, we still got trouble!
+66B350DB || ~z~You know of the boss's curse?
+6A453CA9 || ~z~Shit, man, they really want you dead!
+6DCF409D || ~z~We'll need a ride, mine's getting some bodywork done to it.
+6F051CF0 || ~z~Yes, I know. He is blessed with unbelievable good fortune.
+735E0DE8 || ~z~CJ, follow me and stick close!
+7433C9F1 || ~z~I think I got them all!
+761E2DB1 || ~z~about who I am and what I do.
+77F22CCD || ~z~More of them, in cars!
+78C5A583 || ~z~We call him our Lucky Mole.
+792EC93B || ~z~No, I was just, you know, getting the feel of the place.
+7AE841C3 || ~z~CURSED ASSHOLES!
+7C4AF580 || ~z~Here, a token of the Tong's appreciation for what you did today.
+7C82E58D || ~s~Follow ~b~Woozie~s~ and protect him from the ~r~ambush~s~.
+7D8585DA || ~z~YOUR MOTHERS WERE DEMON SLUTS!
+7FA8619A || ~z~Hello, Carl.
+7FFD0BA1 || ~s~If you leave now Woozie will lose face. Go back and take out the remaining ~r~enemies!
+80E77CA0 || ~z~Cover me, CJ, I'm moving up!
+8326999C || ~z~OK, clear, Woozie, GO!
+88BD31F7 || ~z~He's blind.
+89B1E562 || ~z~What's that smell?
+8A90D5B7 || ~z~Lay low!
+8DFD11AE || ~z~Get on the back of the bike!
+8E3B9956 || ~z~Hey, what the hell you doin'?
+8FD0F5EE || ~z~Oh. Upstairs.
+90AAD423 || ~z~Where they going?
+91A600B6 || ~z~Straight to the facts;
+91F36A8D || ~s~Get out of the alleyway and protect Woozie from the attacking gang!
+938BE4F6 || ~z~Damn, I err, got something in my eyes, is it safe to move?
+94E620EF || ~z~EAT THIS HOT LEADEN SHIT!
+952950B5 || ~z~Yeah, well. Give me a call if you need some more help, man.
+96CBC4AF || ~z~Good.
+9720A817 || ~z~What's wrong? You lost? Need a hand?
+99FC4DE1 || ~z~We got more company!
+9A3DA8DD || ~z~DIE YOU MOTHERFUCKING SONS OF WHORES!
+9B3AC88A || Woozie
+9F91846B || ~r~Woozie Died!
+A29CB6A1 || ~z~This is very interesting...
+A4FDA62D || ~z~Stupid ass motherfucker...
+A5F172B8 || ~z~Ah, no, now I've got it...
+A71F3237 || ~z~Keep driving, I'll take care of these murderous scum!
+A80BCA5F || ~z~Odd, this gate should be locked...
+A90CAA08 || ~s~Drive Woozie back to ~y~his place~s~.
+AC473E93 || ~z~Now... where's that loose cobble?
+B0045BD5 || ~s~Follow ~b~Woozie~S~
+B110FB1E || ~z~He's dead. They all are.
+B1F74333 || ~z~OK. So what's all this talk of business?
+B69A872A || ~z~How do I fit in all of this?
+B8A6B735 || ~z~Vietnamese surprised us, cut us all down.
+B969C76F || ~z~Another day, Woozie, another day.
+BA8B5375 || ~z~We shall see.
+BB8787E0 || ~z~No shit, where everybody at?
+BC0DFBD4 || ~z~Do you hear something?
+BDE6976C || ~z~Likewise. Why don't you sit down.
+BE040376 || ~z~OK, let's get back to my place.
+C17A0F91 || ~z~Oh man, Woozie...
+C617CB88 || ~z~The Blood Feathers, wiped out?
+C6F073A5 || ~z~We shall see what excuses they have to offer.
+C7036B43 || ~s~Wait for Woozie.
+C90333E0 || ~z~This is a black day for the Red Gecko Tong.
+CAE1A7FA || ~z~As Dai Dai Lo of the Triad, it is my responsibility to see
+CC80B776 || ~z~Hiding, scared. I can smell them.
+CD8C63E3 || ~z~I'm about to drop in on a local Triad
+CE6EF7F9 || ~z~Yes.
+D2F6422E || ~z~Two stalls then turn left, no, no, right...
+D3FA96BB || ~z~Yes, right this way.
+D59B8637 || ~z~Hmmm, yes, intriguing...
+D8613ED0 || ~z~Ah, we're here! This way!
+DB400E05 || ~z~Should be a sewer right about here...
+DFEB42E4 || ~z~Yeah, err, I'm just checking my bearings.
+E1999E02 || ~s~Stick close to ~b~Woozie~s~.
+E1CCF439 || ~z~Woozie!
+E22E6023 || ~z~Sure thing.
+E3E11079 || ~z~YOU WILL WANDER AS GHOSTS!
+E6A13020 || ~z~I can't use your help unless I'm open with you
+E74A5C98 || ~z~Stick Close!
+E7ADE4B5 || ~z~Something isn't right here. We should be careful...
+E896B4FD || ~s~You left ~b~Woozie~s~ behind! Go back and get him.
+EA575C52 || ~z~The Triads must have vengeance!
+ED3A984B || ~z~Looks clear to me, go! Go!
+EEFB7D77 || ~z~Cars on our tail!
+F34C6D13 || ~z~Oh fuck, man, more up ahead!
+F421A90A || ~z~Break for it, Woozie!
+F4C61127 || ~z~Alright, don't trip.
+F7E04C36 || ~z~I'm breaking cover, CJ, spray 'em!
+F8D7C578 || ~z~I'm Johnson. I'm here to see Woozie, I work with him.
+FAFA2138 || ~z~On the bike, quick!
+FEB6D5F4 || ~z~Laundry.
+FFBA0161 || ~z~Blind? But we was just racing cars last week!

@@ -1,0 +1,121 @@
+2090539 || ~z~Room clear!
+564C120 || ~z~You go ahead, CJ, we'll hold the balcony!
+879C1EA || ~z~Good idea - the element of surprise.
+9EE05C9 || ~z~That's cool, man, I'll take you. Where's home?
+BBF4912 || ~z~Go ahead, CJ, I'll hold this balcony!
+CD28D0B || ~z~Room clear!
+E83C1D0 || ~z~You ready to take it to the stage again?
+10F53488 || ~z~My mansion ain't big enough. Only got 19 bedrooms, you hear?
+1162F0AB || ~z~You don't know who you're fucking with, do you?
+1798F091 || ~z~wait for Sweet. Get things moving.
+195FC8F7 || ~s~Chase down ~r~Big Poppa~s~ and run him off the road!
+19A52732 || ~z~Hello.
+1EC8E32B || ~z~We're gonna drive back to uh San Fierro first,
+22C3560A || ~z~People of reduced stature, you mean.
+25AE9213 || ~z~and letting suckers give you their money.
+28B392D9 || ~z~Man... you gave your multi million-dollar mansion to a motherfucking pusher?
+2B69AA75 || ~s~Try to land on the ~y~mansion roof~s~ with the Triads.
+2C046E6C || ~s~The ~b~Triads~s~ have nearly arrived, don't let any of them die once they land.
+2FDE56C0 || ~z~Nobody.
+303F67BB || ~z~Nah.
+31A8A398 || ~z~Yeah.
+32729B34 || ~s~Search the mansion for Big Poppa and kill anyone who gets in your way.
+36C56781 || ~z~All of you! We're ALL going home.
+3752A3A2 || ~z~WhaaaHOOOOOO!
+3A4FA368 || ~z~Who are you to break into this place, eh?
+3BD8674B || ~z~What could have more mass appeal than a song
+3CB5A352 || ~z~Thank you? Thank you?!
+40559334 || ~z~Hey, wait up!
+41C25717 || ~z~You gotta be kidding me, right?
+46AF930E || ~z~We could do with a place like that to set up in LS again,
+4738572D || ~z~Nah. You?
+49E3DF1F || ~z~WhoooHOOOOOO!
+4BB293C4 || ~z~Thank you.
+4CDF57DD || ~z~I'm sorry. We're just looking for something with a little more mass appeal.
+4D4893FE || ~z~All you fools are gonna die!
+52A9A285 || ~z~I thought it was just a case of opening the doors
+55C4669C || ~z~I'm trying to do business, not audition midgets.
+58D96656 || ~z~Who, Madd Dogg?
+5B035EFA || ~s~You will have to keep the roof clear until the ~b~Triads~s~ arrive.
+5E23666C || ~z~Bastards! LET'S HIT'EM!
+5FB4A24F || ~z~You know, CJ, these things happen. I was powerless!
+60799F96 || ~z~I'll be fine, I got Cesar and Madd Dogg to keep me safe.
+609FC007 || ~z~- Nice crib.~n~- Thanks, player.
+6665C03D || ~z~You trying to fuck with my house, with my shit?
+67F2041E || ~z~What? I saved your life, man!
+69CFD3BD || ~z~Nothing - just thought I'd wish you luck.
+6E58F861 || ~r~Big Poppa~s~ has left the ~y~mansion~s~, follow him.
+7263F1B6 || ~z~OK, it's clear!
+750E35AF || ~z~CJ, clear the corridor and I'll check each room!
+7984F146 || ~z~That's good news, man. Hey, what's cracking?
+7BD5BD9D || ~z~Clear that corridor and I'll take each room!
+7CB87984 || ~z~No one left in here!
+7EE9355F || ~z~I want to go home now, CJ.
+7F7EF17C || ~z~So the rest of the crew can move in in peace.
+804A2919 || ~z~A'ight, man, my mansion's been seized.
+8056994D || ~r~Big Poppa~s~ is downstairs, take him out.
+80AC7688 || ~z~Hey, what's up, Carl?
+873B5D54 || ~r~You lost Big Poppa.
+87C1B291 || ~z~Wanna check things out there before we hook up with you guys in Los Santos.
+886BA111 || ~z~You chose the wrong house to rob, fool!
+89FC6532 || ~z~Get out dis midget game.
+8E77FEBA || ~z~You be careful.
+8E91A12B || ~z~Drugs, sex, all that shit.
+90E75473 || ~z~Easy, CJ, c'mon man. One step at a time, you know? I'm almost ready, but, but...
+91709050 || ~z~Me and you gonna go in to clear the place out.
+92B618A8 || ~z~This room's clean!
+95DBDCB1 || ~z~You go ahead, CJ, I'll stay and hold the balcony!
+978A906A || ~z~Madd Dogg!
+994DA80C || You have taken back Madd Dogg's mansion.
+99511858 || ~z~My mansion, baby.
+9C6D909A || ~z~This one's clear!
+A2D136F1 || ~z~Do you know how much balls it takes to stand down here
+A346F2D2 || ~z~Die motherfuckers, none of you are leaving this house alive!
+A5BCF2E8 || ~z~Don't hate the little man, because he's packing a 6 shooter!
+A7EDBE33 || ~z~WhaaaHEEEEEE!
+A8A1F222 || ~z~Yeah, you know it - but...
+AB677ADA || ~z~like "Small But Perfectly Formed"?
+AB7BCA8E || ~s~The ~b~Triads~s~ have arrived, go to the roof and collect them.
+AC160E97 || ~s~The ~r~owner~s~ of the mansion is downstairs, take him out.
+AE5BF218 || ~z~When we land, we're going feel invincible!
+AFCC363B || ~z~Man, I should have let you jump! Come with me.
+B1BAC363 || ~z~Big Poppa! The drug dealer?
+B27C4B9B || ~z~Yeah, yeah, I said that.
+B50D3FD6 || ~s~Get to the ~y~mansion roof~s~ and help the Triads.
+B6D7077A || ~z~Who?
+B80C8F48 || ~z~Oh - man! How much blow can one guy snort?
+BBCA07B0 || ~z~If only.
+BCA7C3A9 || ~z~Assholes!
+BCBB73FD || ~s~Get back to the roof the ~b~Triads~s~ have nearly arrived, don't let any of them die once they land.
+C1D037EC || ~z~Nah, not exactly.
+C20A0F40 || ~s~Help keep the roof clear until the ~b~Triads~s~ arrive.
+C57B7B0D || ~z~All I know is, when are we gonna get some real talent in here?
+C6BDF3F5 || ~z~A'ight, Big Poppa.
+C72A37D6 || ~z~We're heavily outnumbered, but if we all keep our heads, we should kick ass!
+CBA0F33F || ~z~Damn! This casino game is hard work.
+CBBC436B || ~s~Take the ~b~Triads~s~ inside the ~y~mansion~s~.
+CCCD3726 || ~z~You know what? I'm getting bored here.
+CF0BBFDE || ~z~You fucking degenerate!
+D2BBC27E || ~z~Next.
+D32C065D || ~z~Ain't nobody gonna hear from you again!
+D5D60667 || ~z~and sing a song like that? It takes guts!
+D8CB06AD || ~z~It's not my fault, CJ!
+D95CC28E || ~z~I AM INVINCIBLE!
+DC604A4C || ~z~Women want me. Men want to be like me!
+DC7CFA18 || ~r~You failed to protect the Triads.
+DE310697 || ~z~You ever jumped before?
+DFA6C2B4 || ~z~I heard that.
+E08DA0FC || ~z~CJ! I'm clean, dude!
+E5B1283E || ~z~No one in there!
+E7E064E5 || ~z~But what?
+EB6AA00C || ~z~CLEAR!
+EC076415 || ~z~CJ, clear the corridor and we'll clear each room!
+EE5628CE || ~z~Yeah, I heard about that place.
+F0C68207 || ~z~Alright cool, you be careful.
+F74D198F || ~z~IRS?
+F751A9DB || ~r~Big Poppa~s~ is making a run for it, chase after him!
+F7AB461E || ~z~Hey Kendl, wassup?
+F801559E || ~z~I'm a fuck with YOU!
+F970CE2C || ~z~I will. I'll see you in Los Santos.
+F99691BD || ~z~Yeah, yeah I been there.... I mean, I seen it on TV.
+FEFB55A4 || ~z~But, CJ... Come on, man...

@@ -1,0 +1,154 @@
+4BEAF3 || ~z~Chillin'. Wanna go for a ride?
+B8A98D || ~z~Russian cats with nothin' to lose about to bust some ass.
+37E2175 || ~z~Stick with me CJ, we outta here, baby!
+3999958 || ~z~It's getting' kinda tight!
+7262EEA || ~z~We're going downtown.
+7D56D94 || ~z~I gotta be honest with you, CJ. We could be gettin' into some heavy shit, baby.
+9098862 || ~z~Watch our backs!
+90EE5A6 || ~z~Now all my life I been told to fear the Ruskies, but I ain't never even met one.
+A2FD573 || ~z~Fools totaled their truck!
+AC86D5E || ~z~You should not have come here, Big Smoke!
+D42116A || ~z~Fry, motherfuckers!
+DA5A947 || ~z~You should not have come here, Big Smoke!
+E6321BF || ~z~For real!
+1334E432 || ~z~Man, we better split up.
+13D35C1F || ~z~That's my homie, CJ!
+1459202B || ~z~Yeah, for sure.
+14BE9806 || ~z~Stick real close, Carl!
+1798C517 || ~z~Finally!
+1A651034 || ~z~That's my dog, makin' y'all pay!
+1A7D7245 || Smoke
+1D08D42D || ~z~Get on the back, CJ!
+21E53E9D || ~z~Smoke, what you thinking? Flood control's a dead end, man!
+2223B665 || ~z~What took you so long?
+22C3638C || ~z~I got you, I got you, baby!
+254E727C || ~z~Use some cover, they're blasting like fools in this motherfucker!
+25AEA795 || ~z~Take the high road!
+2688FA84 || ~z~Ah Smoke, these cats is organized. It's something you ain't tellin' me man!
+285372B6 || ~z~The old sewer tunnel? Oh man....
+2B95FA4E || ~z~Motherfuckers!
+2CF83E57 || ~z~That's what I'm talking about, that's my dog!
+2F3EB6AF || ~z~Man, quit bitchin' and shoot as many of them assholes as you can!
+314843F7 || ~z~Hold on tight, baby!
+31AFFBDA || ~z~They's up to something...
+35E30F16 || ~z~Kill the Amerikos!
+3819B7F1 || ~z~Oh shit, now the truck's found us again!
+38E66DAD || To look around on the bike use the camera movement controls. To fire press ~k~~PED_FIREWEAPON~.
+38FE0FDC || ~z~Damn, look at all this traffic - GET OUTTA THE WAY!
+39C2AD8F || If enemies are using cover it may be better to use manual aiming whilst shooting.
+3F7473E8 || ~z~We ain't dead, and your trigger finger still works, fool!
+3F8BA9B4 || ~r~Smoke died!
+3F93CBC5 || ~z~They after us on a bike, Smoke!
+41C50F55 || ~z~Yeah, who negative now, bitch?
+42E43F80 || ~z~Kill the Americans!
+4589FB99 || ~z~Kill the Amerikos!
+46481EA5 || ~z~Cover my right, CJ, blast them motherfucking fools!
+464F7361 || ~z~Ah Smoke,! Nooooooo!
+46A8CB4C || ~z~Don't ask me, I'm just a tourist!
+4873437E || ~z~Such as?
+488C9922 || To look around on the bike use the camera movement controls. ~w~To fire use ~k~~PED_FIREWEAPON~.
+4894FB53 || ~z~We got bikes on our six - smash it Smoke!
+4EC59D19 || ~r~You left Smoke alone and he died! Next time stick a bit closer!
+4FE15D3B || You can also use ~k~~VEHICLE_FIREWEAPON_ALT~ to fire.
+4FF93F4A || ~z~I'm coming through!
+518FCA12 || ~z~You're not telling me everything, here!
+524942EA || ~z~Watch yourself, CJ, I think they's pissed!
+52A99703 || ~z~Hold on!
+552486F3 || ~z~That's my dog!
+55C4531A || ~z~I'm on it, baby!
+56E20E0B || ~z~To hell with that, we had to lose those cars, don't worry about that.
+58398639 || ~z~Smoke, there's more cars comin' in on the left!
+5BFF0EC1 || ~z~Look, Smoke, we go way back. We Groves, man!
+5C92CAD8 || ~z~Hey, baby, want company?
+5F544220 || ~z~Smoke, it's more bikes!
+609FF581 || ~z~Don't these guys ever give up?
+635E10BD || ~z~Man, that was some crazy shit back there!
+63B9A890 || ~z~CJ, stay with me, homie!
+64D46C89 || ~z~Keep it up, baby!
+6A0FE4BB || ~z~Time to return the favor baby, get on!
+6D6220A2 || ~z~Ice those fools, CJ!
+6D7A42D3 || Bike
+70D25D02 || ~z~Nah, man, this is strictly for the homies.
+73F36DD7 || ~z~Nice one, CJ, here we go!
+749EA9CE || ~z~Hey, we can reminisce later, we still got company!
+774CDA65 || ~z~Yeah.
+77BF991B || ~z~Families coming back, Ballas pushing base,
+79641129 || ~z~For real?
+7A4521FC || ~z~Houston, we have ignition!
+7AA299D1 || ~z~Smoke, you and your friend are dead men!
+7DCF5DC8 || ~z~Smoke, you and your friend are dead men!
+7E09D530 || ~z~Yeah, yeah, you go figure.
+7E0EB8F4 || ~z~Waste any motherfucker that follows us!
+84018597 || ~z~Fill them fools up with holes, baby!
+8A3DB588 || ~z~I hear you.
+8AC26FD4 || ~s~Get back in the ~b~car!
+8ADA0DA5 || ~z~Keep up, baby!
+8D507191 || ~z~Listen we can't hang around here - I'll see you later, homie.
+8DB7C9BC || ~z~Stay close, CJ!
+8E9194AD || ~z~We're clean!
+9000D9D8 || ~z~You're rear gunner this time, CJ!
+9007B41C || ~z~Russians?
+932684C9 || ~z~Go around 'em, man!
+93C13CE4 || ~z~Big Smoke, you made big mistake, huh!
+944B40D0 || ~z~That's the old sewer up ahead!
+94ACF8FD || ~z~Big Smoke, you made big mistake!
+976A7005 || ~z~Then the wall comes down and we're all supposed to be friends.
+9942BB49 || ~z~What's happening, Smoke?
+99B1F837 || ~z~What you into, Smoke?
+9A90C8E2 || ~z~Damn this is tight!
+9DFD0CFB || ~z~The gate, Carl, the GATE!
+9E2F7F50 || ~z~A'ight.
+A0CBFC35 || ~s~Take Big Smoke ~s~to ~y~Downtown~s~.
+A110E64B || ~z~Man, stop being so negative!
+A1F75E66 || ~z~Don't tell me about it, take it off the road! Pop it!
+A67D2252 || ~z~I think the gearbox is screwed up on this thing! I can't get no speed!
+A682F80E || Shooting whilst you are crouching improves your accuracy.
+A69A9A7F || ~z~Hey man, we got bikes all on us!
+A8467F89 || ~z~CJ, take the right and cover my ass!
+A8A6AA60 || ~z~OH SHIT!
+AB879AB5 || ~z~Kill the shahkto bastard!
+AF2CD654 || ~z~Ha,ha ha, I'll never dis public transportation again!
+AFCB6E79 || ~z~Point taken, I'll keep my mouth shut from now on.
+B29CABF4 || ~z~Hey look , if you hear shit start to pop off, come in there blasting, a'ight?
+B637E715 || ~z~Oh man, the cars found a ramp!
+B8EC6F27 || ~z~Hold on though, I got a idea.
+BB2AE7DF || ~z~CJ, GET IN HERE!
+BBCA3236 || ~z~Yes Sir!
+BC4723C6 || ~z~CJ, get in here - oh there you are!
+BCA7F62F || ~z~Hit that ramp on the right!
+BF81AB3E || ~z~Damn, road-blocked!
+C130D783 || ~z~We still got bikes on us, man!
+C2F65F7B || ~z~Look Carl, before I walk in there I just need to know you down with this shit, man.
+C59B9B62 || ~z~I'm down, dog.
+C65D139A || ~z~I know a way out, up past Grove Street.
+CB401350 || ~z~Keep your head down, the air is thick as shit in here.
+CBA0C6B9 || ~z~Get us up that ramp!
+CFEB5FB1 || ~z~Look, Carl, all I know is they're real pissed with us right now!
+D5318BCC || ~z~Don't tell me about it, shoot!
+D617D6DD || ~z~Focus on the good news!
+D6F06EF0 || ~z~Shit, man, they coming fo' us in a truck!
+D82BE6C2 || ~z~Ah, they hit a bus!
+D8CC5EEF || ~z~What they up to, Carl?
+DBED6E3A || ~z~Kill that shahkto bastard!
+DC80AA23 || ~z~Kill the Americans!
+DF414F1F || ~z~Stick to my right, CJ, I'm gunnin' for that bastard.
+DF4622DB || ~z~Hey, don't just sit on your horn! Get out the goddamn way!
+DFA19AF6 || ~z~Here comes another!
+E06D4093 || ~z~Five minutes later, my cousin gets laid out by some Ruskie fresh off the boat.
+E34C7046 || ~z~Shoot out the gate!
+E421B45F || ~z~Screw that, we're taking the scenic route!
+E707E94E || ~z~I'll got it this time, get on the back!
+E9284FC6 || ~z~You drive.
+E9DB0CB8 || ~z~This better not be another cop errand, man.
+EAFA3C6D || ~z~Man, I used to hate this tunnel when we was kids.
+ED704059 || ~z~OK, we showed those fools!
+ED97F874 || ~z~They still on to us.
+EE458BDF || ~z~Hey, CJ, baby, whassup man?
+EEB6C8A1 || ~z~Lot a shit 'bout to go down, Carl.
+F306B501 || ~z~Pop they fuckin' brains out, CJ!
+F46B7118 || ~z~Ha, ha ha ha, homie, you ice cold, baby!
+F996A43B || ~z~We lost 'em, Smoke!
+FA574107 || ~z~Much love, baby!
+FD3A851E || ~z~I'll take it another block and dump it.
+FDC55F42 || ~s~Get inside and protect ~b~Big Smoke~s~!
+FDDD3D33 || ~z~Back me up!

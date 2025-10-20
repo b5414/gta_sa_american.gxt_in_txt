@@ -1,0 +1,36 @@
+1283BE || ~s~Take the car back to the ~y~garage~s~.
+9A4CF95 || ~s~Get back in the ~b~car~s~!
+EC90B8C || ~s~Pick up the car from the airport ~y~car park~s~.
+F34AE5C || Damage
+2A675EA6 || ~z~No - a personal friend of mine. And less likely
+2D0A9ABF || ~z~A courier has left it in a drop at the airport.
+337C6FE7 || ~z~Ah Ah Kung has sent word from Kowloon;
+338F2C99 || ~z~You won't get far!
+3411ABFE || ~z~Hey, Woozie, my man, what's going down?
+34E2E880 || ~z~Get after him!
+3ACA23CC || ~z~There may be some trouble ahead.
+43169B68 || ~z~Hey CJ. Let me introduce you to Shuk Foo Ran Fa Li.
+43E5D816 || ~z~Stop that car at all costs!
+447B5F71 || ~z~a Vietnamese crime family, the Da Nang Boys,
+4A53943D || ~z~That's our property!
+4DCD135A || ~z~The Shuk Foo would like a package retrieved.
+5A0DAA29 || ~z~It is most important to the matter at hand.
+5D606E30 || ~z~to draw the attention of the Da Nang Boys.
+7715B328 || ~s~Dodge the enemy ~r~bikes~s~!
+7EA3FF03 || It's an ambush, the Da Nang Boys are covering the exits!
+90AD9E2F || ~s~Get the ~b~car~s~!
+A45DF511 || ~z~After him, no quarter!
+AA753E5D || ~z~This may explain the cowardly attack on the Blood Feather Triad.
+AA867D23 || ~z~Stop that car!
+AD18FA44 || ~z~How you doin'?
+ADEBB93A || ~z~Don't just stand there, get that car!
+B36E0F1C || ~z~Thanks for your support.
+B403CB05 || ~z~He is Triad? A Mountain Boy?
+C304FB93 || ~z~Oh, I can do that.
+C4693F8A || ~z~OK.
+DA1FCAD2 || ~z~He heads the Red Gecko Tong on the West Coast.
+DAEC89AC || ~z~Give up the car and we'll spare you!
+DD720ECB || ~z~are preparing to move to the United States.
+DD814DB5 || ~z~He's getting away!
+E0C76AA0 || ~s~Get the car back in one piece!
+E13ACF70 || ~r~The car has been destroyed!

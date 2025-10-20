@@ -1,0 +1,70 @@
+46C5935 || ~s~The ~b~dumper~s~ is loaded with explosives and needs to be driven gently. Deliver the explosives to the ~y~desert airstrip~s~.
+AB7D107 || ~s~Thieves have stolen equipment and are escaping in a ~r~dumper~s~. Use this ~b~dumper~s~ to destroy it.
+DDA151E || ~s~The last ~g~bomb~s~ is between the crushers. Move it to ~y~safety~s~.
+F97E991 || ~r~Bombers reached safety.
+13ACE046 || ~s~Move out of the bomb's blast radius.
+14C1245F || ~s~Follow the tracks down to the quarry floor and burn the bodies in the ~y~fire~s~.
+1AA3CAB9 || Train
+1BDC0CE7 || SKIPPED!
+1D776874 || ~s~A dumper has spilled it's load of explosives all along the train tracks. Use the ~b~bulldozer~s~ to clear them before the next train passes.
+1DCE0EA0 || Cops
+2123E410 || ~r~The barrels have exploded.
+219A82C4 || ~s~A cop has been killed. Use the ~b~bulldozer~s~ in the quarry to get rid of the body before more cops come snooping.
+26F746DD || ~s~Now get the ~g~cop's bike~s~.
+28721016 || You are competing against your own best time. Press ~k~~PED_LOOKBEHIND~ to skip this mission.
+2895A83B || ~r~The delivery trucks have arrived.
+2F410AF6 || ~s~Drive carefully up to the ~y~quarry entrance~s~.
+2FF86C22 || ~r~Dozer destroyed.
+3360D9F5 || ~s~You have completed your first quarry mission. Return to the site office for more.
+340D1DEC || ~s~You equaled your best time!
+365A3BB7 || ~s~The next ~g~bomb~s~ is at the grinder. Push it to the ~y~safe area~s~.
+3FEC779C || ~s~~1~ rock cleared. ~1~ to go.
+415D0B21 || ~s~The last ~g~bomb~s~ is between the crushers. Move out of the blast radius when you've made it ~y~safe~s~.
+430A2D7A || ~s~~1~ quarry missions complete.
+48EB470A || ~s~Bombs have been planted by a rival organization. Use the ~b~bulldozer~s~ to push the bombs to safe area markers.
+4F868313 || ~s~Use the ~b~bulldozer~s~ to clear the paths before the next delivery arrives.
+51F0764B || ~s~Get into the ~y~crane.
+5624D486 || ~r~You've dropped the bodies.
+569DB252 || ~s~Get into the ~b~bulldozer~s~.
+58463A60 || ~s~Dump the body and the bike in the ~y~water~s~.
+58FF5CB4 || ~r~Missed deadline.
+5F752080 || The dumper truck and bulldozer will now always be available in the quarry.
+5F9298AD || ~r~The cops have arrived.
+63C614C9 || ~s~The ~b~dumper~s~ is loaded with explosives and needs to be driven gently. Deliver the explosives to the ~y~desert airstrip~s~ then return to the Quarry.
+64ABD0D0 || ~s~Move the ~g~bomb~s~ to the alternative ~y~safe area~s~.
+6A7058E2 || ~s~The ~b~train~s~ is approaching.
+6DA4FA2F || Deadline
+7ADD2588 || ~s~Get back in the ~b~bulldozer~s~.
+7DB0E191 || ~s~The ~r~thieves~s~ are getting too far away.
+7FFD1D1E || ~r~Explosives on track.
+83AA9B03 || Damage
+84C75F1A || Delivery
+8AA5B1FC || ~s~Take the bodies to the quarry ~y~main entrance~s~.
+8DC875E5 || ~s~Return to the ~y~Quarry~s~.
+91F37C32 || ~r~Too far away.
+93BE80BD || ~s~The ~r~bombers~s~ are getting too far away.
+94D344A4 || ~s~Return to the site office to start the next mission.
+A188E23F || ~s~~1~ rocks cleared. ~1~ to go.
+A6E52626 || ~s~There's a ~g~bomb~s~ beside the crane. Make it ~y~safe~s~.
+AA69884F || Quarry Complete!
+AD044C56 || ~s~You set a new best time - ~1~m ~1~s. The quarry missions have now been completed in ~1~m ~1~s.
+B17B41AC || Use ~k~~VEHICLE_TURRETUP~ and ~k~~VEHICLE_TURRETDOWN~ to raise and lower the Dumper's loader.
+B19CF981 || ~r~The bomb exploded.
+B6F13D98 || ~r~Dumper destroyed.
+B893D37E || ~s~Now get the ~g~body~s~.
+BFFE1767 || ~s~Get into the ~b~dumper~s~.
+C111B523 || Don't let the Dumper Truck follow the bike and the body into the water.
+C1F60D0E || ~r~You dropped your load!
+C69BC917 || ~r~Too close.
+C8F927F1 || ~s~Use the crane to load the body and the bike into the back of the ~b~dumper truck~s~.
+CF94E3E8 || ~s~Push the ~g~body~s~ and the ~g~bike~s~ towards the crane ~y~pick up area~s~.
+D1E216B0 || ~s~The first ~g~bomb~s~ is behind the site office. Push it to ~y~safety~s~.
+D68FD2A9 || ~s~Clear a path by pushing the ~g~rocks~s~ over the edge into the markers.
+DA037CC0 || ~s~Quarry missions complete in ~1~m ~1~s. In future missions you will be competing against your own best times.
+DD6EB8D9 || ~s~You have completed all the quarry missions.
+E3D47432 || ~s~Get back in the ~b~dumper truck~s~.
+E4B9B02B || ~s~The bombers are escaping in a ~r~dumper~s~. Use this ~b~dumper~s~ to destroy it before they reach safety.
+E6F44CA4 || ~r~Train destroyed.
+F3C06F8C || Explode
+FACF4573 || ~s~Drop the barrels. The soft sand will prevent an explosion.
+FDA2816A || ~s~The bombers have been caught. Their bodies are loaded on a ~b~dumper~s~ at the quarry's ~y~other entrance~s~. Dump them before the cops come snooping.

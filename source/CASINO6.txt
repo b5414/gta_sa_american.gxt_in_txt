@@ -1,0 +1,169 @@
+1E18E6 || Press ~k~~VEHICLE_ENTER_EXIT~ when stood in front of switches to operate them.
+138F116 || ~z~Take control...
+20D3A90 || ~z~I ain't leading the way!
+37E4F4F || ~z~He's doing much better, yeah.
+4138B56 || ~z~Ken who?
+560FE89 || ~z~Take those guys out and I'll put out the flames!
+655350F || ~z~Forgeddaboudit
+B5CCE96 || ~z~I'm calm, Mr. Calm, Mr. Calm, that's me, Mr. Calm.
+BBB76BB || ~z~I'm screwed!
+C310A8F || ~z~Get in there, and be cool. Like you been out for a relaxing drive or something.
+CD6B2A2 || ~z~I ain't coming out until it's safe!
+10EDBB75 || ~s~You need to take ~b~Rosenberg~s~ to the ~y~abattoir~s~.
+1247FFD7 || ~z~Too fucking right they are, dumb pussies!
+12A047FA || ~z~Nothing. My bad. Now take cover.
+152A3BCE || ~z~Holy fuck, man, we work well as a team together, huh, CJ?
+160C66DF || ~z~Aw, what you do that for?
+1823C057 || ~z~Absolutely screwed, but at least now I'm in the right frame of mind.
+18D08329 || ~z~See how Johnny is,
+19E2918A || ~s~You need to bring ~b~Rosenberg~s~ to the ~y~casino~s~.
+1A657E0E || ~z~Okay, okay - chill!
+1C9C77E5 || ~z~Just drop me at the airport!
+1D08BA17 || ~z~Look, you gotta come with me this once.
+1E8F5593 || ~s~All the witnesses are dead but you will have to wait until ~b~Rosenberg~s~ lets you out before you can leave.
+1F4E044E || ~z~The good Doctor has revived the patient!
+20962578 || ~z~Hey, CJ, I'm locked in the freezer!
+271C594C || ~z~Shit, we gotta get the fuck out of here!
+27FBE161 || ~z~CJ? CJ! Get me out of here!
+28531C8C || ~z~Aaargghh! My heart! Euchh... my heart...
+29206953 || ~z~Rosenberg! I'm trapped in the freezer!
+2A15A2D5 || ~z~Rack them up, Maccer. What's the matter with you?
+2D7866CC || ~z~Let's tear this town up!
+2E4DAD4A || ~z~Thanks, CJ, but I ain't going out there until they're all dead!
+2F3ED895 || ~z~And who's this..?
+331A68C7 || ~z~Okay, stay in there while I finish off these assholes!
+33FDD0EA || ~z~That is really good stuff. Hey drive faster, would you please? C'mon, c'mon, c'mon, what are you, an old lady?
+349014F3 || ~z~with people that like me.
+37569C0B || ~z~Shit, this is insane!
+398D1439 || ~z~Look out behind you!
+3D2658D8 || ~z~Listen. I'll see what I can do.
+3EE0D020 || ~z~Shoot right, CJ, right!
+4051AC9D || ~z~I'm never doin' drugs again, never ever, ever ever!
+43709C48 || ~z~Rosie, where you go?
+43972465 || ~z~I want to do something safe and legal and boring, with people that like me.
+44FAE07C || ~z~Shit, my nose is pissing like a race horse (sniff).
+49E7E0B6 || ~z~You go ahead, I'll, errr, watch our backs!
+4A21684E || ~z~and fight for weekend access, like everybody else.
+4D4CAC57 || ~z~ah, that's my best shirt too, doesn't this shirt look good on me?
+4E8A24AF || ~z~Watch your left!
+50FCD1F7 || ~z~Hello, anybody there?
+5776ADC3 || ~z~You calm down, and follow my lead.
+579115EE || ~z~CJ, some guy's locked me in the freezer!
+5839E803 || ~z~How you doing, Johnny?
+594A9DDC || ~z~Thank you, man, I thought I was a popsicle for sure!
+5A7F565A || ~z~That's what I'm sayin'! So, where we going?
+5DE1D13D || ~z~I'm the boss, I am the boss! I'm the boss, I am the boss! Yeah,(sniff) yeah...
+5E2759C5 || ~z~Rosenberg, get me out of this freezer!
+5F542C1A || ~z~Huh, diarrhea, cool! Yeah...
+610B5649 || ~z~OK, it's clear!
+6540CF41 || ~z~Johnny's a done deal. And so is his gang.
+684934D8 || ~z~Thank you. Thank you. Thank you.
+68BA77A6 || ~z~OK great! (sniff) We need a car!
+69886505 || ~s~All the witnesses are dead but ~b~Rosenberg~s~ is locked in the freezer you will have to let him out before you can leave.
+6A0F8A81 || ~z~If I pull this off, I can carry on, I know I can,
+6B9B4773 || ~z~I'll figure out a way to get you out of this.
+6D624E98 || ~z~Shit, this can't look good.
+6EE5A11C || ~s~Don't leave ~b~Rosenberg~s~ behind you need to take him to the ~y~casino~s~.
+6F24F0C1 || ~z~What the fuck are we going to do?
+6FD7B3BF || ~z~We're going to pay the Sindacco's a visit.
+70935444 || ~r~You and Rosenberg got trapped in the freezer.
+71520599 || ~z~Oh, that's a great idea, Tony, but you know what? It ain't going to work, OK? Not this time...
+7267CE1F || ~z~Stand back, I'm gonna blast theses flames!
+7314BBC0 || ~z~K-Ken Rosenberg...
+74797FD9 || ~z~He ate something this morning.
+750A0A06 || ~z~I'm gonna start up the meat track!
+763FC180 || ~z~Yes, grab the bull by the horns!
+77192870 || Press ~k~~VEHICLE_ENTER_EXIT~ when stood in front of the freezer switch to operate the door.
+7BD18234 || ~z~Typical end for me, shot, beaten and then barbeque!
+7C5BFE00 || ~z~REAL FUCKING calm!
+7CBC462D || ~z~We gotta do something!
+80EBC030 || ~s~Head for the ~y~exit~s~.
+812A91ED || ~z~No! Absolutely not! I'm still screwed!
+82F8E246 || ~z~You just got to hang in there.
+836C2FB4 || ~z~Just this once pleasepleasepleaseplease...
+8401EBAD || ~z~No - look, you go on in, I'm gonna wait.
+8595265F || ~z~Nah man, they gotta think you dead.
+864755F4 || ~z~Let's get this show on the road!
+86B4168A || ~z~win him over with some (sniff) kind words during his convalescence.
+87860429 || ~s~Protect ~b~Rosenberg~s~ and kill all the ~r~witnesses~s~.
+8868F37C || ~z~Who the fuck is Tommy?
+889CDDC6 || ~z~some Mafia bullet is going to splatter my brains all over the wall!
+89E4EACF || ~s~Don't leave ~b~Rosenberg~s~ behind you need to take him to the ~y~abattoir~s~.
+8ADA639F || ~z~Just remember; you're the boss!
+8B4EAE6D || ~z~Oh fuck! I'm screwed! I'm fucking screwed!
+8BA91640 || ~z~What did I say? What did I do?
+8C236A74 || ~z~You and me, tearing this town up.
+8F053765 || ~z~There must be an extinguisher here somewhere, find it!
+9187EC87 || ~z~- I'm the boss! I-am-the-boss!~n~- Alright then!
+92B22701 || ~z~Holy fuck, what is it about my luck?
+93C152DE || ~z~Pretty good. And you?
+95385B35 || ~z~Calm, yeah, calm.
+95DFE318 || ~z~Anybody needs me, they can find me in here!
+9831A0AC || ~z~Yeah, you're right, I need to get a grip!
+9917495C || You are trapped in the freezer, your health will slowly decrease until Rosenberg gets you out.
+9A771EF5 || ~z~So, uh, how's Johnny?
+9B046B2A || ~z~Well what are you waiting for?
+9D1ADAEC || ~z~Hey boys. Tell your boss that Ken Rosenberg is here to see him.
+9E9D3568 || ~r~Rosenberg was killed.
+9F5C64B5 || ~z~Ooh, you missed a bit. I'll have that.
+A0844583 || ~z~Behind you, CJ!
+A342CD7B || ~z~Thanks, I'm just so tired of all this life or death bullshit.
+A42F0962 || ~z~And have a wife and some kids and get divorced and fight for weekend access, like everybody else.
+A7E9819A || ~z~There's a thug on your right!
+AD7EFD64 || ~z~How'd you get locked in there, dude?
+AD994549 || ~z~So you trying to get out?
+B02938E9 || ~z~The exit's through the stock house!
+B15A4D36 || ~z~Oh my God... Oh God... It's him...
+B31CF36F || ~z~Sweet as, my son, sweet as!
+B4713776 || ~z~All right! Let's tear this town up!
+B637892F || ~z~- touch of diarrhea, but I'll get through it.~n~- Huh, diarrhea, cool! Yeah...
+B99F74C2 || ~z~Screw this, I'm going to hide in the freezer!
+BE1508F6 || ~z~We need some wheels!
+BEF2B0DB || ~z~It's freezing in this freezer!
+C043CC66 || ~z~CJ? Where are you, CJ?
+C130B9B9 || ~z~Ah, still got a little bit of the night terrors,
+C37607E0 || ~z~Alright then!
+C41BC3F9 || ~z~Details, details! Let's just get there!
+C4E88087 || ~z~OK, let's get this over with.
+C65D7DA0 || ~z~It's fucking him... It's him!
+C72E087F || ~z~What kept you?
+C9123860 || ~z~Get me back to Caligula's!
+C9F5804D || ~z~Hey, let me out of this freezer!
+CFEB318B || ~z~Damn, that nigga's fucked up!
+D0EEB10C || ~z~CJ, to your left!
+D32F5430 || ~z~Get me out of this freezer, Rosie!
+D445FDED || ~z~(sniff) Oh, shit, shit's all down my (sniff) damned shirt, and everything,
+D958FD27 || ~z~Well done, CJ!
+DA79CDF2 || ~z~Rosenberg, is that you in there?
+DA9E75DF || ~z~Yes. God, yes.
+DDF3B1C6 || ~z~I've gotta get out of this game.
+E23F6BA3 || ~z~I'm calm.
+E2D8D38E || ~z~Carl, leave no witnesses or we're dead meat!
+E3EAC12D || Rosie
+E4C66248 || ~z~Heeyyy, Ken... Ah, Christ, this fucking thing... Ken... Como esta e, eh, how you doing?
+E680DC11 || ~z~And show everybody who's boss...
+E85B5423 || ~z~My wall, my beautiful wall...
+E99A05FE || ~r~Rosenberg froze to death.
+EA1DEA7A || ~z~I'm the boss? I'm the boss. I'm the boss. I'm the boss! I am the boss!
+EB6E9FA5 || ~z~Got the extinguisher, I got the extinguisher!
+EC035BBC || ~z~Hey, CJ, wait for me! Wait! Wait!
+ED702E63 || ~z~Ken Rosenberg! The guy that runs this town!
+EE1079CA || While Rosenberg is trapped his health will slowly decrease.
+EF36903A || ~z~Look, man, relax, get a grip...
+F08134BF || ~s~All the witnesses are dead head for the ~y~exit~s~.
+F1406562 || ~z~Oh, ha ha ha ha! Baby, I'm back, I AM BACK!
+F1B3261C || ~z~Well, yeah, sure. I could take you by there.
+F29216C9 || ~z~I'll think of something, I promise.
+F306DB3B || ~z~What's going on? You forget something?
+F46B1F22 || ~z~but please, you gotta come with me - I'm gonna squirt my ass all over the floor!
+F5FFD2D0 || ~z~Play it dumb.
+F62DA17B || ~z~So everything's straight now?
+F6DEE205 || ~z~OK, boss man, where to?
+F7ECF0A6 || ~s~Drive ~b~Rosenberg~s~ back to the ~y~Casino~s~.
+F80207F3 || ~z~Shit, they've started a fire to keep us back!
+FB245AE2 || ~z~Nobody can stop us, nobody in the world!
+FC499EFB || ~z~What the fuck am I going to do? Shit, shit, SHIIIIT....
+FDDD5309 || ~z~Listen, everything's gonna be OK.
+FEE3DA59 || ~s~Take ~b~Rosenberg~s~ to the ~y~abattoir~s~.
+FF6FC3EA || ~z~This is so exciting, Tommy, it's like old times!
+FF9BED50 || ~z~Any minute now,

@@ -1,0 +1,42 @@
+134FA0 || ~z~What's the bi'ness?
+8DD3482 || ~s~Get back in ~b~the car~s~.
+FB0F09B || ~s~Get to ~y~Cesar's place~s~.
+19087EE1 || ~z~Nice ride, man. That's no carrucha!
+1E65BAF8 || ~z~Con Safos, eh.
+1E96F986 || ~z~C'mon, Carl, follow us!
+2BCD5F1D || ~z~Here we go, yeeehaaa!
+2CA09B04 || ~z~Carl, you idiot!
+35BBAA45 || ~z~C'mon, Carl, you've gotta be kidding me right? - pick it up!
+42BC9AD3 || ~z~Hey, CJ, you wrecking your car, eh!
+5BA7AB92 || ~z~Watch out, Carl!
+5CCA6F8B || ~z~You trying to kill your sister?
+69628A6E || ~z~Then you pull up and race.
+6991C910 || ~z~Not far now, eh!
+6E0F4E77 || ~z~You sure you want to risk that baby?
+77147F36 || ~z~Hey, baby.
+78B7C00D || ~s~Get back in the ~b~car~s~.
+7FDA0414 || ~r~Not fast enough, try again.
+80012F5B || ~z~Heeyy, CJ, you made it!
+80F26C25 || ~z~You're almost there, Carl!
+876CEB42 || ~z~It's hard cash or your pink slip in the pot.
+8DEF6CEF || ~z~Let's see what you got, homeboy. Let's do this!
+8EDAA769 || ~z~OK, for sure, I'm down.
+91D46538 || ~s~Drive onto the ~y~starting grid~s~.
+96B9A121 || ~s~Go and pick up your ~b~car ~s~for the race.
+98622913 || ~r~You destroyed Cesar's car!
+991A1E1A || ~z~Follow me to the race, dude!
+9E77DA03 || ~z~Yeah, alright, man.
+ABDF3FE6 || ~z~Oh, Carl, I thought you said you could drive!
+B2C40EA7 || ~z~Hey, Carl, don't play dirty!
+BB72428C || ~z~Good luck, holmes!
+C2AEFA28 || ~z~Carl! What are you doing?
+C5C33E31 || ~z~Hey, watch out, Carl!
+DBB5CB69 || ~z~You gonna have to drive better than that, CJ!
+E6D355AE || ~s~Follow ~b~Cesar ~s~to the race start.
+E970EA95 || ~z~Yeah, well me either.
+EE1D2E8C || ~z~Watch out, CJ, these boys don't like to lose, eh...
+EF651985 || ~r~You destroyed the car!
+F06BDBD4 || ~z~Yeah, I'm sure. How much they talking about?
+F09898AA || ~z~Hey, keep up, holmes!
+F7061FCD || ~z~Hey CARL!
+F9DD97FF || ~z~First past the post wins, con chota, sin chota.

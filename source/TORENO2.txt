@@ -1,0 +1,92 @@
+AFBB759 || ~z~I need you to commandeer a truck.
+CA75A09 || ~z~We need to 'jack a truck on the freeway.
+D967340 || ~z~Use your sister's boyfriend, but don't tell him a thing.
+13E08618 || ~z~We're fighting a war out there.
+148D4201 || ~z~So relax, and listen.
+15BC6B48 || ~z~Man, you crazy, this is the rail bridge!
+1846D3AF || ~z~Keep level, CJ, keep it level!
+1D3B0E2A || ~z~To do things I can't get caught doing.
+20E7CDD3 || ~z~I did? I mean, oh yeah, I did.
+21D6E49A || ~z~Hey, what the fuck, man! Hey, Toreno, I told you my bad, man.
+26BB2083 || ~z~- Man, you ain't nothin' but a fucking yayo dealer anyway, Toreno.~n~- Shut up and sit down!
+278A09CA || ~z~I got here as fast as I could, CJ.
+2829694C || ~r~You failed to steal the truck!
+2A70B12D || ~z~Calm it down, CJ, you're too fast!
+2F0D6CA8 || ~z~Do you have any idea what's going on? Any idea whatsoever? Do you? DO YOU?
+2F44AD55 || ~s~Pick up Cesar then catch up to the ~r~truck~s~.
+3132580D || ~r~The bike has been destroyed.
+336B806C || ~z~There's a hauling firm over in Whetstone county. We can take it there and get some money for it.
+338C3841 || ~z~Oh shit, you did not mention that on the phone.
+36165DE9 || ~z~Government agency?
+365F9C14 || ~s~Drive the truck back to the ~y~garage~s~.
+38CDD5DB || ~z~Do not be a fucking smartass with me.
+3FA011C2 || ~z~BY ANY MEANS NECESSARY.
+41116D7F || ~z~Kids like you. You expect heroes.
+43E6CCCE || ~z~There's the rig up ahead!
+446CB0FA || ~z~Where we going to take this thing?
+448B08D7 || ~z~It'll be a walk in the park!
+4635689B || ~r~Cesar has been killed.
+48A72154 || ~z~That does not make me a drug dealer.
+4FCAE54D || ~z~I work for a government agency. It is not important which one.
+51BC1015 || ~z~Shut up and sit down.
+56D1D40C || ~z~- What the hell can I say? I screwed you over.~n~- Calm down, kid.
+57E0FD45 || ~z~You phoned me a half an hour ago, man!
+580A5C3E || ~z~No. I pay as little attention to things as possible.
+5AFDFD8F || ~z~You missed the turnpike, holmes!
+5D7781BB || ~z~Just a bit slower!
+5F2E59DA || ~s~You have left ~b~Cesar~s~ behind.
+638A7297 || ~z~Alright, alright, I'm listening.
+64E7B68E || ~z~I'll be a hero and I'll lose, and what'll we have?
+68CB9F0D || ~z~Closer, CJ, closer!
+6A3C3EBC || ~z~Like what?
+6F41E339 || ~z~Match the truck's speed!
+71D0AE4C || ~z~Hold her steady, CJ!
+7A9143D6 || ~z~Remember. I'll be watching you.
+7DFC87CF || ~z~A rival agency, with a confused social agenda.
+86C5FE21 || ~z~What do you think, I'm a Mexican jumping bean? Closer!
+8AE9D7A2 || ~z~That kind of bullshit.
+8CB53AF2 || ~z~The road bridge is over there!
+8D8413BB || ~z~I need a guy like you.
+92247787 || ~z~See you later, holmes!
+93F2E6E3 || ~z~Now this is a two-man job. You'll need a friend.
+949F22FA || ~z~Calm down.
+95AE0BB3 || ~z~It's headed to San Fierro.
+9A0D6B35 || ~s~Reconnect to the ~b~tanker~s~.
+9FDECF60 || ~z~Just let me get my balance!
+A1C48461 || ~z~Yes, when we last met, I was involved in battling threats in Latin America,
+A6A94078 || ~z~have helped us immeasurably in our overseas interests.
+A83B09B7 || ~s~You need to use that ~b~bike~s~ in order to get Cesar close enough to the truck.
+AD0F15CF || ~z~We can take it there and get some cash for it.
+ADE8ADE2 || ~z~I'm gonna pull alongside and you're gonna hop on board!
+AF56CDAE || ~s~Catch up to the ~r~truck~s~.
+B12038F6 || ~s~Get into the ~b~truck~s~ and drive it back to the garage.
+B4F39CA3 || ~z~Dude, you missed the turn!
+B8DFB520 || ~z~- Just go ahead and kill me then.~n~- Calm down!
+B9EE9C69 || ~z~Sorry man, I got a whole lot on my mind.
+BD399AFD || Hold this position!
+BE835870 || ~z~Yeah, you sure did. How you know I needed help?
+BFB27139 || ~z~You think you're a crusader for good?
+C14ACC79 || ~r~The transport has been destroyed.
+C3F4AC35 || ~z~The freeway's back there!
+C47ED001 || ~z~Slow down, CJ!
+C6270860 || ~s~Pull up to the left hand side of the ~r~truck~s~ and hold the bike in position until Cesar is ready to jump.
+C8B541AF || ~z~What, you think I'm a drug dealer?
+C98468E6 || ~z~Man, you losing it, holmes.
+CFD885B6 || ~z~Calm down, kid.
+D1AE70EE || ~z~Now, the money that we raised, the friends that we won over,
+D6C3B4F7 || ~z~I will try not to confuse you.
+D851FD38 || ~s~The ~r~truck~s~ is coming from Las Venturas and going to Foster Valley along the Garver Bridge.
+DA082559 || ~z~OK, Drop me off and I'll make my own way back to the garage.
+DAEF9D74 || ~z~What's the plan?
+DD65E140 || ~z~OK, CJ, let's get this rig back to the garage!
+DD82596D || ~z~Tell Kendl I love her!
+E2A93B25 || ~z~We can get on the freeway here, holmes.
+E398126C || ~z~Hey, Carl.
+E4F5D675 || ~z~They got things that we need.
+E8D9FFF6 || ~z~Steady... steady!
+ED0A5BA3 || ~s~Get on the ~b~bike~s~.
+F1C2CEB7 || ~z~Just a little closer!
+F648B283 || ~z~Speed up, CJ!
+FA83232D || ~z~I know what kind of a guy you are.
+FBB20A64 || ~z~We jacking a train, holmes?
+FDEEE734 || ~z~Communism in Ohio. People sharing. Nobody buying stuff.

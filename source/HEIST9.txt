@@ -1,0 +1,195 @@
+7BAB2A || ~z~Hurry it up gentlemen, they know something's wrong.
+7F6704 || ~s~Open the ~y~roller door~s~.
+1A85807 || ~z~Alright, I'll see you at the backdoor. Let's roll!
+2725388 || ~z~Damn you Berkley, damn you!
+3B9EFFC || ~s~Select the night-vision goggles and press ~k~~PED_FIREWEAPON~ to activate.
+4D0E7CB || ~z~Good idea, everybody follow him!
+51F9791 || ~z~Take the elevator all the way to the roof.
+5F82FBC || ~z~Holy crap he jumped!
+6BBBC90 || ~s~Lead the ~b~team ~s~safely back to the van.
+712A31D || ~s~Get to the ~y~service elevator~s~ - remember, you are the decoy!
+7166F33 || ~z~I'll head back up to the generator room and shut them down for good!
+802975B || ~z~CURSE YOU BERKLEY, CURSE YOU!
+A0FA3D7 || ~s~Get onto the ~y~roof~s~!
+D66ABE0 || ~z~OK team, I've gone over the layout to this place so I know it back to front.
+D8113CD || ~z~Throw the gas down one of these.
+13149296 || You know the rules no guns allowed in the casino
+1479568F || ~s~You'll need something big to lift this door up.
+149A228C || ~z~It should be just down the stairs then straight ahead.
+19609A6B || ~z~Wait a second, it's Berkley! It's him, I know it!
+1B6962C9 || ~z~Time to show these motherfuckers what's happening!
+1CE31EFD || ~z~We got you now, asshole!
+1E0D5E72 || ~z~Quit shouting in my ear!
+1EEAE65F || ~z~Loud and clear!
+2010E2B7 || TIME
+22E478EC || ~s~Enter the ~y~Mafia Casino~s~!
+232FC498 || ~z~Oh shit! Where do I go? Where do I go?
+26AC400E || ~z~Yeah, well, don't worry about it.
+277D26AE || ~s~Follow the ~b~team ~s~down to the vault.
+27848879 || ~z~Shit heads to the right!
+295F004B || ~z~Ow, fuck!
+29B8B866 || ~z~Hey, who are you?
+2B5234C7 || ~s~Press ~k~~PED_FIREWEAPON~ when falling to open the parachute.
+2B56F8E9 || ~z~OK, we'll set the charges while you watch the door!
+2BB140C4 || ~z~I... I think I got Jerry's cough
+2CDC84DD || ~z~Yeah, I'm, eerr standing in for Jerry, he's ill.
+2E32C452 || ~z~Up ahead , ice them!
+2ED57C7F || ~z~Zero, where you hiding?
+2F627508 || ~s~Wait for the ~b~team ~s~to arrive.
+3044310A || ~z~Everybody in! You two, change into your police uniforms!
+32490586 || ~s~Find the ~y~vent ~s~to gas the guards.
+324DC9A8 || ~z~Not far now, keep alert.
+32AA7185 || ~z~Now, make your way to the staff door.
+35200DB1 || ~z~Stay alert!
+35C7B59C || ~z~Hey, I'm cool!
+3729F513 || ~z~Good luck!
+38DAB556 || ~z~You sure these things are gonna work?
+3A34F5D9 || ~z~Carl, this is a battle between two coding behemoths.
+3D5931C0 || ~z~Well, I s-, um...No comment.
+3F54054C || ~s~Go to the ~y~van~s~.
+3FB7714F || ~z~I'm going to blow the charges you placed at the dam.
+402EC585 || ~z~You too!
+42273D27 || ~z~Not far now, everybody!
+42C0850A || ~z~Are you sure? You sound kind of edgy to me!
+43E84D7D || ~z~NO COMMENT!
+454E3510 || ~s~Chuck the gas canister into the ~y~Vent~s~.
+466BC9EB || ~z~Alright!
+4743019C || ~z~Hey, Zero, what about Berkley?
+485335DA || ~r~You destroyed the police bike!
+48B041D9 || ~z~OK good, I've hacked their emergency lighting protocols.
+4A5E0156 || ~z~How on Earth did Berkley know you were going to be doing any of this?
+4B09DDC8 || ~s~Parachute off and escape to the ~y~safe house~s~.
+4D33C54F || ~z~You got him?
+4FDD85C0 || ~z~I can't see jack!
+507A1638 || ~s~You have ~1~ minutes to get the team inside!
+5083B8EF || ~z~Security on our left!
+51AB7098 || ~z~We won't know if that worked until we get down there!
+5428F40E || ~z~Fire in the hole!
+55E3487A || ~k~~VEHICLE_ENTER_EXIT~ Use Swipecard.
+56210CAC || ~z~We're at the service bay. Somebody get this damn door open!
+5709C4DB || ~z~That's our man!
+5935F4C4 || ~z~They're up front, take 'em down!
+59CC5A13 || ~s~Parachute off and escape in the ~b~helicopter~s~.
+5B38C048 || ~s~Clear the corridors of ~r~security ~s~so the team can reach the vault.
+5BDBB44B || ~z~Who's Jerry?
+5C550451 || ~s~Follow the rooftops and collect the ~g~parachute~s~.
+5E5830DD || ~z~Scratch that! Everybody follow Carl!
+5EBF88F0 || ~z~Yeah, I'll drink to that!
+60BC22CF || ~z~I'm gonna use his own hydra and bounce it right back down his pipe!
+637E6619 || ~s~Press ~k~~PED_FIREWEAPON~ to activate the night-vision goggles.
+639D121A || ~z~Great. Next stop, the backup generator room.
+6413A200 || Avoid attracting attention in the casino or you'll blow your cover
+64176E2E || ~z~OK, we've got the power down, which means the gate's unlocked.
+661E968C || ~z~We're nearly good, CJ!
+690A6EE4 || ~z~BERKLEY YOU BASTARD!
+69EDD6C9 || ~z~OK, we're en route in the armored truck.
+6C6E525F || ~z~Carl, would you like me to talk you through to the roof?
+6DA5EE2B || ~s~Enter the ~y~Safe~s~.
+70115FA5 || ~z~Somebody's trying to bring the emergency generators back up!
+71BC8C06 || ~r~You failed to protect the guys!
+74BEDF6A || ~r~You idiot you wasted all the grenades!
+7575631E || ~z~Ah c'mon, man, talk to me!
+77785792 || ~r~The van is gone, there is no way to transport the money.
+780AC02D || ~s~Use the forklift to open the ~y~roller door~s~.
+7A619B76 || ~z~Everybody follow me!
+7A655758 || ~s~Head downstairs and check on the ~b~team~s~!
+7A86235B || ~z~OK, the ventilation grills are on the back wall.
+7D089341 || The team is under attack, you're supposed to be protecting them!
+7D0C5F6F || ~z~Well done, Carl.
+7F05A7CD || ~z~Carl, you've got Mafia gorillas coming down to the vault and-
+8069CBD1 || ~z~What?
+82603373 || ~z~OK, CJ, you're on your own now!
+8472EA09 || ~z~Hey, CJ, calm down!
+85EA4F47 || ~z~We got him cornered now!
+87040FC8 || ~z~Sorry.
+87E3B7E5 || ~z~Carl, can you hear me OK?
+8A190F02 || ~z~It's OK, I got an idea for that.
+8A1DC32C || ~s~The team needs you at the ~y~Safe~s~.
+8AFEB72F || ~z~It's down one level.
+8D700735 || ~r~You blew your disguise, scrub the mission!
+8EB243E3 || ~z~Aw, whatever, man, just deal with that fool!
+93023E43 || ~z~Try to stay close!
+93E5866E || ~z~You got it.
+946FFA5A || ~z~Don't worry, I'll take the lead, boss.
+966602F8 || ~z~OK, then, we about to have some company!
+98A109BD || ~z~Yeah we're good.
+9972FA90 || ~z~Someone else is in the system!
+9B7B0232 || ~z~Oh, what happened?
+9C16C62B || ~z~Now head through the casino to the elevators on the far side.
+9CF17E06 || ~z~Holy fuck, he's jumped!
+9E1BF2A7 || ~r~You idiot you have destroyed the forklift, the only way to open the roller door!
+A1D3E4EC || ~z~Here goes nothing...
+A450607A || ~z~Like two giant nuclear monsters trampling a city underfoot,
+A65D54F6 || ~r~Woozie has been killed
+A865A8C7 || ~z~Carl, please! Just flick the switch.
+A94D60B0 || ~z~I've unloaded the police bikes.
+AB40543C || ~r~The guards saw you and raised the alarm.
+AB449812 || ~z~Hey, I was just about to say that!
+ABA3203F || ~z~OK, OK!
+AC295C0B || ~z~Oh yeah, stay alert!
+ACCEE426 || ~z~OK, this is it. Play it cool, Carl, play it cool.
+ADE62C51 || ~z~Holla at me, Zero.
+AE20A4A9 || ~z~See you at the meet, Carl!
+B05651F1 || ~z~OK team, just how we practiced, two by two.
+B0B1E9DC || ~z~There's the intruder!
+B25FA953 || ~z~OK, boss!
+B2B8117E || ~z~What?
+B536A164 || ~s~Get back in the ~b~Forklift~s~!
+B5D5D567 || ~z~Ain't seen you 'round here before. You new?
+B61791B1 || ~s~Holster your weapon until you are past the staff door!
+B73B95E8 || ~z~We got trouble!
+B7C23B3F || ~s~Escape to the ~y~safe house~s~.
+B7DC2DC5 || ~z~I didn't mean to tell Berkley, it just kinda came out...is all.
+B8C8D5AD || ~z~Right now we got a schedule to stick to!
+B907A5F7 || ~z~Stop him, now!
+B919B30D || ~r~You ran out of time.
+B9E01DDA || ~z~CJ! Cover us!
+BC23514F || ~s~Pick-up the ~g~satchel charge~s~!
+BE747714 || ~s~Go back and kill any remaining ~r~security~s~.
+C03CA57E || ~z~Everybody follow Carl!
+C0DB1D53 || ~z~Hey, it doesn't matter, we pulled it off, Caligula's has been emptied!
+C23191F2 || ~s~Destroy the back up ~g~generators~s~!
+C55899C5 || ~z~Hey, I'm on it!
+C55C55EB || ~s~Go up the elevator and get to the roof!
+C5BF21E8 || ~z~Shut up.
+C7B6D94A || ~z~There he is, get him!
+C8A22122 || ~z~(Coughing/choking and thumps as they hit the floor)
+C9734782 || ~s~Remember to stay close to the team
+C98AE955 || ~z~Watch our right!
+CB34110A || ~z~You better take me home, CJ!
+CD21A5B4 || ~z~Everybody take cover!
+CE1E839B || ~s~You have ~1~ minutes to get the money and back!
+CEE72D4C || ~z~CJ! Wait up!
+CF285D16 || ~z~Head down to the service bay!
+CFCFE53B || ~z~Head to the security door and use Millie's swipe card!
+D15A6460 || ~r~Zero has been killed
+D1B91063 || ~z~Alright, I'm through!
+D35750EC || ~z~we struggle for dominion over the tiny, puny earth.
+D43A94F5 || ~z~Ha, Berkley! How do you like a taste of your own hexadecimal!
+D6D4D47A || ~z~Wow! I didn't think that was going to work!
+D927943F || ~z~Oh, don't worry about Berkley, he has been made to bleed from his I/O port.
+DC43A884 || ~z~Sorry boss!
+DC4764AA || Gas the guards first!
+DCA410A9 || ~z~I'm cool, OK?
+E161326E || ~z~I'm with you, CJ!
+E368CACC || ~z~Damn! The devious bastards have changed the layout!
+E38F72E1 || ~z~All right, I'm in the Generator Room.
+E4050ED5 || ~z~Now it's time for us to do our part!
+E60CF677 || ~z~OK people, load up the cash!
+E66E558E || ~s~Find and open the ~y~swipecard door~s~!
+E91CC231 || ~s~Find the ~y~swipecard door ~s~and open it.
+EB11F6BD || ~z~Oh shit, uh, OK, OK, you gotta get back to the gaming floor.
+EBF64E90 || ~z~What the fuck is he doing?
+EE75CA06 || ~z~Hey what's the problem?
+EFA6392B || ~z~We all good?
+F0033F5E || ~z~So Berkley thinks he can out-hack the master, eh?
+F20AC7FC || ~z~Anything that helps, man!
+F2ED7FD1 || ~z~Where you gonna run to now?
+F76EFB47 || ~z~Carl, I know the tactics of my arch rival!
+F789436A || ~z~OK, I'm gonna get a move on!
+F9B57375 || ~z~OK - I'll head back up to the generator room and shut them down for good!
+FA7737A3 || Push ~k~~VEHICLE_TURRETDOWN~ to lift the door
+FA9443A0 || ~z~OK, we're in!
+FD1AF3BA || ~s~Kill the ~r~Mafia ~s~whilst the team gets the cash.
+FD1E3F94 || ~z~But now you're going to have to raise it yourself.
+FF17C736 || ~z~Woozie, how's it going?

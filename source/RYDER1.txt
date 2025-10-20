@@ -1,0 +1,139 @@
+375F2A || ~z~Whatever.
+3F1D7D2 || ~z~Let's get up out of here!
+49C13CB || ~z~This one's for Kenny!
+6769AE2 || As I was saying....
+972507F || ~z~I need a little something before I go deal with things.
+9811301 || ~z~Shut up.
+A479BF9 || ~z~I'm gonna smoke 'em!
+CA12B97 || ~r~You took too long to get the guns, it's no longer night time!
+E1F9466 || ~z~I'm down. Let's roll.
+EECD718 || ~z~Where is this old motherfucker? Where in hell is he?
+1069613E || ~z~Better yet, we better wait until it's dark,
+14D6D68C || ~z~A'ight, holmes. Just think about what I said.
+1704A527 || ~z~Nigga, fuck you.
+1D609AA7 || ~z~All the houses in this state full of shit to rob.
+1D87228A || ~z~We gotta lose this heat, man!
+1F6DABA3 || ~r~Ryder's dead!
+20060460 || Load up the truck and then take it back to the lockup.
+2130DF65 || Hhhhrrummphh
+216AC83A || ~z~Man, this is childish.
+224BF8EF || ~z~Ryder! Buster!
+22AC40C2 || ~z~He can't stop me, you buster, Carl!
+25C184DB || ~z~Hold up. Let's creep in, grab the guns, and bounce out.
+276BC079 || Make sure the noise bar does not reach maximum.
+28DC8411 || ~z~One day you're gonna wish you hadn't pissed me off!
+2FB14008 || ~z~Hold it right there, homie.
+332D3C79 || I heard you for sure that time, I'm phoning the cops!
+338A49DF || ~r~You no longer have the ski mask.
+36AA7149 || ~z~I'm on it!
+37650113 || ~z~We gonna be able to retire off of this one!
+37C6BD13 || You need to get in this type of van to start the burglary.
+39BE8921 || ~z~Hurry up, CJ!
+3BB77183 || ~z~Lord, gimme the strength.
+3CDAB59A || ~z~CJ! What we gonna get?
+3ED34D38 || ~z~Keep it coming, CJ!
+40623185 || ~z~C'mon, keep it up!
+40C18D85 || You can perform burglaries at night when not on a mission.
+41AD41DF || ~z~LB's got a storage garage down on Seville Boulevard Families' turf we can use.
+43E0BD50 || ~r~There aren't enough guns left to fill the truck!
+448D7949 || Morning already.. wait a minute something doesn't feel right here!
+46273DEB || ~z~You done fucked up again, CJ with your crazy-assed driving!
+470FF59C || ~z~We got plenty more room in LB's van!
+4AF184DD || Press ~k~~VEHICLE_ENTER_EXIT~ to pick up the crate.
+4BDD850C || ~z~Sshhhhh! On the hush homie. They over here. Just gimme a second.
+4EB9B9B7 || ~z~There's plenty more in there, homie.
+506CF0EF || If you make too much noise you will wake the inhabitants of the house.
+52C6B44D || ~z~Yeah, yeah, I got it - ninja style! Right...
+5637EFF3 || ZZZZZZzzzzZZ
+566DF8AC || ~z~Sounds like the busta complaining again!
+570134F6 || Many houses can be broken into, and goods stolen from the owners.
+58B6709E || ~z~What? I'll give up the water if you give up being a busta.
+5FDBB487 || ~z~Forget you, fool!
+600395B1 || ~z~Man, what you doing? Digging graves?
+61DCD71E || ~s~You left the ~b~truck~s~! Get back to it!
+675A5B76 || ~s~Do not run or you will be caught.
+676E51A8 || ~z~This till overlooking East Beach.
+686A9B35 || ~s~Get safely back to the ~y~lockup~s~.
+6A67AA31 || ~z~They're insured - they ain't gonna miss nothing.
+6A80121C || ~z~What'd I do? You the one who woke the crazy old bastard up!
+6D0A6E28 || ~z~Say, CJ -you gotta get it in your head that this is everyday shit, homie.
+7171AA74 || ~s~You're making too much noise, you have to sneak!
+739B235D || ~z~Get off my ridge, you Viet Cong bastards!
+74115F69 || ~z~You see, I told you! Simple!
+74F6E744 || ~z~Damn!
+761C6E6D || ~s~Park the truck near the ~y~house~s~ and get the guns before daylight.
+7918A4F0 || ~z~Not that old school Emmet bullshit neither!
+79EBE78E || ~z~Relax man. We ain't there yet.
+7BA61B01 || ~r~You're not going to be able to get the guns now that he's awake!
+7D40AB6F || ~z~That pussy called the cops!
+7E7560E9 || ~z~Man, the fucking water.
+7E862397 || ~z~You can't stop me.
+81093E00 || ~r~The truck has been destroyed!
+83040F04 || ~z~So you gotta go take it.
+83E3B729 || ~z~There's a paint shop in Idlewood should be able to take a van this big.
+8469CB1D || ~z~OK, look, I'm tired, I'll see you later.
+87BBB8B6 || ~z~Yeah - I'm feeling that.
+89603084 || ~z~Damn! Man, you want some of this?
+8E0DF49D || ~z~catch the motherfucker while he in bed!
+907B01C5 || ~z~Damn, where the fuck did I put it, man?
+908842BB || ~z~That's my homie. Mister right.
+934ECA43 || ~z~Me first!
+94230E5A || ~z~Let's just get this stuff outta here!
+95A87A2D || DAYLIGHT
+9716C5DC || ~z~What things, fool?
+97E586A2 || ~z~It's already night, man you soakin' wet!
+9AF88668 || ~z~Let's get up out of here!
+9EA089F7 || ~z~Yeah, you always down, homie.
+A054A910 || ~s~You've left ~b~Ryder~s~ behind go and get him.
+A0B7D89B || ~z~Take him for everything you can get!
+A24D6347 || ~z~C'mon, nigga, what you waiting for? Look!
+A2BE2039 || ~z~That's a good idea! I'll be outside!
+A5D3E420 || ~z~OK, fool, in you go - I'll keep watch.
+A7396D09 || ~s~Go and fetch another crate.
+A7DA1C82 || ~z~What I tell y'all? We making a killing!
+A90194B0 || ~z~Man, we gonna hit him up for everything he got!
+AA831865 || ~s~Park the truck inside the ~y~lockup~s~.
+ADEEDC7C || Press ~k~~VEHICLE_ENTER_EXIT~ to put the crate in the ~b~truck~s~.
+AE6C50A9 || ~z~One more trip, CJ, we still got time!
+B1D5D5AB || ~z~Buster!
+B8639980 || ~z~Did I hear something?
+B90F55DA || You must remain silent at all times.
+BB42A955 || ~z~Ryder, where the hell you at, man?
+BCC8D561 || ~z~Let's storm the place.
+BE6291C3 || ~r~You did not manage to steal enough crates.
+BF0E5D99 || ~z~Man, I ain't talking you to you no more, fool.
+C1BF2124 || ~z~Seriously, Ryder man, you gotta give up them sticks.
+C6D2E53D || ~z~Forget it.
+C965A155 || ~s~You need to steal at least ~1~ crates of guns.
+CC4599C3 || ~z~Mark ass Ryder!
+CCA221EE || ~z~Come out you old bastard!
+CE08654C || Hold down the ~k~~SNEAK_ABOUT~ key to sneak.
+CF3EBE49 || Noise
+D03E5D9F || ~s~Take the guns back to the truck.
+D0DD2C14 || ~z~Get back in there and strip the place!
+D43264D8 || Enter the ~y~house~s~.
+D54A53D1 || ~z~Let it go!
+D5B910AF || ~z~I thought you was gonna keep watch outside!
+D7B0E80D || ~z~C'mon, CJ, we can empty that place!
+D8A41065 || ~z~A'ight, now we straight.
+DD8428F3 || ~r~You've waited too long to get to the house, it's no longer night time!
+DE06A426 || ~z~You a natural house-breaker, homie!
+DF2E6C51 || ~z~Now we headed back to Pay'n'Spray!
+E011F54A || ~z~My homie, LB - he told me about this army motherfucker who's got all the guns we need.
+E2AF4ABB || Find a ~g~crate~s~.
+E5C28EA2 || ~s~You're not going to be able to steal any more crates, get back to the ~b~truck~s~.
+E77C3153 || ~z~Put what, nigga?
+E78F722D || ~z~Yeah, right, Carl. You always right.
+E9A7B961 || ~z~Apart from when you ain't around here.
+EA9272E7 || ~z~Gooks!
+ED180ED3 || ~z~Yeah that was a real breeze.
+EDFFB6FE || ~z~Thieving commie bastards!
+EE393E06 || ~z~Who can't?
+F0BC8820 || ~z~Yeah, yeah, that's it, that's it...
+F36EFB8B || ~z~Just bring it back here and LB will give you a nice price for it.
+F38943A6 || ~z~You dumb bastard sherm-head.
+F4033F92 || ~z~Listen up, no motherfucker gonna give a gangbanging carjacker like you anything for free.
+F60E0E96 || ~s~You got too much heat on you. Lose the cops.
+F90AC40B || ~z~Damn! Where the fuck..?
+FE530ACC || Find a ~g~crate~s~, or get in the ~b~truck~s~ and go offload what you've already stashed.
+FE670012 || ~z~No, man - I'm cool on that. Where we going?

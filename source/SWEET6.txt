@@ -1,0 +1,140 @@
+2848DAC || ~z~This is for firme rides, ese, not that old shit!
+2A53370 || ~z~Look, baby, go get in the car, OK, I'm gonna speak to Carl.
+5C8F769 || ~z~Horale pendejo you lucky. That's right, you lucky Cesar's spoken for you.
+5E949B5 || ~z~You gotta put up some real green, homie!
+62FC14D || ~z~Maybe hoppin' is just for eses.
+78E4930 || ~z~before you see another dead sibling.
+A3CB14F || ~r~The meeting is dispersing because you attacked a group member.
+B32C187 || ~z~You trippin', ese? How you going to compete without a ride?
+18593415 || ~z~Damn, homie, he's gonna shake that ride apart!
+18BE8C38 || ~z~He phoned ahead, said you might be looking for a car that bounces.
+1A91CC25 || ~r~You've destroyed the lowrider.
+1BBE0231 || ~z~Shit that was close.
+1CD3C628 || ~z~Cesar Vialpando.
+1E3A80C4 || Press ~k~~VEHICLE_HORN~ to lock the car's hydraulics in place.
+1F34F00C || ~z~That's some serious bouncing, eh?
+1FD34821 || ~z~You can usually find them over by Unity Station.
+201F9244 || ~z~My ese will see if you up to scratch, eh!
+2111E28C || ~r~Your lowrider is history.
+24956079 || ~z~I'm thirsty.
+260170D6 || $~1~
+28A7AEA7 || ~s~Back up the lowrider into the ~y~mod garage~s~.
+298860B3 || ~z~I say he thinks he's gangster, man, and I don't like it.
+2BCEDEEA || ~z~You say it like it's a bad thing!
+2CA31AF3 || ~z~That ain't how Moms raised us.
+2D02928E || ~z~Good job, eh. We usually hang out here between 8 and 10 pm,
+2EE5A4AA || ~z~Horale vato. Who's this pendejo?
+309351F2 || ~z~Come here, baby girl
+32D5EFAB || ~z~but a boyfriend from the Southside, wrong?
+337467D6 || ~z~You're still looking lame in front of your hood.
+3393DFFB || ~z~Hey nice car, you looking for the competition?
+3419A3CF || ~z~Come on Dog, My mom can bounce better than that!
+35B82BB2 || ~z~I can see who I want to see.
+37FE95EB || ~z~make sure that whatever you're dating
+40F9A57D || ~z~Since Sweet told me to keep an eye on you,
+42BF1B24 || ~z~And I'm tired of you acting like you own me.
+44735740 || ~z~They, this fool just don't got what it takes.
+4494EF6D || ~z~Hey homie I can show you where it's at if you like.
+45D2DF3D || ~z~Let me guess, Sweet - senseless killing right,
+47946164 || ~z~Well you just shook that whatever's hand.
+496E578A || ~z~I've seen worse, but you did alright.
+51064040 || ~k~~GO_LEFT~ ~k~~GO_RIGHT~ Change wager
+5616D21A || ~s~You need to take the ~b~lowrider ~s~with you.
+566B8459 || Current Cash $~1~
+59E2943C || ~z~Look, baby, don't start no shit. Don't make it worse, OK?
+5BA42A65 || ~z~Or Lopez, either, you racist fuck!
+5CC9EE7C || ~z~Oh and I guess you two would know what a hooker look like, huh.
+5E8F5025 || ~z~Well I say he ain't cool, holmes.
+5FA09E31 || Use the suspension controls to bounce in time with the music.
+626215FE || ~k~~VEHICLE_ENTER_EXIT~ Quit
+62CAE918 || Player
+6420B098 || Use the Special Ctrls to activate the car hydraulics.
+68D478B7 || ~z~If you ever want to mod your ride, come back any time, man.
+693DB052 || You need $50 to compete in the lowrider event.
+6BD4F6BE || ~z~Yeah, OK, I guess we're cool. For now.
+6CB932A7 || ~z~Yeah. Maybe.
+6F5E0483 || ~z~Hey, homie, you're bouncing like a pro!
+6FB9BCAE || ~z~Well I owe him big from way back, so here, this should do the trick.
+708979A6 || ~z~Don't say a word, Carl. Just follow your sister,
+72CFC7FF || ~z~Jose, c'mon, holmes, I can handle this. This is important to me.
+75A203E6 || ~z~Carl! What the hell were you thinking?
+77E4BDBF || ~z~It just ain't right you seeing some cholo motherfucker.
+7A5645C0 || ~s~Go to the garage in ~y~Willowfield~s~.
+7B583508 || ~z~Na man, you need some REAL springs none of this standard shit.
+7C35F111 || ~z~Man, you gotta have a lowrider to hop!
+7D3B81D9 || ~s~You need a car with hydraulic suspension to compete.
+815065AF || ~z~Damn, dog, he's showin' us all up!
+81B7DD82 || ~z~So, you must be Sweet's bro' huh?
+82B7538B || ~z~Carl Johnson - CJ.
+85DA9792 || ~z~You got a problem with me, fine, we don't have to be friends.
+863DA1B6 || ~z~Shit, look at that Grove boy bounce!
+86DA199B || ~z~Very popular with the eses - they compete in these things.
+8A2ED1B4 || ~s~You don't have enough cash, you need $500.
+8B011FA0 || ~z~Back in the ghetto five minutes and I'm acting like my life ain't worth jack.
+921A2EE1 || ~z~Look, holmes, I love your sister. I honor her, she's my girl for life.
+923B903D || ~z~You can't take part in that curacha, get yourself a lowrider!
+945824EC || ~s~Get to the ~y~lowrider meeting~s~.
+99EADC93 || ~z~Then you'll know exactly what my problem is.
+9B8DDC16 || ~z~You don't have enough cash to play, ese.
+9BAC62CA || ~z~Vamanos muchachos.
+9CC1A6D3 || ~z~No, you fuck off, I'm talking to my sister.
+9E87188A || ~z~For what, so I can date one of your mindless friends?
+9F2690F7 || ~z~Hey homie, maybe you should take up golf or some shit like that.
+A02C4C63 || ~z~- Hey, get your dirty hands off my sister!~n~- Carl! What is wrong with you?
+A1038277 || Try to move the car in time with the music.
+A26AF23A || ~z~Some things ain't just meant to happen. I mean what if y'all have kids.
+A66E466E || ~s~Get back in the ~b~lowrider~s~.
+A99A0048 || ~z~don't get you in no trouble.
+AA7D366C || ~z~Man, dog, you're losing it!
+AA9A8E41 || ~z~You looking for something, ese?
+ABDCBE11 || ~z~Ohh, what - a no good narrow minded hypocrite gang banger
+ACB17A08 || ~z~Where are you going?
+AD10F275 || ~z~Hey homie stick to spraying graffiti!
+AEF7C451 || ~z~That shit was alright! Eeee!
+B0813109 || ~z~What? Dickhead? This dickhead is my brother!
+B2C78F50 || ~z~I ain't racist. I just know how they feel about you.
+B40BC334 || ~z~you got a hot lowrider and you got some cash to burn, well come along.
+B5AA4B49 || ~z~His name ain't Hernandez.
+B7ECF510 || ~z~Holmes, you acting like she's your woman, eh.
+B818B336 || ~k~~PED_JUMPING~ Increase Wager~N~~k~~PED_FIREWEAPON~ Decrease Wager~N~~k~~PED_SPRINT~ Proceed
+B865E575 || ~k~~VEHICLE_BRAKE~ Max wager
+B9377D22 || ~z~So you know what you can do for me, man?
+BB71C37B || ~z~Shut up, Carl.
+BD9C31C3 || ~z~Look, baby, don't start no shit. Don't make it worse, OK?
+BF08216C || Wager
+BF75772F || ~r~You lost the lowrider challenge.
+C0EBC586 || ~z~She's with me, cabron. So chill the fuck out. I treat her good.
+C2AD7BDF || ~z~Well, Leroy Lopez then.
+C5C0BFC6 || ~z~And look at you, you're dressed like a hooker!
+C6D499C8 || Minimum Wager $~1~
+C786019F || ~z~Easy, holmes. He ain't from nowhere. He's cool.
+C87247B9 || ~r~The meeting is dispersing because you messed with one of their cars.
+CA9B0155 || ~z~Hey, girl!
+CC76F3ED || ~z~I'm just trying to protect you.
+CE304DB4 || ~z~You can fuck off, pendejo, and then maybe we cool.
+CF1F83A0 || Move the suspension controls to control the hydraulic suspension. Press ~k~~TOGGLE_SUBMISSIONS~ to make it hop!
+CF62D5E3 || ~k~~VEHICLE_ACCELERATE~ Place wager
+D0670630 || ~z~You're pretty good for a beginner, eh!
+D16976F8 || You can return to the garage at any time. It is marked on the radar with a wrench icon.
+D56DC2AC || ~z~Leroy Hernandez? That don't sound good, girl.
+D604B2E1 || Use the suspension controls in the direction shown.
+D72B7CF5 || ~z~Carl! What is wrong with you?
+D9F0F4C7 || ~z~So since when has my brother been a lowrider?
+DA17C2E3 || ~z~Ah, fucking leva!
+DAF07ACE || ~z~Follow me.
+DBB64A9E || ~z~I'm tired of you not listening to me, girl.
+DCDB8E87 || ~z~telling me what is right and what is wrong.
+DE9D30DE || ~z~Que honda? Nice hopping, holmes.
+DFB12F1A || Opposition
+E25164B2 || ~z~Man, your car gotta be set to bounce, homie!
+E51D1E77 || ~z~This is why I stop you from being skinned just then.
+E980281C || ~z~I don't think so.
+EBC69645 || ~z~Carl!
+ECAB525C || ~z~Let's get some fucking beer, huh.
+EEEDEC05 || ~z~She's meeting him at some cholo car club.
+F13A9120 || ~z~Damn, homie, that fool can hop!
+F1DD290D || ~z~Custom springs should see you hopping all the way home! Try her out.
+F2DDA704 || ~z~But Kendl, she's happy with me, carnal.
+F5B0631D || ~z~Cabron! You got a nice ride there, holmes. Maybe we'll get to kick it again soon, eh?
+FC062F36 || ~z~Damn this place has a way of getting to you.
+FD29E122 || ~s~Go to the ~y~garage~s~ for a paint job.

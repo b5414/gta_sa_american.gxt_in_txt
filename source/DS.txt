@@ -1,0 +1,66 @@
+32F5C || Record Score ~1~%
+32F5C38 || Final Heading:
+4429821 || ~s~To do a 90, slide the car sideways into the parking space within five seconds.
+6ABDA5E || Pop and Control
+870526C || Cone Coil
+9B56377 || Start
+F1D9675 || Alley Oop
+10AE5236 || ~s~Use the rear wheel drive car to do a burnout donut.
+229830B4 || ~k~~PED_SPRINT~
+25F5F4AD || ~k~~GO_LEFT~ Counterclockwise
+28E8F467 || ~s~Perform a P.I.T. Maneuver to spin the other car around with minimum damage.~n~Finish as close to the other car as possible.
+2B2E7C9F || NO AWARD
+2F85307E || ~s~Drive to the other side of the city and back without damaging the car.~n~The target time is UNDER 120 seconds (2 minutes).
+3608703D || ~z~Passing a test will unlock the next test in the training program.
+369E013F || ~1~.~1~s
+3845890D || ~s~Do 5 laps in as quick a time as possible.~n~Target time is under 40 seconds.
+3B2FB524 || MISSION PASSED!~n~~w~DRIVING SKILL +
+3B8301F5 || Final Lap
+3CEEC5EC || -~1~%
+410F40AB || ~z~You can come back and check your scores or take new tests at any time.
+466284B2 || ~z~Welcome to the Advanced Driving School.
+4BE9F57A || NEW TEST AVAILABLE
+4F42B99B || ~s~Use the front wheel drive car to reverse then quickly spin around 180 degrees.~n~Press ~k~~VEHICLE_LOOKLEFT~ and ~k~~VEHICLE_LOOKRIGHT~ together to look behind.
+52F2C43B || ~k~~GO_RIGHT~ Clockwise
+559F0022 || Results
+584564F2 || Press ~k~~VEHICLE_BRAKE~ to begin.
+588200E8 || ~s~Drive to the end of the track, a tire will blow out half way there.~n~For extra control, release the accelerator.
+5C294C09 || ~1~%
+5FEFC4F1 || ~s~Keep the car on two wheels until the end of the track.
+67A962A0 || ~s~To do a 180, accelerate to top speed, press ~k~~VEHICLE_HANDBRAKE~ to handbrake around the cone and then return.
+6AB4626A || Overall Score:
+71ACEAC8 || City Slicking
+74FB7604 || Press and hold ~k~~VEHICLE_ACCELERATE~ to begin.
+76C12ED1 || Spin and Go
+77041FCA || Which course?
+781AA6E3 || Wheelie Weave
+7EB253E1 || GOLD
+7F7762FA || The 180
+89A7038C || NEW CERTIFICATE AWARDED
+8ECAC795 || ~s~Walk to the television to start the lesson.
+90BC32CD || BRONZE
+9614C7CF || Whip and Terminate
+97D1F6D4 || Exit
+98CF4FFD || The '90'
+9A260D82 || Final Position:
+9FA28BE4 || Burn and Lap
+A5E79456 || Lap ~1~ of 5
+A86CE59E || ~z~To view a demonstration of each test, please use the TV over there.
+AF975085 || ~1~.0~1~s
+B1E1A5DD || ~s~Weave through the cones quickly and then return to the start position.
+B5AD5111 || Press and hold ~k~~VEHICLE_ACCELERATE~ and ~k~~VEHICLE_BRAKE~ to begin.
+B68C61C4 || ~s~Powerslide around a tight corner and stop in the allocated area.
+BB91610E || Get 70% or higher to pass
+BCFCA517 || ~k~~VEHICLE_ENTER_EXIT~
+C18B5152 || ~s~Do a barrel roll in mid air and land it perfectly. While in the air, release the accelerate button and use ~k~~VEHICLE_STEERUP~ and ~k~~VEHICLE_STEERDOWN~ to adjust the car's pitch.
+CBFB9581 || ~<~~>~
+CC965198 || Continue
+D2E0A4C0 || Overall Time:
+D8906013 || Final Time:
+DF6BD508 || ~z~To pass you must score BRONZE or higher in all 12 tests.
+E0D6C642 || Navigate
+E67E3340 || P. I. T. Maneuver
+E7BB025B || SILVER
+ED213D14 || Damage Penalty:
+F27F6F0F || The 360
+FEA0331A || NEW RECORD

@@ -1,0 +1,25 @@
+16DA6905 || ~s~Complete the course as quickly as possible.
+1AA40F66 || ~s~Collect as many points as possible.
+1DC9CB7F || New Highest Score ~1~
+2B02FCD2 || TIME
+31895CA5 || ~s~You have collected a ~r~Red Corona~s~ +3
+36E498BC || ~r~You bottled it!
+41E3A82A || ~r~You have taken too long!
+468E6C33 || 3
+6ACEFBE9 || ~s~You broke the record!
+6DA33FF0 || ~s~You have ~1~ seconds to return to your ~b~bike ~s~before you are disqualified.
+6F06D1A1 || ~s~Get on the ~b~bike~s~!
+83AD5EDC || Your score ~1~
+84C09AC5 || The Highest Score ~1~
+88BEFCA6 || ~s~Well done!
+8FD338BF || ~r~You did not get back to the bike quickly enough!
+A1364134 || 1
+A8800D1F || ~s~You have collected an ~y~Amber Corona~s~ +2
+AFEDC906 || ~s~To leave the stadium stand in the ~r~red highlighted~s~ area on foot.
+D63171A2 || 2
+D8EAF990 || ~s~Use the Sanchez to collect Coronas. The ~g~Green Corona~s~ is worth 1 point. The ~y~Amber Corona~s~ is worth 2 points. The ~r~Red Corona~s~ is worth 3 points.
+DF873D89 || ~s~You have collected a ~g~Green Corona~s~ +1
+F3C7AA53 || GO!
+F4AA6E4A || ~r~You failed to break the record!
+FD1C2261 || ~s~You have ~1~ second to return to your ~b~bike ~s~before you are disqualified.
+FFB9CC30 || ~r~You have wrecked the bike!

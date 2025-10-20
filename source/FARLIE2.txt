@@ -1,0 +1,70 @@
+6BA4D51 || ~z~You knew the deal. You agreed.
+861C563 || ~z~Hey holmes, don't be such a pinche liability.
+F0C017A || ~z~What type of math is that?
+117AF422 || ~z~Now just listen to me, OK?
+1189B75C || ~z~A'right, a'right!
+15480903 || When you're close to a ~r~package~w~, tap ~k~~VEHICLE_FIREWEAPON_ALT~ to snatch it.
+1617303B || ~z~Is that y'all game?
+16E47345 || ~z~Dude, hurry the hell up!
+183FFB77 || ~z~Leave it, we gotta go!
+1FA17C10 || ~z~Horale, ese.
+234C96A0 || ~z~And what what what!? Cat got your tongue?
+23BFD5DE || ~z~I'm almost there, man.
+242152B9 || ~z~Man... Damn!
+24D211C7 || ~z~Dude, hurry the fuck up!
+26DBE965 || ~z~We can't just go out there T-Bone, it could be a DEA trap!
+2A0999F5 || ~z~Leave it, we gotta go!
+2D971E92 || ~z~Carl, come with me. We gonna have to bust us a couple of melons up in here.
+324A48A9 || ~r~One of the packages was destroyed!
+3312A8B4 || ~z~Leave it, we gotta go!
+363FDB36 || ~s~Get to the ~b~ambushed van.
+3AA4E49F || ~z~Almost there, dude!
+3BFC0482 || ~s~The bikes are heading to their rendezvous. Collect the ~r~packages~s~ before they reach their destination.
+3DC92086 || ~z~Hey, yo dude, hurry up!
+4138EBA0 || ~s~Get the packages back to the ~y~Pleasure Domes.
+44159822 || ~z~We're moving, NOW!
+454D783F || ~r~One of the packages is at the bottom of the sea...
+4CFB3414 || ~s~Package collected.
+4DA3D409 || ~z~OK, OK!
+51DCD9F3 || ~z~CJ, get your ass over there and rescue the situation.
+5326622F || ~z~I said where?
+544BA636 || ~z~You as bad at talking as you is at mathematics?
+54B8E548 || ~z~OK, OK!
+5D0EA963 || ~z~We're moving, right now!
+611000AD || ~z~Now this here is the dumb muscle that I was talking about.
+667DC4B4 || ~z~Now it's very important that you listen to me.
+668E87CA || ~z~OK, OK!
+68A64C86 || ~z~Don't mind him, we go way back.
+6F38CBE1 || ~z~Come on let's go!
+71BD7DC7 || ~z~Besides, we could have said 5%, and what would you..?
+780B31EC || ~z~That's fool's math, playa!
+7F66F5F5 || ~z~Liability? Liability for what?
+8873A598 || ~z~What you think? What, what, what you and Mike think - I'm just a pretty face to y'all?
+8880E6E6 || ~z~I'm almost done!
+8F1E6181 || ~z~Wassup?
+8FED22FF || ~z~Get a move on, dude!
+916894D9 || ~z~Now, there's 3 of us and I'm getting 20%.
+960550C0 || ~z~and that's what it's going to come down to, huh? Screwing me out of my 13%!
+A2F55538 || ~s~The final bike is heading to the rendezvous point. Collect the ~r~package~s~ before he reaches his destination!
+A3ADB525 || ~z~Yo, I'm almost done!
+A4C0713C || ~z~We got to get a move on man!
+A5989121 || ~s~Chase down the bikers and collect all the ~r~packages.
+BA45C71A || ~z~Hello.... Yeah.... What?
+BAB68464 || ~z~I'm almost done!
+BD280303 || ~z~Oh no you don't! I invented that trick, baby.
+BDDB407D || ~z~Get a move on, man.
+BFD2B8DF || ~z~What do you mean the shipments have been ambushed?
+CA2F3395 || ~z~Hey, man, I gotta bounce.
+CADC70EB || ~z~We gotta go, come on, move it!
+CD42F78C || ~z~Hey, you want to make this shit personal, ese?
+CDB1B4F2 || ~z~OK, let's get out of here!
+D29FA1B7 || ~s~Tap ~k~~VEHICLE_FIREWEAPON_ALT~ to snatch the ~r~package.
+D3C741AA || ~z~We gotta go, come on man, move it!
+D4AA85B3 || ~z~OK, let's get out of here!
+D5F265AE || ~r~You didn't collect the packages in time!
+E1026056 || ~z~You and Mike. I'd sell my soul to you guys,
+E66FA44F || ~z~Tell him. How long?
+F8195117 || ~z~Carl - T-Bone, and in reverse.
+F8EA1269 || ~z~We gotta go buddy, come on!
+FF74950E || ~z~I ain't no retard, amigo.
+FF87D670 || ~z~Let's get out of here!

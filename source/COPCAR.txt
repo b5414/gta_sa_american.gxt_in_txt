@@ -1,0 +1,12 @@
+4641C01 || ~r~Vigilante mission cancelled!
+5F7D469 || ~r~Your time as a law enforcer is over!
+C17826E || ~r~Suspects ~s~last seen in the vicinity of ~a~.
+27CC02EE || KILLS
+61CA6685 || ~r~Suspect ~s~last seen in the vicinity of ~a~.
+6C6DDF20 || Vigilante Mission Level ~1~
+78B1FC45 || ~s~You have ~1~ second to return to a police vehicle before the mission ends.
+A4139808 || THREAT~n~ELIMINATED:~n~~w~$~1~
+A5ABDC48 || Vigilante mission level 12 complete: Your max Body Armor increased to 150%
+A92892FA || TIME LEFT
+CD1F8208 || ~s~You have ~1~ seconds to return to a police vehicle before the mission ends.
+E57567D0 || LEVEL

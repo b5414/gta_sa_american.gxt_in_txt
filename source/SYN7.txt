@@ -1,0 +1,53 @@
+4851950 || ~s~Get back in the ~b~car ~s~and set the bomb!
+1428643A || ~s~Use the ~y~Ramp ~s~to get into the crack lab.
+1D9E2811 || ~s~Get back to the ~y~Garage~s~.
+21C99F9F || ~z~Cheer the fuck up. You're going soft on me, man.
+233E3E2E || ~z~Who the fuck are you!
+2453FA37 || ~z~Have I missed something here?
+287FD3B4 || ~z~And I've killed him!
+2E233EE4 || ~z~I've wired in a delay timer, to give you time to get out.
+2F1217AD || ~z~Not wit' my people I ain't. Shit's still fucked up.
+3164E2F5 || ~z~...No...For real...? Shit.
+360926EC || ~z~Yes you did. But this isn't over yet.
+3868F3E0 || ~s~Go and pick up the wired car from the ~y~Bomb Shop~s~.
+3F0537F9 || ~s~ Bomb activated.
+410E167A || ~z~You did something good, eh?
+4663D263 || ~z~you will have put them out of business for good.
+5354CAA1 || ~z~Shit, I'm so fried I'm seeing shit!
+56CEAF09 || ~z~Maybe you're right, then, man. But...
+5815273B || ~z~Carl! You're a fucking hero down in LS, I just spoke to my cousin.
+58AF7A05 || Bomb ~1~
+59240E72 || ~z~Cool. Good lookin'.
+595281A6 || ~k~~PED_FIREWEAPON~ Activate bomb, but only do so when car is in position.
+5E49CA6B || ~z~Hey man, is it ready?
+5F78E322 || ~z~Fucking Ryder man! That was my homie.
+632F54AC || ~s~Park the car near the ~y~Chemical containers~s~.
+6A991887 || ~s~Use the ~b~Car ~s~to ramp over the wall.
+6C7FA8E9 || ~z~Get out there and kill the fool!
+756499A8 || ~z~Hey, some loco bastard is blasting on our homeboys!
+7A3465ED || ~r~You got caught in the blast!
+7D59A1F4 || ~k~~PED_FIREWEAPON~ Activate bomb.
+8271C9C5 || ~z~Blast the moron, open the gate!
+8A4CF199 || ~s~Get back in the ~b~car~s~!
+8D213580 || ~r~The car has been destroyed!
+9B6AF884 || ~z~We're being hit!
+AB116689 || ~s~Find another ~b~car ~s~so you can stunt jump out of the yard!
+AF007756 || ~z~What you mean?
+B047AB47 || ~z~She's packing enough to take out that crack lab.
+B176820E || ~z~Fucking midget deserved it, eh.
+B61B4617 || ~z~Man, I got homies I used to run with that turn their back on me, over this.
+BA376F94 || ~z~What the fuck is he doing?
+BEEAACA1 || ~s~Get as far away from the crack lab as possible!
+C11C7681 || ~z~Yeah, well, what are you going to do, huh?
+C671B298 || ~z~Little asshole tried to bang your sister, you know that?
+C7409BD1 || ~z~She's all set. Get in.
+C9ED9C37 || ~r~The blast did not destroy the crack lab!
+CD305F02 || ~z~This ain't no parking lot!
+CF7DA38D || ~s~They've shut the gate!
+D66692CC || ~s~ Park the car inside the ~y~Crack lab~s~.
+D80747C0 || ~z~Well, your former friends have a factory. And the way I see it, if you take that out
+DC16561F || ~s~Kill the ~r~Guards~s~, that will get their attention.
+E450F04E || ~s~Escape out the ~y~Main gates~s~.
+EC6DC812 || ~z~It's a hit!
+F576F953 || ~z~Open the gates and waste the dumb fuck, holmes!
+FA260516 || ~s~Get out of the warehouse before the timer runs out.

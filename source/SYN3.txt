@@ -1,0 +1,73 @@
+A7E9A8B || ~z~Si mon, ese. We're watching.
+A8DD9F5 || ~z~We're late as it is.
+D135E92 || ~z~You make sure it does, we make it worth your while.
+113DD90F || ~z~C'mon, take a seat.
+1365ABCA || ~z~Man, fuck that, I just want to get this next shipment out of the way.
+14086FD3 || ~z~Man, what the fuck are you talking about?
+1B589396 || ~s~Get back into the ~b~car~s~.
+21A08A36 || ~z~Nobody!
+26CD4E2F || ~z~I almost had you, man.
+295C19EC || ~s~Destroy the final ~r~roadblock.
+2C4EC982 || ~z~Get the van out of sight, I'm gonna get out of here!
+2E31DDF5 || ~s~Use the ~g~rocket launcher ~s~to destroy the ~r~roadblocks.
+3075C055 || ~r~The van driver died!
+38BBBB77 || ~z~What the hell?
+3F253C10 || ~z~You trying to get us both killed?
+3FD67F6E || ~z~and rape and kill your family, you snake.
+4252C855 || ~z~Get the van out of sight, and I'm gonna draw the cops away.
+48220C86 || ~z~Hey, what the fuck's your problem?
+48D14FF8 || ~z~You think you can fucking bullshit me,
+4FBC8BE1 || ~z~You think you can mess with me?
+51CA7EB9 || ~z~I almost fucking had you.
+56A7BAA0 || ~z~Turn around and look at me.
+5936ED63 || ~s~Take out the first ~r~roadblock ~s~before the ~b~van ~s~gets there.
+5E5B297A || ~s~Clear the third ~r~roadblock.
+630F5F45 || ~z~Rule No.1: Never drive a direct route.
+64629B5C || ~z~Hey, leave the kid alone, he's doing fine.
+663AE999 || ~z~Carl, lets go for a drive.
+6C5FA300 || ~r~Toreno died!
+7A146E04 || ~z~This shipment has to get to the factory.
+7D79AA1D || ~z~We're watching you, kid.
+7D8AE963 || ~z~Let's go!
+8251C22C || ~s~Pick up the ~b~escort bike~s~.
+83DAB65B || ~z~Hey, and we will.
+853C0635 || ~s~Pick up the ~g~rocket launcher ~s~when you get there.
+883488B5 || ~z~Get in the car!
+8A6CFA70 || ~z~You do what we tell you!
+8F594CAC || ~z~C'mon, get in!
+9377CB31 || ~z~Hold it, Mendez, we got business elsewhere.
+9384884F || ~z~Oh good, that's great. Now we gotta go meet this shipment.
+A0CADDC4 || ~r~The car was destroyed!
+A141A9B3 || ~z~Our guys are waiting for us a quarter mile further up the road on the right.
+A1B2EACD || ~z~Hey, you a pinche jura or what?
+A6DF2ED4 || ~z~I will blow your head off,
+A97C91EF || ~r~The van was destroyed!
+AF6962FF || ~z~I know your fucking game, ese.
+B0554856 || ~s~Use the rocket launcher to destroy the ~r~roadblocks.
+B5479838 || ~z~OK, we made it, but the cops gonna be all over the spot real soon.
+B67253BE || ~z~Are you boys done playing around?
+B8A9DB8C || ~z~Who you working for?
+B9E3047D || ~s~Make sure the ~b~van ~s~gets to its destination safely.
+BFC41F95 || ~z~and keep my mouth shut. I swear, man!
+C03FBCD9 || ~s~Drive to the van's ~y~location~s~.
+C1756328 || ~z~Guacha! You gotta be careful in this business, man, you know that.
+C75278C0 || ~s~Clear the next ~r~roadblock.
+C8C32F03 || ~z~Man, I'm just trying to make some money,
+CEE434EB || The ~b~van~s~ is almost at the current ~r~roadblock~s~!~N~Clear the ~r~roadblock~s~ quickly.
+CFAEEB1A || ~z~I don't know what you're talking about, man! My throat!
+D12B5D3C || ~z~Hey, what the fuck you doing man?!
+D1D81E42 || ~z~(Chokes)
+D6B5DA5B || ~z~Man, where the hell everybody anyway?
+D7CDED52 || ~s~Go to the ~b~car~s~.
+D86E5269 || ~z~and fuck me over?
+DE7BA179 || ~r~Your escort bike was destroyed!
+E31D3FBE || ~z~Get out and grab a bike.
+E3EE7CC0 || ~z~You heard what jefe said.
+E470FBA7 || ~z~He can take care of this just fine by himself.
+E483B8D9 || ~z~Yeah, we're straight, vato.
+F23B36A3 || ~s~Get to the ~b~van.
+F4DD86CD || ~z~And stop cursing around me, you know I'm sensitive, ya fuck!
+F85E7C3A || ~z~C'mon, take the wheel!
+FA060EFF || ~z~Hey holmes, where you going?
+FCE0BE91 || ~r~T-Bone died!
+FD6BCAE6 || ~z~Get us over there now!

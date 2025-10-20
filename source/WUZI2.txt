@@ -1,0 +1,160 @@
+20D1B36 || ~z~Where'd he go?
+24BE264 || ~z~SHIT! Man, damn!
+301CFA3 || ~z~A'ight, so let me get this straight.
+46C0BBA || ~z~Seriously, when I'm in the deep water, it panics me,
+526267D || ~z~How are you in the water?
+5876702 || ~z~Nah, I don't know what it was...
+78E9FA0 || ~z~There he is again!
+A742747 || ~z~Fuck, lost him!
+AB78388 || ~z~You're so negative!
+D037F89 || If the ~r~guards~w~ spot you swimming fast or you don't dive quick enough they will start shooting.
+FF7A3D1 || ~z~Man, I swear I saw something...
+136F1606 || ~z~Don't move a fucking muscle!
+13ACB2C9 || ~z~Alright, Woozie, relax. Don't beat yourself up about it.
+1402D21F || ~z~Hey, has he gone your way?
+16EC9290 || ~z~We got a swimmer approaching the boat!
+1912872B || ~s~The boat that you have to plant the bug on is anchored out at sea.
+1A1AFEE2 || ~z~No shit!
+1B162A77 || ~z~Shit, must have been a seal...
+1C9C5643 || ~z~Hey you!
+1D773AFB || ~z~I once got a condom stuck to my face.
+1DB49E34 || ~z~Oh shit, we down one!
+1E7F4332 || ~s~You can now resurface.
+1E95AEE1 || ~z~No one can hold their breath that long, man!
+229891B8 || ~z~Hey, what was that?
+24DAF012 || ~z~Damn, gave me the slip!
+25F555A1 || ~z~He's on the surface again!
+292048F5 || ~z~We got him!
+2CA3CC63 || ~z~There he is!
+303B79B4 || ~z~There he is again!
+31F409EE || ~z~We must have killed him!
+32281DC1 || If one of the searchlights spot you on the surface of the water the ~r~guards~w~ will shoot at you.
+35B8FD22 || ~z~He's gone under!
+365A6938 || ~z~Uh, one last thing. You do know that I'm black, right? And not Chinese.
+3699CDF7 || ~z~He can't hold his breath forever!
+37B10580 || ~z~Hey!
+384245C5 || ~z~That a guy in the water?
+3DC1C153 || ~z~Oh shit man, we got a man down!
+3F2F81DC || ~z~Told you I saw some idiot!
+40B63516 || ~z~What the fuck?
+415D59AE || ~z~Look, I'll do it.
+419EFD61 || ~z~Get the son of a bitch!
+46F33978 || ~z~We must have winged him!
+4828B14A || ~z~Man, did you see him? No..?
+48CF0967 || ~z~Yo, we got him now!
+4AC6F1C5 || ~z~Shit, keep on your toes!
+4D4C8DF1 || ~z~Shit, over there! Some guy in the water!
+4F457553 || ~z~Hey, we gotta check over there!
+51D43826 || ~z~Who's there?
+52F26537 || ~z~There he is again!
+53DDC084 || ~z~I lost him, keep your eyes open!
+5457BCB0 || ~z~Gotta stop spooking myself!
+559FA12E || ~z~You guys, he's over here!
+5C29ED05 || ~z~Must have scared whatever it was...
+61EBA206 || ~z~See that? Over there!
+6305E289 || ~z~Given me the fucking slip!
+63E25AA4 || ~z~Hey you, stop right there!
+64682690 || ~z~Man, this place is filled with ghosts...
+64AB825F || ~z~in the water they'd be quite useless.
+697873A4 || ~s~Pick up the ~g~knife ~s~at the bottom of the cave.
+6A700A6D || ~z~Listen, man - when I was a kid, swimming off the Santa Maria,
+6AB3AEA2 || ~z~Fuck, we lost a man!
+6B9B66D5 || ~z~Who the fuck are you?
+6D1DCE74 || ~z~I... I'm blind.
+6E15B7BD || ~s~You will have to swim to it, however there are Da Nang Boys patrolling the route.
+722116EB || ~z~What you mean, can I swim?
+72805794 || ~z~Nothing, gotta stop freaking out...
+736B3B2C || ~z~Hold on. You tryin' to tell me you can't swim?
+7406FF35 || ~z~Look, CJ, I need someone from outside the Triad who I can trust.
+754CD2F2 || ~z~How you do that?!!
+78F09347 || ~z~Shit, could have sworn I saw something!
+7A044F1F || You have been spotted by one of the ~r~guards~w~ dive underwater to lose their attention.
+7A1ED3C8 || ~z~Oh fuck!
+7AF96BE5 || ~z~Must have been a ghost!
+7D698B06 || ~s~You have planted the bug! Get off the tanker and back to the ~y~docks~s~.
+7D7317D1 || ~z~Man, he gave me the slip!
+7DB0B31E || ~z~to put a bug on a boat in the harbor?
+7F7AEF73 || ~z~I think I see something in the water!
+801BD691 || ~s~Get to the ~y~docks~s~.
+821F7BCD || ~z~Man, he must have drowned by now!
+8313AF58 || ~z~Yes, although I've trained my other senses to a point
+83D00B97 || ~z~Hey! Oh shit...
+847E6B41 || ~z~Horror like that stays with you for life, believe that.
+84BDCF8E || ~z~I lost him, you see him over there?
+859507F9 || ~z~Shit, who's that?
+87761288 || ~s~The route ahead is blocked but there is an underwater tunnel! You will have to dive and swim through it to proceed.
+879CFF5B || ~z~He must be dead...
+8D0B83A5 || ~z~Guys! Hey guys!
+8DEC3B88 || ~z~Hey, we got some asshole over here!
+91748E5F || ~z~Anybody else see that?
+9367EA2A || ~s~Press ~k~~VEHICLE_ENTER_EXIT~ to plant the bug
+9410B2E4 || ~z~Shit, we got a body here!
+94F70AC9 || ~z~Shit, man, I gotta loosen up, man, shit...
+9A089E19 || ~z~You want me to swim around in dirty dock water,
+9B044A8C || ~z~He's gone under!
+9B42B3DE || ~z~No, I can't!
+9C2F77C7 || ~z~What? Hey, man, quit trying to distract me!
+9C8E36B8 || ~z~Must be hearing things...
+9D655A00 || ~z~plus, I'm terrified of eels, and squid, and seaweed, and...
+9DBC6218 || Once you have lost the attention of the ~r~guards~w~ return to the surface to get your breath back.
+9E87CE1A || ~z~We picked him up again!
+A342ECDD || ~z~We got somebody in the water over here!
+A626D066 || ~z~Must have been one of those seals...
+A6C1684B || ~z~Hey, I see the bastard too!
+A8FD5854 || ~z~Keep circling!
+A932280E || ~z~I got him, he's over there!
+AB214C7B || Don't swim on the surface of the water or you will be spotted.
+ACB1AC98 || ~z~He's dived again!
+AEB8543A || ~z~What was that?
+AF533882 || ~z~I'm blind, Carl, not stupid.
+AF909C4D || ~z~There! See him?
+B029194F || ~z~Oh yeah, I see him!
+B2278C29 || ~z~You hear something?
+B5AA9DD9 || ~z~I see him!
+BA59DD9C || ~z~My mind must be playing tricks.
+BB91C002 || ~z~Hey, he's over here!
+BC5893DC || Press ~k~~PED_JUMPING~ to jump and climb out of the water.
+BCFC041B || ~z~He must have got trapped down there!
+BFDA590A || ~z~Hey, who goes there?
+C2ADAD4F || ~z~There's the bastard!
+C520BCBF || ~z~Damn gulls, I'm gonna shoot one!
+C53D4DAC || You need more practice in the water before you can start this mission.
+C72E29D9 || ~z~OK, we see him!
+C8DD699C || ~z~Don't fuck with me, man...
+CAD4913E || ~z~Damn, lost him!
+CBFB348D || ~z~Told you we'd get him!
+CC96F094 || ~z~We got him now!
+CD5EED0A || ~z~Must have been a seal or something...
+D121E0F0 || ~z~Shit, I dunno what I saw...
+D1C658DD || ~z~I see him too!
+D3CFA07F || ~z~Oh fuck, we lost one!
+D445DC4B || ~z~There, a man in the water!
+D64C24E9 || ~z~Shit, did you see that?
+DBB69C0E || ~z~He's under us!
+DC267CED || The main route across the water is guarded by two patrol boats. If they spot you, dive underwater to lose their attention.
+DE351898 || ~z~I see him!
+DFFA68C2 || ~z~He's got to come up for air at some point!
+E1F9C2FD || ~z~Nah, I must be tripping or something.
+E30D1EA5 || ~s~Sneak to the back of the tanker and plant the ~y~bug~s~, be as quiet as possible to avoid the attention of the ~r~guards~s~ onboard.
+E3178272 || ~z~Man, he's dead!
+E3F03A5F || ~z~Damn gulls get everywhere!
+E460DABC || ~s~Lose the attention of the ~r~guards~s~ before you plant the bug.
+E47A466B || ~z~Shit, where'd he go?
+E5F3CF63 || ~z~Shit! Damn!
+E673BEC9 || ~z~Hey, what was that? Over there!
+E980FE8C || ~z~Over here! He's over here!
+EA626A96 || ~z~OK dude, see - I know you just trying to make excuses now!
+EABB528E || When you return to the surface the ~r~guards~w~ will not spot you until you move.
+EB284751 || ~z~I need something taken care of.
+EC037A1A || ~z~He was just here!
+EC458348 || ~z~Yeah. Can you swim well?
+ED0FAE8F || ~z~dodging little brown jelly beans and Vietnamese gangsters,
+F09BCFCD || ~z~Shit he's been down there too long!
+F3795BD7 || ~z~I have a confession to make...
+F4149FCE || ~z~where you wouldn't notice my handicap,
+F5184B5B || ~z~No, he's long gone or dead.
+F8E2F3BC || ~z~Hey, someone in the water!
+F9C76E35 || ~s~Swim to the ~y~tanker~s~ and get aboard.
+FA0CB333 || ~z~Stay right where you are!
+FAEB0B1E || ~z~Who the fuck are you!
+FD61772A || ~z~Shit, I gotta stop spooking myself!

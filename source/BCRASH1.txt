@@ -1,0 +1,79 @@
+7CF6396 || You can view your Gallery photos in your GTA San Andreas User Files directory.
+9AEB69A || ~z~He's gonna help us with the fight against crime. Right, Carl?
+EC37283 || ~z~Otherwise Sweet is going to find himself on a Ballas block
+10B587DB || ~z~Smoke? Smoke does exactly what he's told.
+1394B70E || ~z~Right Ed?
+17D843C2 || ~z~just cause you'se a buster?
+1A22FB25 || ~z~Get your hands off me, man.
+2283E559 || ~z~You got a bag over your head, boy. How you feel about that?
+25EE2140 || ~z~Intimidate those who intimidate others, Carl. It's my job.
+2B8FF44C || ~s~Take the camera to the ~y~drop~s~.
+2CE23055 || ~s~Chase ~r~him ~s~down and kill him!
+31E810CB || ~z~Yeah, you'll never find anybody as fork-tongued as this snake ass bastard.
+3294C50D || ~s~The ~r~snitch ~s~is getting away!
+35F90114 || ~s~Kill the ~y~witness~s~! ~s~Bring back proof.
+3685D4D2 || ~z~so they can manipulate his testimony any way they want to.
+3B98D418 || ~z~Yeah, somehow, nobody's caught you yet.
+3CF51001 || ~z~And, she's only sucking one greaseball's dick.
+4182E444 || ~z~I want you to pay him a little visit, Carl. And destroy all his evidence before he testifies.
+42FE3182 || ~s~Make your way up the mountain, find that ~r~snitch~s~.
+4593F59B || ~s~And don't let him escape!
+46EF205D || ~z~Soon as he gets caught with his hand in the cookie jar,
+4BF22097 || ~z~Your street trash, soon to be turned out sister's alive.
+4C9FE48E || ~z~Alive and inside. He's in a prison hospital being treated for gunshot wounds, awaiting trial.
+52E911D6 || ~z~You fucking sick motherfucker!
+5584D5CF || ~z~What's going on?
+5BE500C3 || ~r~You let him get away!
+5C88C4DA || ~r~The buzzards got him!
+60DF7354 || ~z~Didn't you learn that when they ran you out of town,
+64938798 || ~z~Sounds like your wife.
+67B2B74D || ~z~I can't believe that nigga Smoke turned on me.
+6D25CBB3 || ~z~Now who could do that?
+70C85300 || Hold ~k~~PED_LOCK_TARGET~ to look through the camera viewfinder.
+79C44215 || ~z~and stay the fuck away from us.
+7EA9860C || ~z~For once, let's let the kid do something good with his useless life.
+832BAA9F || ~z~Come here.
+87675E53 || ~z~just 'cause you let Brian die? Huh?
+89BCD661 || ~z~We want you to do a little favor for us, Carl.
+8ED11278 || ~z~He learned that lesson a long time ago.
+90A7E720 || ~z~Let me air this fucker out, I...
+97CA2339 || ~z~Yeah. By any means necessary.
+9E7C6F12 || ~z~getting in touch with his feminine side.
+9EC6322C || ~s~Remember, you need a photo of him in one piece!
+A22BD89C || ~s~The ~r~snitch ~s~is getting away on foot!
+A29185A2 || ~z~Fucking Smoke! Oh, Sweet!
+A5FC41BB || ~z~We've done you a big favor.
+A63AC943 || ~z~We want evidence he ain't gonna talk.
+A8E14171 || ~z~he seems to disagree with some of our methods.
+AB9D94B7 || ~s~He's inside, smoke him out!
+AC4A0D90 || ~z~Things are going pretty well for you, Carl.
+AF8C8568 || ~z~See, they've got him hiding up Mount Chiliad someplace,
+B286A5F6 || ~s~Get a vehicle!
+B5513CD1 || ~z~Hey, man, where we at?
+B5EB61EF || ~s~Photograph the ~r~body~s~.
+BB30E9DD || ~s~Make your way up the ~y~mountain~s~ to find that snitch!
+BB8AB4E3 || ~z~Wake up, boy.
+BCE770FA || ~z~Man, take it off. Please, man, I can't breathe! Please!
+C2560C47 || ~z~The middle of fucking nowhere. Nice, clean air.
+C2EC5179 || ~s~You need a ~g~camera, ~s~go and pick one up.
+C5819560 || ~s~Take ~r~him ~s~out!
+CBE0406C || ~z~Oh, alright. But only because you said please.
+CC37D94B || ~s~Watch out for the feds!
+CC8D8475 || ~z~Carl. Hey Carl.
+D13DF9D5 || ~z~Sort this out, Carl, so Officer Tenpenny can sleep easy at night.
+D2FB712D || ~z~Oh yeah, you should be glad, Carl. Your moron brother's alive.
+D52CE80A || ~r~He can't be identified!
+D596B534 || ~z~Sweet is alive.
+D88BB5FE || ~z~he'll whistle any tune Internal Affairs wants him to.
+DB4D3D06 || ~z~So behave, nigga.
+DBF76038 || ~s~You'll need the ~g~camera~s~.
+DC9AA421 || ~s~Be wary of the U.S. Marshals.
+DFE671E7 || ~z~For some reason, we've got a little problem with a former friend of ours,
+E0CD13AF || ~z~Now you stay the fuck away from Smoke,
+E7A0D7B6 || ~z~No no no no no no no, officer..
+E97B5F84 || ~z~Hey Hernandez, you going to piss all day?
+E9C102BA || When using the camera, press ~k~~PED_SNIPER_ZOOM_IN~ to zoom in, or press ~k~~PED_SNIPER_ZOOM_OUT~ to zoom out.
+F0606EC5 || ~z~Eddie, I can't deal with this guy. He's an idiot!
+F42C9A09 || ~z~Damn, man. Take it easy!
+F9D622EE || ~z~Homies for life? Street loyalty? That's all bullshit, Carl.
+FEBBE6F7 || ~z~Yeah, an eye for an eye, and all that.

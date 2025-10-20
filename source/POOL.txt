@@ -1,0 +1,42 @@
+206F4EA9 || Game Over
+27028AB0 || Open Table
+3032E92D || ~z~I'll only play you if you want to make it interesting.
+309CED3A || Use movement controls to aim the cue.~N~~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~ to change view. ~N~~k~~PED_SPRINT~ Proceed to shooting.~N~~k~~VEHICLE_ENTER_EXIT~ Hold to quit.
+37AFF7DA || Player 2 Wins!
+37F12923 || ~k~~PED_JUMPING~ Display information.
+39747FE8 || Player 1
+3A16F587 || Pocketed wrong color!
+3A320A1E || Info
+3E19BBF1 || Pocketed Ball!
+40581DA2 || ~z~Let's make a little wager.
+40A8C74C || Player 1 Wins!
+40F619B5 || Use the movement controls to position the cue ball.~N~~k~~PED_SPRINT~ Continue.~N~~k~~VEHICLE_ENTER_EXIT~ Hold to QUIT.
+4735D9BB || ~z~You want to place a small wager?
+479BDDAC || ~k~~PED_JUMPING~ Increase Wager~N~~k~~PED_FIREWEAPON~ Decrease Wager~N~~k~~PED_SPRINT~ Proceed~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+491E8B67 || Foul!
+4A7C0108 || Missed all balls
+4D11C511 || Pocketed black out of turn!
+5005BA26 || Black
+57687E3F || ~r~You Lost!~n~~w~-$~1~
+A07D2E52 || Player 2
+A4726024 || Pocketed white!
+A710EA4B || Pocketed Balls!
+A74E34B2 || Player 1 press ~k~~PED_SPRINT~ to continue.
+AC7F9335 || You want to shoot some pool, choose your wager.
+AE567C8E || ~z~Show me the color of your money
+AEF87899 || Use the view controls to strike the cue ball.~N~Use the movement controls to position cue tip.~N~~k~~VEHICLE_ENTER_EXIT~ Back to aiming.
+B51B121B || ~1~
+B9661F13 || Solids
+BE0BDB0A || Scratch
+C90CEB9C || Ball in hand
+CE612F85 || Stripes
+D017DADD || You Win!~n~~w~$~1~
+D0490424 || Player 2 press ~k~~PED_SPRINT~ to continue.
+D37550B2 || Hit wrong ball first!
+D41894AB || No balls hit the rail!
+D77A1EC4 || CPU
+D9514C18 || ~z~Game of pool ain't the same without a little money involved.
+D9B73CCD || ~1~,
+D9FF480F || ~k~~PED_SPRINT~ Continue.
+DE3C8801 || ~z~C'mon, put your money where your mouth is playa.
+DE928C16 || ~k~~PED_JUMPING~ Increase Wager~N~~k~~PED_FIREWEAPON~ Decrease Wager~N~~k~~PED_SPRINT~ Proceed~N~~k~~VEHICLE_ENTER_EXIT~ Quit

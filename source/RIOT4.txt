@@ -1,0 +1,309 @@
+152311F || ~z~Nearly there!
+1B58932 || ~z~Give in, it's over!
+203965C || ~z~I mean, far out, man. You know, I mean, you beat the system!
+20D141C || ~z~Yeah, I usen't to like Mexican food, but I love this shit now.
+27301CA || ~z~Shit, water all over the road!
+3C1FC6B || ~z~Feeling exposed, huh?
+4D1B589 || ~z~We got the motherfucker!
+51EC5D3 || ~z~Oh shit, on coming traffic!
+560D005 || ~z~Now that everything is cool,
+5C4B15A || Don't just stand there Get him boys!
+68EEAEE || ~z~Man, fuck this shit.
+6D84D2B || ~z~Sick bastard!
+76AB08A || ~z~Suck, huh?
+85562DC || ~z~and fuck the police, man. All that's old shit.
+99708EB || ~z~Hey - if you need me, you know I'll be.
+A77B040 || ~z~Drop the gun.
+B1F3968 || ~s~Make your way to ~y~Floor 4~s~.
+BB5DA77 || ~z~don't need to put a bullet in him.
+BC54DE1 || ~z~They're dropping shit from that bridge!
+C72FD71 || Eat Grenade, CJ!
+CA889F8 || ~z~Varrios rioters!
+CD69C2E || ~z~Shit's never ending.
+CD81E6E || ~z~Don't... don't do it man, he's gone.
+D1A7459 || ~z~Oh, damn, man...
+F38A6C5 || ~z~I can't be touched!
+108C39AA || ~z~Listen.
+114E539D || ~z~Hey, Smoke!
+12040829 || ~s~Smoke has switched the lights off go get the ~g~thermal goggles ~s~by the lower window.
+12AEEB36 || ~z~Assholes! You never understood what I did!
+12CA87F3 || ~z~Hey, Sweet!
+12DE7CA0 || ~z~Oh no, this is just the beginning!
+136C8101 || ~z~Why you just didn't quit, man?
+14014518 || ~z~Hey, Smoke, what made you flip out like that, man?
+15540094 || ~z~You sure he in East Los Santos?
+1569CC30 || ~s~This floor is on fire use a ~g~fire extinguisher ~s~to help you get out!
+15A743EA || ~z~Johnson brothers fittin' to take that fat fool down!
+15C32F2F || ~z~Come on, assholes. I'll take you all.
+15CDAD6F || ~z~We should hit the casinos, roll some dice with Woozie.
+16239784 || ~z~Knew you was coming and I don't give a shit.
+16725D85 || ~z~Cops on our tail!
+17E1FDB3 || ~z~They played us all.
+18AEB873 || ~z~You're headed for a fall!
+1ADACD2A || ~z~When I'm gone, everyone gonna remember my name...
+1B16255D || ~z~But we gotta keep shit tight
+1B18A71D || ~z~I DID!
+1C7BE144 || ~z~My, I mean OUR first gold record.
+1CDF801B || Smoke's Health
+1E57B198 || ~z~For Grove Street, baby.
+1F95DBAF || ~z~Man, that's some good shit...
+20326AAB || ~r~Sweet died!
+209889B4 || ~z~What's up with Smoke?
+20E81E22 || ~z~Oh shiiiiit!
+215AE383 || ~z~But I gotta open their eyes slowly, you know -
+22E1E680 || ~z~Some rioters after us on bikes!
+2433A0E0 || ~s~Use the SWAT Tank to ram right through the entrance of ~y~Big Smoke's Crack Fortress~s~.
+2499264A || ~s~Get back in the ~b~car~s~!
+256B9AB4 || ~z~Somebody save the Smoke!
+258C2299 || ~z~Eyes front, CJ!
+2637279A || ~z~So what it's like, Tenpenny, huh?
+275FAEB2 || ~s~Smash through the ~y~wall ~s~to gain entry!
+27626216 || ~z~Yo, CJ, you lost your nerve?
+27F54DAD || ~z~but you've managed it, man.
+28ECAFA8 || ~z~You're crazy man, you've lost it... you're gone.
+292EC59F || ~z~That is the surest path to hell, man.
+2A42AE78 || Night vision can brighten up fires, so you may have to switch between night vision and normal vision to help you see fires more clearly.
+2A7F62DC || ~z~I'm gonna let go!
+2A98DAF1 || ~z~I'm gonna piss on your corpse, Tenpenny!
+2B57AAAB || ~z~I'll keep up with Tenpenny, don't you worry!
+2D2F6A61 || ~b~Sweet ~s~is about to lose his grip get your car directly underneath the end of the ladder and catch ~s~Sweet ~s~before he loses his grip!
+2D85ECCB || ~s~Security is tight in the Crack Fortress. There is only one way in but the door is locked down because of the riots.
+2EE9E299 || Floor 3: Ballas Lounge
+2FFCE64A || ~z~Brace yourself!
+303B769E || ~z~- We're going on tour, fan!~n~- Has anyone got a tissue? My nose is... it just won't stop running - anybody?
+31F79EE9 || ~z~Uh, Sweet!
+33599F39 || ~r~You lost Sweet! Next time stay closer!
+34345B20 || To look around use the camera movement controls, to fire press ~k~~PED_FIREWEAPON~.
+3756B287 || ~z~Fittin' to hit the block, see what's happening.
+3841D2C2 || ~z~You know, you're gonna thank me, one day
+3914974E || ~z~Johnson boys sorting shit out.
+39F32F63 || ~z~Fuck, NOOOO!
+3BFAD7C1 || ~z~You wearing body armor, Smoke?
+3E795357 || ~z~I can't believe you bought that same bucket ass car, man!
+3EE0FEAC || ~z~(Jeering)
+3EEE7CEC || ~z~Let's go get something to eat.
+3F2C16DB || ~z~and I ain't about to get dragged out of a patrol car
+40518211 || ~z~Carl, where are you off to now?
+430EA712 || ~z~Fuck that was close!
+445EAFAF || To move the crosshair use camera movement controls, to fire press ~k~~PED_FIREWEAPON~.
+468D2384 || ~z~Motherfucker , SWAT tank!
+46F0AE7F || ~z~What a waste.
+473C4608 || ~z~Nah, we gotta take care of shit here first.
+47A5EBF3 || ~z~Yeah.
+482B264D || ~z~and get beaten to death by some angry mob. Not tonight.
+49E7CE3A || ~z~You know what I'm talking about. Yeah, they heard about it.
+49E94C7A || ~z~See you around.
+4B90234E || ~z~All kinds of crazy cats out there want a piece of me!
+4E13A7D8 || ~z~Yeah.
+4F46E254 || ~z~for opening your fucking eyes.
+50589E24 || ~s~The only way past that reinforced entrance is to knock it down.
+50F27D3B || ~z~I mean, man, you're an icon, man!
+5130170C || ~z~All alone, nobody got your back?
+528B120F || ~z~Up ahead, Carl, up ahead!
+53349076 || You need to ram that wall right through, get back in the ~b~SWAT Tank~s~!
+539E16DC || ~s~Chase the firetruck!
+55BD6BBE || ~z~What?
+565DD315 || ~z~- a little truth here, a little truth there...
+57355A3D || ~r~The SWAT Tank has been destroyed! How are you going to get into Big Smoke's Crack Fortress now?
+579FB922 || ~z~You know what's up with Smoke.
+57EF2EB4 || ~z~Gotcha!
+58FBD6DC || ~z~He's trying to run us off the road!
+59EED20F || Floor 2: Drug Lab
+5A159653 || ~z~I ain't losin' this fool!
+5A285AF7 || ~r~Sweet died! You are supposed to catch him, next time get your car underneath Sweet when he begins to lose grip!
+5A82DC5D || ~s~A heavy vehicle like the SWAT Tank will be able to smash down the entrance easily.
+5B3D5E24 || ~z~I'm on Tenpenny, he ain't getting away!
+5C509A3D || ~z~Rioters out to cause trouble for anybody!
+5D459EEE || ~s~Follow Tenpenny and make sure ~b~Sweet ~s~is safe, stay close to the firetruck and do not lose Tenpenny.
+5D9FEA67 || ~z~I ain't letting you get away with all you've done!
+5DEF1844 || ~s~Get in the car with ~b~Sweet~s~.
+5E277749 || ~z~Uh, I'll pass.
+5E29F509 || ~z~Well - that or fifteen microdots and an ounce of mescaline.
+5F9612C5 || ~z~Those firetrucks are indestructible!
+5FEB9F3E || ~z~Half the city is looking for cops to kill, Carl,
+60E6CD25 || ~z~Yeah, but you're right - I was a buster when my family needed me the most.
+6124A712 || ~z~I'm here to take care of your fat ass,
+61756D13 || ~z~Cops up ahead!
+626EFCA6 || Time
+62A0737C || ~z~take that fat fool down, Grove style.
+62C41FB9 || ~z~You're mine! Mine! I run this town!
+62CA9DF9 || ~z~Anyway, what's next?
+6306758E || ~z~Was it the drugs, or what?
+646BB197 || ~z~We was like family, homie.
+650338BF || Good shot but let's see if you're that good in the dark!
+65A9DBA0 || ~z~I bought order to the fucking chaos!
+65CDB765 || ~z~Wassup?
+65D94C36 || ~z~I'm buying myself a new life, asshole!
+6649630B || ~z~Hey CJ, I was wondering when you'd show up.
+678B093C || ~z~Look, I know you down for this, but I gotta go in there alone.
+6823F4D1 || ~z~You ain't getting away with this!
+6892EB39 || ~z~Fuck Tenpenny and fuck his Polish lap dog.
+6950810E || ~z~Yeah, for the Grove, baby.
+6B7CD1D2 || ~z~I come in peace with Mr Dogg here who has an announcement.
+6BD8B08D || ~s~Tenpenny has caused an explosion, the lighting in the building is off and the whole place is beginning to burn down. You need to get out of here quick!
+6C1115CB || ~z~For sure. I mean, the Families is back on their feet.
+6C1F978B || ~z~And I'd do it all again...
+6DA07047 || ~z~Hey, pigs ain't supposed to fly!
+6DDDFDBC || ~z~...Big Smoke!
+6FA988E5 || ~z~This is a requisitioned police vehicle!
+706D801C || ~z~C'mon, let's go, I ain't got time to fuck with you!
+7138C590 || ~z~Hang on Sweet!
+71DF7DBD || ~z~Get offa me, you psycho!
+7219F545 || ~z~Shoot that bastard!
+7267E093 || ~z~It tastes spicy!
+72C381CC || Smoke is wearing a bulletproof vest. To maximize the damage you inflict on him aim at other parts of his body.
+73D6851F || ~z~He lost control!
+74BB4106 || ~z~He's losing control!
+74C6CCFD || ~z~Shut your dumb ass up and load the bag.
+7504A6CA || ~z~I tried for thirty years to cross over
+750A248A || ~z~Enchiladas! Everybody dig in.
+7574315C || ~z~OIL!
+76B2B9A4 || ~z~Let go, you dumb bastard!
+783F9653 || ~z~What happened to you, man?
+78693196 || ~z~CJ, do something!
+7A1D44CF || ~z~Carl Johnson. My man.
+7B75CDE7 || ~s~Go get ~y~Big Smoke~s~.
+7BAFB96E || ~z~Barricade!
+7BD1ACB8 || ~z~We got problems in Venturas, problems in San Fierro.
+7BDF2EF8 || ~z~I just wanna be sure it's over, man. That's all.
+7C1809FE || Floor 4: Smoke's Suite
+7CB2EAE1 || ~z~He killed hisself in a traffic accident.
+7CC27D77 || ~z~Rioters up ahead!
+7D7080D6 || ~z~You ain't leaving here alive, man.
+7E90387D || ~z~For sure. You've always been there for me, man.
+7F52524A || ~z~Look at you, you got the whole world. I ain't got no regrets, man.
+821F74E7 || ~z~cuz a lot of people have got their eyes on us.
+8572B0FE || ~z~And I've decided to get breast implants.
+86CA2DD0 || ~z~You ain't long for this life!
+8816C826 || ~z~National Guard road block!
+88470227 || ~z~Knew it was my old dog CJ.
+89856810 || ~z~Tenpenny played me.
+8A65D0BB || ~z~I just see the opportunity.
+8B0D5993 || To use the night vision goggles select them from your inventory and press ~k~~PED_FIREWEAPON~.
+8BA7BA8C || ~z~I took the trash out!
+8BC3D649 || ~z~Alright let's roll.
+8BD72D1A || ~z~It's over, Tenpenny, OVER!
+8C5D512E || ~z~Yeah, right on the edge of Los Flores - some old apartments and a warehouse.
+8C609D8A || ~s~Use the thermal vision to spot ~r~Smoke ~s~and his goons more easily.
+8CCA7E95 || ~z~Come on! HEY!
+8D0814A2 || ~z~I don't give a shit. Oh fuck, man...
+8EE8AC09 || ~z~This one's for him, for Moms... and for you, bro.
+8F2AC63E || ~z~Where they at?
+8F7B0C3F || ~z~Firetruck's dropping oil!
+915C3366 || ~z~I made it, CJ! I'm a success.
+921668D2 || ~s~Make your way to ~y~Floor 2~s~.
+92BC8BCD || ~z~Let's roll.
+92CC1C5B || ~z~Rioters on the bridge up ahead!
+937EE1FA || ~z~Why you just didn't shoot me in the back?
+941325E3 || ~z~You killed Pulaski, and now this fat fuck - there's no stopping you!
+957BACCB || Studio lights off!
+95A1D842 || ~z~Vagos rioters coming up!
+95D14FD4 || ~z~It's cool, don't need to put a bullet in him.
+9631F77F || ~z~Guess we better do this shit then...
+966750BA || ~z~CJ, shoot this motherfucker!
+9AB5202A || ~z~He's losing the truck!
+9B0445A6 || ~z~Yeah, we know about that.
+9B7A5070 || ~z~Oh fuck, oil!
+9C6981BF || ~z~we gotta stay on top of our game.
+9E63E130 || ~z~What? Motherf-
+9F36A4BC || ~z~Almost got you!
+9FD11C91 || ~z~Fuck you, pig!
+A01DC6F4 || ~z~Yeah.
+A0FA7ED9 || ~z~Oh shiiiiit!
+A1488378 || ~z~Time to die!
+A2F3867B || ~z~Man, I'm disappointed in you - I thought you was gangsta!
+A6254761 || ~z~Ding ding ding ding ding! Good answer, Carl!
+A77002ED || ~z~Hey, if it ain't broke, don't fix it.
+A7E72D56 || ~z~Sounds good to me.
+A88342A8 || ~z~That's my dog!
+A9322724 || ~z~Has anyone got a tissue? My nose is... it just won't stop running - anybody?
+A9AB8ADF || ~z~Me too, me too.
+AA50CE83 || ~r~You wrecked your car
+AE5FE33D || ~z~That's right, baby.
+B19873E9 || ~z~He's trying to ram us!
+B34BFFC2 || ~s~The cop is stamping on ~s~Sweet's fingers get your car close to him in case he loses his grip.
+B3E17968 || Yo! Quit foolin' around and find a way in there!
+B41BF77F || ~z~I can't hang on much longer!
+B4263BDB || Sweet's Grip
+B48CBD71 || ~s~Get back in the ~b~car~s~!
+B5333F08 || ~z~Where did all these assholes come from?
+B853B239 || ~z~Chuck it over, I've got a firetruck to catch.
+B93B3B11 || ~r~You wrecked the car!
+B991D80E || ~z~Smoke? Smoke was always on his own, always out for self.
+B9E14F98 || ~z~Now, Sweet, let go!
+BBE8B73A || ~z~Crazy bikers on a rampage!
+BC62CB0E || ~z~Shoot 'em! Help me!
+BC857323 || ~z~Watch our six!
+BE56FF08 || ~s~Smoke is on the Fourth floor in his ~y~Penthouse Suite~s~. You will have to work your way through three floors to get there.
+BE6B33AC || ~z~What's the problem, CJ, you backing out?
+BE8C8B81 || ~z~Take the wheel, it's payback time!
+BEFC1C17 || ~z~I'm just glad it's finally over.
+BF3E7620 || ~z~I got a couple of rookies outside.
+C2340F9E || ~z~This city's gone nuts!
+C31CC7E9 || ~z~I ain't letting this bastard go!
+C3210B4D || ~r~You wrecked your car!
+C38B8DE7 || ~s~Go get the ~b~SWAT Tank~s~.
+C44CCF54 || ~s~Do not attempt to damage the firetruck or you may injure ~b~Sweet~s~.
+C496BBDD || ~z~Tenpenny, you motherfucking piece of shit!
+C4E649FE || ~s~Drive to ~y~Big Smoke's Crack Fortress~s~.
+C69F437F || ~z~We ain't gonna dent it!
+C83946B6 || ~z~Why you think I'm alone?
+C951CF9E || Floor 1: Security Area
+C96C033A || ~z~Don't back down now, CJ, get in there and face Smoke!
+C98BBB17 || ~z~Motherfucker!
+C9FB2C81 || ~z~Oh - thanks, man.
+CB8243B5 || ~z~Concentrate on keeping all these other lunatics off our case, CJ.
+CCEF87AC || ~z~Look out, CJ!
+CE3C0B87 || ~s~There is an entrance into the ~y~first floor ~s~towards the back of this area.
+CE96E898 || ~z~He always saw things a little different than us.
+CF5482AF || ~z~A'ight, fuck it, that's enough.
+D077327B || ~z~So this is it, huh?
+D0E01DC0 || ~z~Officer.
+D12277F7 || ~z~What you catching, a plane?
+D5F4B6ED || ~z~Hey, I'm a motherfucking celebrity.
+D64FB3EE || ~z~Oh! I almost forgot, Carl!
+D71AF662 || ~z~Nervous?
+D958D3AB || ~z~(Cheering)
+DA07F6A8 || ~z~Oh man, that was a close call!
+DD57FE15 || Car
+DE3517B2 || ~z~Yeah, I have, over here...
+DF84723E || ~z~Shoot out the tires!
+E136C7E9 || ~z~Man, what the fuck do you care?
+E27C9C5D || Ahh, I'm blinded!
+E2A6E8D4 || ~z~Ballas up ahead!
+E2D67F42 || ~z~That's all.
+E3141575 || ~z~I need you to do me another favor.
+E479D16C || ~z~Where's your brother at, huh?
+E5115844 || ~s~Make your way to ~y~Floor 3~s~.
+E5BBBB5B || ~z~No one to blame.
+E65B03F0 || ~z~I don't give a fuck. Fuck the whole world.
+E79969C7 || ~z~Yeah.
+E831942A || ~z~Just keep hanging on, bro!
+E8D62C07 || ~z~Argh! My fingers!
+E964D1A6 || ~z~It ain't over, Carl! It ain't over!
+EB10A4FF || ~z~Look out, barricade!
+EB6EB129 || ~z~Keep everything in check, but subtle.
+EC037530 || ~z~Eh, forget you, holmes. We got the best food.
+EC7D60E6 || ~z~Take that pig bastard down!
+EDB210BC || ~z~He's lost control!
+EFBBE81E || ~z~Bleed motherfucker!
+F12AA56B || ~z~Sweet, no!
+F2758068 || ~z~Shut up, will ya?
+F4A921FD || ~z~Down in flames! DOWN IN FLAMES!
+F5184471 || ~z~Come in.
+F6A0D95F || ~z~Get out there and finish the bastard!
+F82DF6A8 || ~z~then I'm gonna take care of your friends in the police department.
+F87C3CA9 || ~z~That thing's dropping water!
+F9EF9C9F || ~z~Hey, I let Brian die, man.
+FA0F2434 || ~z~I got caught up in the money, the power...
+FB5A61B8 || ~z~He as good as dead, then!
+FB67AD1C || Burn, CJ!
+FBBDD995 || ~z~I'm a stop you motherfucker!
+FBCD4E03 || ~z~Hey, over here! Hey! Officer down!
+FC0A6905 || ~s~Use the night vision goggles you have just picked up from Big Smoke to help you see in the dark and ~y~escape ~s~the building as quick as possible.
+FCA08A1A || ~z~Fifty of me and this town would be okay.
+FCC4E6DF || ~z~It's time for Smoke.
+FD62E02D || ~z~I had no choice... I had to do it...
+FE825886 || ~z~Smoke played me.
+FF11F8B0 || ~z~National Guard!
+FF4032B1 || ~z~How'd you know it was me?

@@ -1,0 +1,64 @@
+92237 || ~s~Fly the aircraft to the ~y~jump point~s~ over the dam.
+13DF2B4 || ~z~Stop him, for chrisakes!
+65036AD || ~z~The cops are on the way, this thrill seeker ain't gonna escape!
+88BBE9F || ~z~Finally, some action around here!
+9223736 || ~s~When close to a ~y~generator~s~ press ~k~~VEHICLE_ENTER_EXIT~ to plant the charges. You need one on each ~y~generator~s~.
+A9E5EC9 || ~s~Go to the ~y~airport~s~. You're going to need a plane to parachute onto the dam quay.
+C20F27E || ~z~We've got him trapped, there's no way off that ledge!
+E4FF32F || ~k~~VEHICLE_ENTER_EXIT~ Plant Explosives
+1D5EE7BA || When you reach the corona press ~k~~VEHICLE_ENTER_EXIT~ to jump from the plane.
+220F2271 || ~z~is that... nothing can go wrong.
+2562E668 || ~z~Hey, where's the coffee and donuts?
+2639713E || ~s~You're too low, you need to gain some height to make the jump.
+384F8466 || ~s~Get in the ~b~plane~s~ on the end of the runway.
+3B141330 || ~z~What did he say?
+3C79D729 || ~z~the number of people that were in on this job.
+3F22407F || ~s~Avoid getting spotted by the guards patrolling in the area
+436164B9 || ~z~Aw shit! The hatch locked behind me!
+482570E9 || ~s~Make your way to the end of the dam quay.
+4B7EE7BF || ~z~the size of this room might have limited
+4C1323A6 || ~z~but please, fuck off.
+4F48B4F0 || ~s~Try and keep her level, this is a good height to jump from.
+5265D6FE || ~z~Great.
+550812E7 || ~z~OK, now, the important thing to remember with a plan like this,
+565385B1 || ~s~There's a ~g~knife ~s~stashed near one of the containers which you may find useful.
+5A7A55F8 || ~z~Not yet, but we've locked the quay entrance and the cops are on the way.
+6A59D72C || Remember to crouch to make less noise.
+7157063B || ~z~He's in there somewhere, start looking!
+763AC222 || ~z~We need more men in here!
+7F8C8E09 || ~z~Must be seeing things. I thought that coffee tasted a bit odd!
+877686D5 || ~s~The guards have been alerted!
+8D064206 || ~s~Go and pick up the ~g~knife~s~.
+902B668C || ~s~Find the ~y~entrance ~s~to the generator room.
+9182EF25 || ~z~Always get the nut jobs on my shift!
+9529A3C4 || ~z~Shit, they must have took a wrong turn someplace!
+96EF2B3C || ~z~Where the hell did he go?
+9746A295 || ~s~All the generators have been rigged, get to the ~y~exit~s~.
+9834A30E || ~z~We got a light saying there's been a break in!
+9900738D || ~r~The plane has been destroyed!
+A21D428A || ~z~Hey, speak up, we can't hear you back here!
+A5708693 || ~z~It seems impossible to keep a secret around here!
+A62B11C5 || ~s~Press ~k~~VEHICLE_ENTER_EXIT~ to jump from the plane.
+A8F099F7 || ~s~Charge placed.
+ABAB0EA1 || ~z~He said fuck off
+B22D204E || ~s~GO!
+B540E457 || Press ~k~~PED_FIREWEAPON~ to open chute.
+B85DE49D || ~s~You're too high, you need to lose some height to make the jump.
+BB0673CB || ~z~OK, look, I'm going to go shut off the city's power source.
+BC6BB7D2 || ~z~I live here.
+BF302084 || ~s~Get back on the ~y~dam quay~s~.
+C247D4C1 || ~s~ Go to the ~y~airport~s~ you're going to need a plane to parachute onto the dam quay.
+C3730442 || ~z~Any sign of him yet?
+CB6C8744 || ~z~Oh, OK, you can stay.
+CC01435D || ~z~Woozie, look after these fools for me.
+D277B605 || ~z~I would have thought the size of the room would keep the numbers down.
+D51A721C || ~z~I appreciate your input,
+DA683503 || ~z~What the f-Aw shit, somebody done locked the hatch!
+DCAC3E37 || ~z~Hey, what are you still doing here?
+E7B10F30 || ~s~Get back in the ~b~plane~s~!
+E85E5781 || ~z~Hey, I found him, he's over here!
+E96A8702 || ~s~This is all about stealth, if you get spotted or make too much noise the whole building will be alerted.
+EE07431B || Stealth
+EF339398 || ~z~That's the guy, arrest him!
+F71C725A || ~s~Get past the ~r~guards~s~ and find the ~y~entrance~s~ to the generator room
+FA017290 || ~s~Get clear of the ~y~area~s~.

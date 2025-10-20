@@ -1,0 +1,7 @@
+1D5133DE || ~r~Player two was killed
+6A560348 || ~r~Both players were killed
+6D3BC751 || 2p Run Around
+8335A67D || ~r~Player one was killed
+F35F52F2 || ~s~You can kiss the other player by standing near them and pressing ~k~~PED_ANSWER_PHONE~.
+F43296EB || ~s~Free roam around the city.
+F471FF02 || Player 2 : Push ~k~~GO_LEFT~ or ~k~~GO_RIGHT~ to select a character.~N~~k~~PED_SPRINT~ Select

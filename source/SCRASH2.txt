@@ -1,0 +1,59 @@
+1E749B9 || ~z~Woah, easy there, Eddie, let's not get ahead of ourselves.
+29B9C7F || Train Progress
+630D09E || ~s~If the ~r~reporter~s~ suspects he is being tailed he will abandon the interview, so don't get close enough to spook him.
+68A8DA0 || ~z~without some damn bleeding heart liberal poking his nose
+8510592 || ~z~Yeah, anyway, we need you to shut him up for us.
+8EB58AC || ~s~The train is arriving at the ~y~station~s~. You don't have much time before it leaves with the reporter.
+F869CB5 || ~s~The meeting is over. The ~r~reporter~s~ and ~r~Target~s~ are walking away.
+114A34D3 || ~z~Man, what you all want this time?
+11F069ED || ~s~The Target is dead. Don't let the ~r~reporter~s~ get away. Kill him too.
+169DADF4 || ~s~The Target is wounded. The ~r~reporter~s~ and ~r~Target~s~ both have to die.
+18FC78F8 || ~z~Hmmmm?
+1F2BE1DF || ~s~The ~r~reporter~s~ is ready to meet the ~r~Target~s~. You have a sniper rifle. Assassinate them both.
+1F91BCE1 || ~z~Hey wassup, Jethro?
+2ACA1A7A || ~z~Oh - this is nice place... Carl.
+2DA7DE63 || ~z~Yeah, there's some reporter who's digging up dirt on Pulaski,
+2E3CB388 || ~r~The reporter and Target have gone.
+3ADD3A2E || ~s~Tenpenny has hidden a ~g~sniper rifle~s~ in the construction site nearby. Go get it.
+4DDA0AB8 || ~s~The ~r~reporter~s~ is at the sidewalk looking for a cab. Get ready to follow him.
+593B831E || ~r~You lost the reporter.
+5AA0EEF5 || ~z~And that stoolie - shut him up too!
+5DCD2AEC || ~z~Take care of him.
+5E564707 || ~r~You spooked the reporter.
+619A9D62 || ~s~You've hit the ~r~reporter~s~. Finish him off and kill the ~r~Target~s~.
+664D0445 || ~z~while you live comfortably on the outside?
+66F7597B || ~s~You've killed the reporter. Kill the ~r~Target~s~ to complete the mission.
+682CD149 || ~s~The ~r~reporter~s~ is approaching his destination. Keep your distance until he meets the Target.
+68968C77 || ~z~Hey, CJ, wassup?
+6FFB486E || ~z~Nice to see y'all kicking back.
+7137E008 || ~s~Too close! You're spooking the ~r~reporter~s~. Back off before he abandons the interview.
+718DBD36 || ~z~Well, what we want is to get on with our jobs in peace,
+76E0792F || ~z~What the hell would you know about it, boy?
+7881AC23 || ~s~The ~r~reporter~s~ has left the train. Pick up his trail and follow him to the Target.
+7F563504 || ~z~- that he's supposed to report what he's supposed to report.
+7FEC683A || ~s~The reporter is at ~y~Cranberry Station~s~. Follow him to his meeting place with the Target, then kill them both.
+81F52942 || ~z~I wonder how your brother's sleeping,
+8698ED5B || ~z~Some cops are lookin' for you in the office, man.
+88F93857 || ~s~The ~r~reporter~s~ and ~r~Target~s~ have heard your gunfire. Kill them both before they escape.
+8F94FC4E || ~s~You're too far away! Get closer before you lose the ~r~reporter~s~.
+91E20916 || ~s~The reporter has boarded the train and is heading for Market Station in Los Santos. Follow that ~r~train~s~!
+968FCD0F || ~s~The ~r~reporter~s~ is on the sidewalk looking for a cab. To follow him you're gonna need some wheels.
+98EE1803 || ~z~Some young journalist out there is trying to get a name for himself.
+9F83DC1A || ~z~into affairs he won't even understand.
+A3D46B94 || ~s~You can attempt to follow the ~r~train~s~ along the train tracks, or use the map to plan a route to Market Station.
+B058262B || ~r~The reporter has escaped.
+B4AE8FD9 || ~z~we don't know who's talking,
+B735E232 || ~r~You're too late. The train has gone.
+C032D2A4 || ~r~The reporter is dead.
+C3A9BF4F || ~z~but we know that the reporter's meeting him today.
+C75F16BD || ~r~The Target has escaped.
+D4D35B02 || ~s~You're spooking the ~r~reporter~s~. Get back behind him before he abandons the interview.
+E188FD99 || ~s~The ~r~reporter~s~ has climbed into a cab. Follow him to the Target.
+E6E53980 || ~s~The ~r~train~s~ is approaching Market Station. The reporter will be preparing to exit.
+E884EC8C || ~z~The press onto y'all?
+EC95FD53 || SPOOK-O-METER
+EFE92895 || ~z~He doesn't know how the streets work
+F19FDDCD || ~z~Tenpenny. Alright, man, I got it.
+F6F219D4 || ~z~curled up next to his shower daddy
+F893CCD8 || ~s~Be wary! The ~r~reporter~s~ may check for a tail by stopping suddenly or performing a burst of speed.
+FFFE08C1 || ~s~You've been spotted. Assassinate them ~r~both~s~.

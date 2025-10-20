@@ -1,0 +1,47 @@
+12C1AA2B || ~z~Get up, bitch!
+15AC6E32 || ~z~And there's some piece of shit DEA officer meeting
+209C695C || ~z~Get out of here, I'll cover you!
+20F7C8A9 || ~z~Hello Carl. Been a long time, huh?
+267AD932 || ~s~Don't let the ~r~target ~s~get away!
+279A0CB0 || ~z~Despite our best efforts the gig's nearly up.
+292A2577 || ~z~It's a hit!
+2E2C409B || ~z~Hey, listen to the man.
+2E47E16E || ~z~Hey, who are you?
+330AFE37 || ~s~You were too slow. One of the guards has grabbed the stuff.
+34673A2E || ~s~Congratulations, you have the evidence dossier.
+373771DA || ~z~That give you any idea how edgy I am?
+39ECF9E8 || ~z~This is about the same shit you've been pulling all your life, Carl;
+3E813DF1 || ~z~Where's Hernandez with that fucking meat?
+4030414C || ~z~Woah! What the fuck?
+43600AB8 || ~s~The ~r~target ~s~is escaping in a helicopter.
+440DCEA1 || ~s~The target is dead and has dropped the ~g~evidence dossier~s~, grab it before anyone else does.
+49860D67 || ~z~He's been gone too long, Tenpenny.
+4EEBC97E || ~z~We're all trying to pull ourselves out of the hole.
+509D3C26 || ~z~I'm sure you'll find some way to keep your badge, your kind always do.
+517DE9A4 || ~s~They have spotted you! The ~r~target ~s~will try to escape, don't let him get away.
+579B59CA || ~z~Get out of here, I'll handle this guy!
+57F0F83F || ~z~Yeah, I was starting to miss you guys.
+592B700D || ~z~We're all the same, Carl - you, me.
+5E2D15E1 || ~z~Hitman! Take cover!
+62AB5EA4 || ~z~with an FBI agent with a dossier.
+65C69ABD || ~z~You paying attention?
+8BC8FB91 || ~z~Now there's a ruined town out West of here, Aldea Malvada.
+A0E5A852 || ~z~and I'm this close to getting the next asshole's boot out of my face.
+A4D827BF || ~s~Follow the target using the remaining ~b~helicopter.
+A7886C4B || ~z~How d' you like that, you piece of shit?
+AA03AF8D || ~s~Kill the ~r~target ~s~and grab the evidence dossier.
+AD6E6B94 || ~r~You destroyed the evidence dossier in the explosion!
+B02374CD || ~z~Everybody down!
+B74EB0D4 || ~z~Hold it right there and identify yourself!
+B9FE9913 || ~z~Now things have developed since the last time we met.
+BE935D0A || ~z~This ain't about keeping some fucking badge!
+C0498042 || ~z~FBI! What's your business here?
+C724445B || ~z~Get that dossier out of here!
+C9946D9C || ~z~You still don't get it, do you Carl?
+CEF9A985 || ~z~Now why don't I believe you? Get over here!
+D08F5CDD || ~z~Getting a little edgy, fellas?
+D3DF1729 || ~s~The ~r~target ~s~has abandoned the helicopter.
+D7E298C4 || ~z~Somebody steps on me, I gotta step on you.
+DA695B02 || ~r~The evidence dossier is at the bottom of the sea!
+FBA20F1E || ~z~Now you get the dossier and you make both of them disappear.
+FCCFCB07 || ~z~Yeah, I'm listening.

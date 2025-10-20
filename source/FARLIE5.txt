@@ -1,0 +1,34 @@
+1E12B04 || ~r~The decoy car was destroyed!
+68CEF1D || ~s~Don't let the bikers see into the damaged car for too long or your cover will be blown.
+CBFAC60 || ~z~We find you funny.
+F3AA336 || ~s~Drive out to the ~y~countryside.
+123A1A46 || ~z~This car is a decoy!
+12C95938 || ~z~Look, as long as they think Mr. Farlie here is in the back,
+15A49D21 || ~z~As soon we leave, they will attempt an assassination.
+34818A42 || ~s~Don't leave the car, you'll blow your cover.
+39174985 || ~z~Ah, look like these punks about to make they move.
+3A5A0270 || ~s~Go and pick up the ~b~decoy car.
+3D37C669 || Door damage :
+4386BAD4 || ~s~Get into the ~b~decoy car.
+4A30F6FF || ~s~If the doors get too damaged, the bikers will be able to see into the car.
+62A3ADB7 || ~z~We were followed here. The Da Nang Boys are watching this apartment.
+653D2AD0 || ~z~It's a fucking decoy!
+65CE69AE || ~z~None taken.
+783D93A0 || Damage
+7BB89CF6 || ~z~No shit.
+827644A9 || ~z~they'll follow me wherever.
+8B334BFC || ~z~It's decoy, back to Chinatown!
+8BC00882 || ~z~Hey, what's the big deal? Why don't you cruise on out of here,
+8CADCC9B || ~z~As honored as I am to share my home with you,
+95B6FDDA || ~z~Heh-heh. Amazing.
+9F85BEA7 || ~s~The bikers can see into the car! Keep them away from the doors.
+A01E183F || ~z~Come on boys, take the bait...
+A35353CA || ~s~Follow the ~r~checkpoints~s~ through the countryside.
+A43E97D3 || ~s~The car is almost damaged enough to see into!
+D339A745 || ~r~You blew your cover!
+D454635C || ~s~Take out the chasing bikes.
+E2B1CD4C || ~z~Your success will be rewarded, Mr. Johnson.
+E8828E31 || ~s~Do not leave the decoy car.
+F571743F || ~z~After a while, you can come out safely - simple.
+FBAAFC0D || ~z~we should lure these lizards out into the baking sun!
+FCC73814 || ~z~lead them to a place quiet and cap their flat asses - no offense.

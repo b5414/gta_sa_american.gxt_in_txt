@@ -1,0 +1,132 @@
+2B0910D || ~s~As the plane climbs and falls, the altitude meter to the left of the radar will rise and fall respectively.
+6A5D6FC || No award
+879330A || ~s~As soon as you hit the corona, hold ~k~~VEHICLE_STEERLEFT~ to do a barrel roll.
+B06DD26 || ~s~Head for the first ~y~corona.
+C6B193F || ~s~When the plane's tail rises, push ~k~~VEHICLE_STEERDOWN~ to lift the nose and take off.
+CC8A53F || Damage penalty:
+1162024B || ~s~Push ~k~~GO_BACK~ to move backward and use ~k~~GO_LEFT~ and ~k~~GO_RIGHT~ to rotate.
+1185BA66 || Helicopter takeoff
+12A48AB3 || Exit
+15C94EAA || ~<~~>~
+160FC652 || ~s~Push ~k~~GO_BACK~ to lift your legs up and move forward.
+16E87E7F || Takeoff
+1833F64D || Barrel roll
+1A3D632B || MISSION PASSED!~n~~w~FLYING SKILL +
+1B12C698 || ~k~~PED_SPRINT~ Start
+1C7F0281 || ~1~%
+202B8EE5 || ~s~Taxi along the runway and stop in the ~y~target zone ~s~for extra points.
+22654980 || ~z~Carl. You scared of flying?
+235460C9 || ~s~As soon as you hit the corona, use ~k~~VEHICLE_STEERDOWN~ to pull up quickly and hold to do a loop-the-loop.
+25088D99 || ~z~Relax. Listen. Can you fly a plane?
+27464AFC || Press and hold ~k~~VEHICLE_BRAKE~ to slow your descent.
+299DC2CE || ~s~Press ~k~~TOGGLE_SUBMISSIONS~ to extend the landing gear.
+2A5B4A36 || ~s~Press and hold ~k~~VEHICLE_ACCELERATE~ to go forward and head for the ~y~corona.
+2BCAE495 || Pilot's license now obtained!
+2CA7208C || ~1~s
+2D368E2F || ~s~Release ~k~~VEHICLE_ACCELERATE~ to stop rising and level off.
+2DD13602 || ~s~Now destroy the two moving ~r~cars ~s~to the south-west of the runway.
+3086F38F || ~s~Bank hard right to find the next ~y~corona.~N~~s~Press ~k~~VEHICLE_LOOKRIGHT~ to use the rudder to turn more quickly.
+33E3C777 || Time taken: ~1~
+34CA0743 || ~s~Hold ~k~~VEHICLE_BRAKE~ to descend slowly and land.~N~Land in the ~y~target area ~s~for extra points.
+3930BFA4 || ~s~Hold ~k~~VEHICLE_STEERDOWN~ and ~k~~VEHICLE_STEERRIGHT~ to bank round and head for the next ~y~corona.
+3B9AFB06 || You need 70% or above to pass each mission.
+3E5D7BBD || ~s~Take off and climb steadily until you reach the first ~y~corona.
+43CD37D5 || ~s~If you start to descend too quickly, release ~k~~VEHICLE_BRAKE~ and hold ~k~~VEHICLE_ACCELERATE~ to slow your descent.
+44A0F3CC || ~s~Push ~k~~VEHICLE_STEERUP~ and press ~k~~VEHICLE_ACCELERATE~ to maintain your forward speed.
+44E4F7E1 || ~k~~VEHICLE_ENTER_EXIT~ View television
+4781C319 || ~s~Keep banking round and follow the ~y~coronas.
+495A4B2B || ~s~Press ~k~~VEHICLE_LOOKLEFT~ to turn left and ~k~~VEHICLE_LOOKRIGHT~ to turn right using the rudder.
+4E378F32 || ~s~Bank left and fly through the next ~y~corona.
+50417A6A || ~s~Head for the first ~y~corona.
+520FBD0F || ~z~What do you want?
+5453505F || ~s~Push ~k~~VEHICLE_STEERDOWN~ now.
+55627916 || ~z~No. I make it a rule not to defy gravity with compulsive liars.
+572CBE73 || ~s~Press ~k~~VEHICLE_LOOKLEFT~ to turn left and ~k~~VEHICLE_LOOKRIGHT~ to turn right using the rudder.
+5A31BEB9 || ~s~Keep gaining height.
+5AD60694 || ~s~Land on the runway.
+5BA0101A || new record
+5CCDD403 || Flying skill upgraded.
+5D5C7AA0 || ~s~Push and hold ~k~~VEHICLE_STEERUP~ to tilt the helicopter at 45 degrees.
+5DBBC28D || ~s~Destroy the three ~r~trucks ~s~at the end of the runway.
+6108F6C4 || Push ~k~~GO_BACK~ to lift your legs up and move forward.
+62CE7E3C || ~k~~GO_RIGHT~ Clockwise
+65A3BA25 || Navigate
+666532DD || ~s~Press ~k~~PED_FIREWEAPON~ to open the parachute now.
+66828AF0 || Circle airstrip and land
+66DC5409 || ~s~Stop in the ~y~target zone ~s~for extra points.
+6B783217 || BRONZE
+6C15F60E || ~k~~VEHICLE_ENTER_EXIT~ Exit
+6F34C6DB || Loop-the-loop
+71A2E66A || Get 70% or above to pass
+7B6C29A9 || ~s~Push ~k~~VEHICLE_STEERDOWN~ now.
+7BCF95A9 || Overall score:
+7C01EDB0 || ~s~Push ~k~~VEHICLE_STEERUP~ to descend to the next ~y~corona.
+7CA251B0 || Time:
+7F7E039C || ~s~Push and hold ~k~~VEHICLE_STEERLEFT~ now.
+813AA7F7 || Parachute onto target
+8576533B || GOLD
+86B0DBC3 || ~s~Use ~k~~GO_BACK~ to slow your descent and push ~k~~GO_LEFT~ and ~k~~GO_RIGHT~ to rotate.
+886B53F1 || ~s~While freefalling, push ~k~~GO_FORWARD~ to dive forward.
+888CEBDC || Land helicopter
+88D23525 || ~s~Bank left and land on the runway.
+8BADDB09 || ~k~~VEHICLE_ENTER_EXIT~
+8CC01F10 || Which course?
+8F0697E8 || ~s~Use ~k~~GO_LEFT~ and ~k~~GO_RIGHT~ to guide the parachute left and right.
+8FE12FC5 || Land plane
+920F8C9C || ~s~Keep climbing steadily and gaining height.
+95624885 || ~s~Press and hold ~k~~VEHICLE_ACCELERATE~ to accelerate along the runway.
+95C1F485 || Position score:
+9BB9C0B7 || ~s~Press ~k~~TOGGLE_SUBMISSIONS~ to retract the landing gear.
+9C77B8AE || ~k~~VEHICLE_ENTER_EXIT~ Exit
+9FAC8746 || Start
+A039EE1E || ~s~Hold ~k~~VEHICLE_STEERDOWN~ and ~k~~VEHICLE_STEERLEFT~ to bank round and head for the next ~y~corona.
+A51AED62 || ~z~Come on. Be a man, Carl, Your country needs you.
+A98FA235 || ~s~Bank hard left to find the next ~y~corona.~N~~s~Press ~k~~VEHICLE_LOOKLEFT~ to use the rudder to turn more quickly.
+AAAE92E0 || ~s~Slow down and hover over the ~y~target zone~s~ by holding ~k~~VEHICLE_HORN~~s~ to auto-level the helicopter.
+AD8752D4 || Time ~1~
+ADC356F9 || ~s~Release ~k~~VEHICLE_ACCELERATE~ now.
+AEE2662C || ~s~As the plane banks and pitches, the artificial horizon changes appropriately.
+B0949374 || ~s~Hold ~k~~VEHICLE_BRAKE~ to lower your speed until the plane slowly descends.
+B2C3B52F || ~1~%
+B2DA5411 || ~z~No. I'm scared of you. You're a fucking lunatic.
+B3521B8C || ~s~Rotate the helicopter 180 degrees by using ~k~~VEHICLE_LOOKLEFT~ and ~k~~VEHICLE_LOOKRIGHT~ to turn left and right.
+B3B5A3A1 || Press ~k~~VEHICLE_FIREWEAPON_ALT~ to fire the guns and ~k~~PED_FIREWEAPON~ to fire rockets.
+B922DF5F || ~s~Push and hold ~k~~VEHICLE_STEERUP~ to keep the plane's nose down.
+BA5D3173 || ~s~Press and hold ~k~~VEHICLE_ACCELERATE~ to maintain your height, keep the plane level and head for the first ~y~corona.
+BAE457A7 || ~s~If you need to bank, hold ~k~~VEHICLE_STEERDOWN~ and steer either left or right.
+BB6C183A || ~z~No. Next question.
+BC01DC23 || ~z~Carl...
+BE4F1B46 || ~s~Press and hold ~k~~VEHICLE_BRAKE~ to slow your descent.
+C2A941A0 || new certificate awarded
+C338EF03 || ~s~Press and hold ~k~~VEHICLE_ACCELERATE~ to accelerate upward.
+C4552B1A || Press ~k~~VEHICLE_LOOKLEFT~ to turn left and ~k~~VEHICLE_LOOKRIGHT~ to turn right.
+C4B29337 || ~s~Press ~k~~VEHICLE_FIREWEAPON_ALT~ to fire the guns and ~k~~PED_FIREWEAPON~ to fire rockets.
+C5C485B9 || ~k~~PED_SPRINT~ Retry
+C5DD6487 || ~z~Have you heard the bullshit that comes out your mouth?
+C793A3E2 || Press ~k~~VEHICLE_LOOKLEFT~ to turn left and ~k~~VEHICLE_LOOKRIGHT~ to turn right using the rudder.
+CA37C5FC || ~s~Fly through the final ~y~corona.
+CB06ECB5 || ~z~Hell!
+CC6B28AC || ~z~Will you let me teach you?
+CDE36731 || ~s~If you need to descend, hold ~k~~VEHICLE_BRAKE~.
+CE25EFC9 || ~s~Push ~k~~VEHICLE_STEERDOWN~ to reduce the rate of descent.
+D21DDDF4 || ~z~Get in the fucking plane.
+D73EDE88 || ~s~You can use the rudder to turn more quickly while banking.
+D9E556BA || ~s~The artificial horizon on the radar displays the plane's attitude.
+DAC4666F || Press ~k~~VEHICLE_BRAKE~ to descend and ~k~~VEHICLE_ACCELERATE~ to ascend.
+DDA9A276 || ~s~Head for the far end of the runway and maintain your height.
+DDEDA65B || ~s~Walk to the television to start the lesson.
+DE8892A3 || ~s~Bank right and fly through the next ~y~corona.
+E11A963F || ~s~Lift the plane's nose slightly just before starting the barrel roll to stop the plane from losing height.
+E2C6C413 || Time taken:
+E8ABB7D0 || Record: ~1~%
+EB708838 || ~k~~PED_SPRINT~ Continue
+ECBEF021 || ~s~Push ~k~~VEHICLE_STEERDOWN~ and press and hold ~k~~VEHICLE_ACCELERATE~ to climb back up to the final ~y~corona.
+F1B7EB55 || When you move forward, this will also slow your rate of descent.
+F27163AD || SILVER
+F51CA7B4 || Movement Controls Navigate
+F801A77E || ~s~Land on the ~y~target.~s~~N~Land closer to the centre for extra points.
+F8E61F53 || Circle airstrip
+FBC72F86 || ~k~~GO_LEFT~ Counterclockwise
+FCAAEB9F || ~k~~PED_SPRINT~
+FF8BDB4A || Destroy targets
+FFD505B3 || ~s~Bank right and land on the runway.

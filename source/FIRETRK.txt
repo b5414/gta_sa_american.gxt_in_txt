@@ -1,0 +1,17 @@
+D99B437 || Fire extinguished!
+12CB2C31 || Use ~k~~PED_FIREWEAPON~ or ~k~~VEHICLE_FIREWEAPON_ALT~ to fire the water cannon and the camera movement controls to aim the water cannon.
+16421C27 || LEVEL
+169FBAC2 || ~s~~b~Burning vehicle~s~ reported in the ~a~ area. Go and extinguish the fire.
+2B472F15 || ~s~~b~Burning vehicles~s~ reported in the ~a~ area. Go and extinguish the fire.
+39100C7A || To turn on this vehicle's sirens tap ~k~~VEHICLE_HORN~.
+3ED2FE2D || ~s~Fire Fighter~n~mission ended.
+4EB80AA2 || ~r~A vehicle has been destroyed.
+54A98DB2 || ~r~Fire Fighter mission cancelled!
+57890D20 || TIME LEFT
+62A1D8BE || Use ~k~~PED_FIREWEAPON~ to fire the water cannon and the camera movement controls to aim the water cannon.
+815442A5 || ~s~Fire Truck Mission level 12 complete. You are now completely fireproof!
+A0195DC0 || To turn on this vehicle's sirens tap ~k~~VEHICLE_HORN~.
+A7DBAF97 || ~r~You're too late!
+D0DC9F01 || ~r~There has been a fatality.
+F793F3EF || Fire Fighter missions complete: $~1~
+FD503423 || Fires

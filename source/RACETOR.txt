@@ -1,0 +1,74 @@
+37ABB6D || ~r~You have been disqualified for destroying your vehicle.
+4177F74 || ~r~You have been disqualified for leaving your vehicle.
+945F897 || NEW Best Position:
+ACCF746 || 3RD
+B5130BA || NEW Best Time:
+D7EE4FB || Run into the Water and swim
+13D7C607 || Best Time
+157C5305 || New Best Time ~1~:~1~
+18F6BCF2 || TH
+1A618A2C || ~1~.~1~ km
+1D0C4E35 || Position:
+21E1A485 || Winner!
+22272C7D || NA
+228B9932 || ~s~You have ~1~ second to get off your ~b~bike ~s~ and start running before you are disqualified.
+254AE864 || 1ST
+26DDCD00 || You won! The 'Birdseye Winder' race is now available
+2857E8AE || Track Length: ~1~.0~1~ km
+2D838F92 || Birdseye Winder
+2F3A2CB7 || Best Result: 2nd
+354B2041 || ~s~You have ~1~ second to get on your ~b~bicycle ~s~before you are disqualified.
+36211DF6 || Race ~1~
+38FA95C4 || Best Time: ~1~:~1~
+3D27CFAB || 1
+43B6767A || ST
+450506D0 || New Best Lap Time ~1~:0~1~
+471A575F || RD
+4A20FF3D || GO!
+4B56E9B3 || ~s~You have ~1~ seconds to get on your ~b~bicycle ~s~before you are disqualified.
+4FFDA552 || Best Result: 1st
+524DD8F2 || ~1~:0~1~
+55201CEB || ~1~TH
+583D1C21 || Best Result: 3rd
+5A84BF04 || Cobra Run
+5C9650C0 || ~s~You have ~1~ seconds to get off your ~b~bike ~s~ and start running before you are disqualified.
+5F50D838 || Best Time: NA
+627BE355 || TIME
+64D0F691 || ~1~:~1~
+656A8363 || New Best Lap Time ~1~:~1~
+6A0B7EA3 || Time:
+6D66BABA || ~1~.0~1~ km
+73104FE2 || ~s~You have ~1~ seconds to return to your ~b~vehicle ~s~before you are disqualified.
+747D8BFB || ~r~You have been disqualified from the race.
+7A0AB686 || ~s~You have ~1~ second to return to your ~b~vehicle ~s~before you are disqualified.
+7A79D46D || Get on the bicycle to continue the race
+7DCBC7D0 || ~1~TH
+8368DB96 || Best Result
+84051F8F || Use ~k~~GO_LEFT~ or ~k~~GO_RIGHT~ to select race.~n~~k~~PED_SPRINT~ Start Race~n~~k~~VEHICLE_ENTER_EXIT~ Quit
+8B11E049 || /~1~
+9477B541 || You have been awarded with $~1~
+9A73EAD7 || 2ND
+9D1E2ECE || Track Length: ~1~.~1~ miles
+A16D0A02 || ND
+A42E9E11 || 2
+A67E4C6F || New Best Time ~1~:0~1~
+A8C8A814 || ALL RACES WON!~n~~w~$~1~
+B15EB914 || Track Length: ~1~.0~1~ miles
+B48ADE28 || Scotch Bonnet Yellow Route
+B6337D0D || Track Length: ~1~.~1~ km
+BB2E7DC7 || ~1~.~1~ miles
+BC43B9DE || 2ND
+BFD49CBA || You won! The 'Cobra Run' race is now available
+C1344D9B || Best Result: ~1~th
+C6598982 || Best Result: NA
+C8D3AC2C || You have completed all routes for 'The Chiliad Challange'
+CB448948 || 3RD
+CC294D51 || ~1~.0~1~ miles
+D329AE87 || 3
+D4446A9E || Races
+DA9FE2AC || Loser!
+E41D41CE || Get off the bicycle and run to checkpoint to continue the race
+EA191E58 || Best Time: ~1~:0~1~
+ED74DA41 || 1ST
+F3022F19 || LAP ~1~/~1~
+F46FEB00 || Track Distance

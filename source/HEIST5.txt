@@ -1,0 +1,43 @@
+1A2C62A || ~z~they use to airlift heavy loads?
+5E39BB7 || ~z~Ha ha, yeah I guess. Alright, dude, I'm outta here. I'll see y'all later.
+8148A01 || ~z~That way we can make some money too.
+F794E18 || ~z~OK, we got the bikes. And Woozie's taken care of the uniforms.
+FA145F4 || ~s~Go to the depot and pick up the ~b~bank van~s~ using the helicopters winch.
+110FBB40 || ~z~Hey, don't look at me.
+11EE7FF0 || Use the camera movement controls to move the crosshair.~N~Press ~k~~PED_FIREWEAPON~ to fire.~n~Press ~k~~VEHICLE_ENTER_EXIT~ to Quit.
+16627F59 || ~z~We could lift the whole truck and take them to someplace safe.
+18B9F76B || ~z~Yeah, thanks for that.
+2ECEC874 || ~z~I WILL open fire!
+3418A401 || ~s~Steal the ~b~helicopter~s~.
+3AC32C33 || VAN HEALTH
+4AA9D8BC || ~r~The van is stuck in an area the winch cannot get to!
+4DC41CA5 || ~s~Pick up the ~b~bank van~s~.
+5EA43CFB || ~z~This is a restricted area!
+61654FCF || ~z~Then we need to steal a sky crane.
+66088BD6 || ~z~Or me.
+66E94F66 || Press ~k~~VEHICLE_ENTER_EXIT~ to use the gun.
+75896F38 || ~z~Heeey, CJ, you never cease to amaze me!
+767DFD50 || ~s~Steal the helicopter from the ~y~military fuel dump,~s~ the gates will open for a military vehicle.
+76A5F6BC || ~z~Yeah, they call 'em 'sky cranes'.
+787E7E8E || ~z~Now, we just gotta get an armored van
+78A67562 || ~r~You destroyed the van.
+7F13BA97 || ~z~No, I don't want to get the crew caught up in some street level jacking - it could get ugly.
+8806EAFA || ~z~Yeah, Carl. It'll be just like fighting Berkley, only bigger!
+8F6B2EE3 || ~z~No, me neither.
+911DDBBB || ~z~Have you ever seen those helicopters they use to lift heavy loads?
+96701FA2 || ~z~Why don't we steal one while it's on its rounds?
+98739C7C || ~r~You destroyed the 'copter!
+9B870E14 || ~z~I don't know. He insisted on driving here himself. He could be anywhere.
+9F1E5865 || ~s~The gunships have been destroyed, get to the ~b~chopper~s~ and get out of there.
+A3CA7D89 || ~s~The van has to be on its wheels!
+A4A7B990 || ~r~The Triad gang member died!
+B0AA5DD7 || ~z~I'm not warning you again!
+C7AD6D41 || ~z~Please leave now!
+D4CD4D1F || ~s~Land the helicopter in the ~y~indicated zone~s~.
+E1772F34 || ~z~and re-spray it with the Caligula's Casino logo.
+E61AEB2D || ~z~I... I have an idea? Um...
+E81968F3 || ~s~They have sent two ~r~gunships~s~ to intercept you, use the ~y~gun emplacement~s~ to destroy them.
+EC803E82 || ~z~Heh heh, good lookin, where's Woozie?
+EF74ACEA || ~s~Take the bank van to the ~y~Aircraft Graveyard~s~ in the desert.
+F86C1E75 || ~z~Unfortunately I'm not a pilot.
+FF01DA6C || ~z~Shit. I'll fly it, then. We can respray it at the airstrip.

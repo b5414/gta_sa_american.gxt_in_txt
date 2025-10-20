@@ -1,0 +1,58 @@
+4329D7C || ~z~To pass you must achieve BRONZE or higher in all 5 tests.
+79F2ADB || Jump Invalid!
+A822A11 || new certificate awarded!
+13991B50 || BRONZE
+14F4DF49 || Exit
+1B8D6703 || Finish Time:
+1CE0A31A || ~s~Press ~k~~VEHICLE_ENTER_EXIT~ to return to the Boat School.~N~Press ~k~~VEHICLE_ACCELERATE~ to retry.
+21AF79D2 || ~1~:~1~s
+26C2BDCB || ~k~~VEHICLE_ENTER_EXIT~
+35A94859 || ~s~In stopping region
+3853F0BE || ~1~:~1~m
+3BE2E2B0 || plot a course
+3FD98C8A || finish under ~1~ minutes to pass
+42AE78CF || ~s~Finished!
+48DEBC1C || finish under ~1~ seconds to pass
+4CE5D226 || fresh slalom
+51C58D5D || ~<~~>~
+56A84944 || Continue
+606BB9DE || Press ~k~~VEHICLE_ENTER_EXIT~ to view tests.
+63F3EFDF || Navigate
+649E2BC6 || SILVER
+7335ADEA || ~z~To view a demonstration of each test, please use the TV over there.
+7B79703D || BOAT SCHOOL PASSED!
+7D851A87 || new record!
+832606C1 || record time ~1~:~1~s
+839F6015 || ~s~Navigate through the center of each pair of ~y~buoys~s~ in as quick a time as possible.
+861CE483 || time
+8A904AEA || Start
+9A3D3780 || ~s~Press ~k~~PED_SPRINT~ to continue.
+9A5608DF || ~z~You can come back and check your scores or take new tests at any time.
+9A845154 || ~s~Navigate through each pair of ~y~buoys~s~. Throttle with ~k~~VEHICLE_ACCELERATE~ and use ~k~~VEHICLE_STEERLEFT~ and ~k~~VEHICLE_STEERRIGHT~ to steer. ~n~Hint: Hold ~k~~VEHICLE_HANDBRAKE~ to perform a sharper turn.
+9D3BCCC6 || ~z~Welcome to the Boat School
+9DE9954D || ~s~Hold ~k~~VEHICLE_HANDBRAKE~ to perform a sharper turn.
+9E967B61 || Jump Distance:
+A1BD1929 || NO AWARD
+A2EBB30A || basic seamanship
+A5867713 || land, sea and air
+A6D0DD30 || longest jump ~1~ meters
+ACA019E3 || ~y~Checkpoint
+B1106443 || ~1~:~1~s
+B1A90297 || ~s~Power the boat forwards and bring her to rest within the parallel ~y~buoys~s~. ~n~ Throttle forward with ~k~~VEHICLE_ACCELERATE~ and backwards with ~k~~VEHICLE_BRAKE~.
+B6C4C68E || ~s~Hold ~k~~VEHICLE_BRAKE~ to apply reverse throttle.
+B8A62868 || ~k~~PED_SPRINT~
+C1C3F618 || ~s~Hold ~k~~VEHICLE_ACCELERATE~ to throttle forward and bring the boat to rest within the parallel ~y~buoys~s~ region.
+C61754D5 || ~1~m ~1~s
+CCDEF6D2 || ~s~ Power towards the jump ramp and land within the parallel ~y~buoys~s~ to register a valid jump.
+CFA118FE || Results
+D1D7EDA6 || jump over ~1~ meters to pass
+D2814785 || flying fish
+DCCAED6C || ~r~Time over!
+E2702187 || ~s~Congratulations! You have passed all of the boat school tests!
+E9914BF7 || Overall Time:
+EAEEA5DB || ~s~Navigate through each pair of ~y~buoys~s~. Throttle with ~k~~VEHICLE_ACCELERATE~ and use ~k~~VEHICLE_STEERLEFT~ and ~k~~VEHICLE_STEERRIGHT~ to steer.
+ED513849 || ~z~Passing a test will unlock the next test.
+F4213657 || finish under ~1~.~1~s to pass
+F962E864 || Press ~k~~VEHICLE_ENTER_EXIT~ to quit test.
+FC354A04 || Damage Penalty:
+FD977A7C || GOLD

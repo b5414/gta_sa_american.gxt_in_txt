@@ -1,0 +1,74 @@
+371536 || ~s~Get back to your ~y~hood~s~.
+1CE942B || ~z~Man, Seville Families gone too far this time!
+1F72ABA || ~z~Oh, and swing by Emmet's, you might need a nine!
+565D8CA || ~z~Eyes on the road, motherfucker!
+6A35032 || ~z~Green blasting on green ain't no way to run the Families!
+75AD12F || ~r~Sweet's girlfriend died!
+8416691 || ~z~Hey Sweet, I was just looking for you man, wassup?
+981591D || ~s~Get a car ~y~outside~s~ the apartment.
+9E8A5C7 || ~s~Fetch a four door car to ~y~pick up~s~ Sweet and his girl.
+BBE50F8 || ~z~She should hang out at our place, until those Seville fools calm down.
+CD394E1 || ~z~And, "C'mon, girl, you know I love you!"
+F151C19 || ~z~I can't never go back home now!
+F2CA288 || ~z~She's Seville Boulevard Familes,
+12A561B9 || ~z~Pick it up, CJ, we ain't givin' up!
+14364979 || ~s~You left ~b~Sweet's girlfriend~s~ behind! Go back and get her.
+2093033B || ~z~Keep their heads down, my girl's coming out!
+270D845C || ~z~...fuck they at? Damn!
+27FEC722 || ~z~CJ, there's a piece in the trunk of my car!
+33F8F6A9 || ~z~You did good back there!
+43920226 || ~z~Big love, bro, big love.
+44FFC63F || ~z~Man, this set tripping is killing the Families.
+500AB4CA || ~z~Shit, where all the homies at?
+56BD28BE || ~S~Wait for Sweet and his Ho' to get into the vehicle.
+579433AD || ~z~Hurry it up, CJ, we gotta move!
+5DE4F77E || ~z~CJ, they're trying to ram us!
+633179EF || ~s~You left ~b~Sweet~s~ behind! Go back and get him.
+645CBDF6 || ~S~Phone ringing.
+65A2512F || ~z~Seville Families on our case, nigga!
+6FD295FC || ~z~Get a car and we'll meet you out front!
+705DE1B9 || ~r~Sweet died!
+719DDE35 || ~z~Yo' dick still dropping you in it, Bro!
+71A460A4 || ~z~Shit is crazy, bro! We gotta bring the Families back together!
+76C9A4BD || ~z~She's got a sister, CJ, you want her number?
+76F01A2C || ~z~That's my nigga! I'll be ready!
+7759D97A || Use low walls and objects for cover. Press ~k~~PED_DUCK~ to crouch.
+78122C8F || ~z~You better make this up to me, Sweet!
+782B921E || ~z~No, CJ, that ain't what I meant.
+7BD4A477 || ~z~Well I do, just don't think there's no wedding bells around the corner, that's all.
+7CB9606E || ~z~Just want to make things clear, though, we ain't no item or nothing like that - nothing like that, baby.
+8BAC3003 || ~z~We got Seville on our tail, CJ!
+90E1F47D || ~s~Get over to ~g~Emmet's~s~ if you need a piece.
+9148372B || ~z~I been with some girl and now I'm stuck.
+917189BA || ~z~Sweet, we gotta go back for my stuff!
+92B70142 || ~z~Where we goin' then?
+95DAC55B || ~z~And what's with all the, "Girl, you're somethin' special!"
+961C4DA3 || ~z~This wasn't the 'good time' I was thinking about, Sweet!
+9625F332 || ~z~And we ain't cool no more..
+993E448C || ~s~The Seville Boulevard Families have Sweet surrounded in his girl's flat. Take those ~r~Seville boys~s~ out!
+9C6C8970 || ~z~You in trouble now, Sweet.
+9F93BF19 || ~z~I'll see what I can do.
+9FAA0188 || ~z~Seville trying to start a war or something!
+AD9C630A || ~z~Hey, I'm a Johnson boy!
+B8B34992 || SWEET
+B96911FF || ~z~Fuck it.
+B99A5281 || ~z~Cover my girl, CJ!
+BE04D5E6 || ~z~Yo, Sweet!
+BEF79698 || ~z~CJ, there's some heat in my car!
+C4EDA6C4 || ~z~Shit, they're trying to ram us!
+C903E570 || ~z~Sweet, Smoke?
+C9F0A60E || ~z~CJ, get in this damn car and roll!
+CFB47904 || ~S~Get over to Sweet before the Seville Boulevard set finish him off.
+DA9B539C || ~z~Hey, I got unfinished business. Big love.
+DDF69785 || ~z~I'll see you inside, baby.
+E0E2FC28 || ~s~Take out the ~r~Seville boys~s~ pinning Sweet down.
+E122C3A4 || ~z~They all over the streets outside her house and I ain't heated!
+E2DDF5CD || ~z~And what was last night, huh?
+E64F07BD || ~z~I ain't about to come help prise you two apart!
+E78F3831 || ~s~Get a four door car.
+E7E6C4EB || Sweet needs a getaway car, not one of these!
+E8948F8F || ~z~Be ready to run when I holla, alright?
+E8AD311E || ~z~Yo' dick getting us both in trouble again, Sweet!
+EB6BB9E6 || ~z~We will talk about this in private, Sweet Johnson!
+EFC0F507 || ~z~Don't worry, girl, I don't drive as bad as CJ!
+F6DBC446 || ~z~That's my brother!

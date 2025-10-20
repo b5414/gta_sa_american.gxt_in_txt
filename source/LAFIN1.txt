@@ -1,0 +1,243 @@
+1728257 || ~z~Smoke, you're insane!
+191604B || Car
+19257BE || ~z~All you dogs cool?
+1953A7A || ~z~Mayday, mayday! Buzzard 1 is going down!
+253B282 || ~z~What the holy f-AAAARGGH!
+254DF46 || ~z~We lost the searchlight!
+2B40AAF || ~z~How about you, Smoke?
+5D9CEB6 || ~z~We'll be there just in case, bro.
+61F464E || ~z~CJ! Get it off me! Get it off me!
+6F8FE63 || ~z~Mike-mike those mothers!
+6FF93A7 || ~z~Yeah, well put it like this - I understand what he's trying to say,
+8C4CE7C || ~z~What's that motherfucker doing?
+A2A8EF3 || ~z~CJ, cover the rear!
+B024684 || ~z~Man, what you doin'?
+B052B40 || ~z~Smoke, stop going in circles!
+BE1A498 || ~s~Follow ~b~Sweet~s~.
+BE2936D || ~z~This is Buzzard 1, I eyeball 'em!
+C68EF59 || ~z~Hey, man, some idiot's hanging off the back of the car!
+C8F5774 || ~z~Buzzard 1, tangos on the roof!
+F4EB248 || ~z~Cut him up!
+FA90A65 || ~z~Cheap Emmet shit!
+11DFFF3D || ~z~All hell's breaking loose tonight!
+121E1A01 || ~z~Oh shit, the brakes is out!
+12FECFE8 || ~z~Especially you, Ryder.
+1573DE18 || ~z~Fuck this! We gotta get outta here!
+15930BF1 || ~z~Ryder... just chill the fuck out, man!
+1651D938 || Sweet
+16558309 || ~z~Get some suppressing fire in there!
+16B23B24 || ~z~They in front of us!
+1869B316 || ~z~Oh, man, my window's broke!
+188E0B3B || ~z~Heads up, brother!
+1B4883C3 || ~z~Say, CJ, you gonna crash the car again?
+1C211DEB || ~r~Your homies died!
+1C2547DA || ~z~Everything you do is a joke, Ryder.
+1F04770F || ~z~I got suds in my eyes!
+1FE3CF22 || ~z~Shut up and get in!
+202F1547 || ~z~You got it off Emmet? Shit...
+20CFC0AE || ~z~Clear to the left!
+23FD66EC || ~z~Damn, that bitch is bad!
+2490A2F5 || ~z~I vote I'm our representative on this one.
+2742D15E || ~z~Did you see that?
+27A204B7 || ~z~Scratch one asshole!
+29798C85 || ~z~Tango on the left!
+297EE141 || ~z~This is the LSPD do not, HEY! WHAT THE FUCK? TOO LOW, YOU'LL KILL US ALL!
+2999596C || ~z~Eh man, I'm running low.
+2A4B2AC7 || ~z~Let's do this.
+2E177F69 || You can also use ~k~~VEHICLE_FIREWEAPON_ALT~ to fire.
+2EF49D75 || ~z~It's Smoke and Ryder!
+3065D000 || ~z~You saved me, have some sugar!
+3082682D || ~z~Families! Cops comin' in from behind!
+33438D11 || ~z~I wish I'd have stayed home and watched the fucking game!
+33501B86 || ~z~I say it's time we went down there and made it official.
+33A358F8 || ~z~Take him out!
+342E4908 || ~z~My side! MY SIDE!
+34CE9CE1 || ~z~Await backup!
+37EFAC34 || ~z~Nah, I real fucked up, man
+39342406 || ~z~What!?
+3A7BB9F6 || ~s~Make your way through the motel and find ~b~Sweet~s~.
+3AE657AD || ~z~Peep this - we're gonna unite the Families once more.
+3D167DEF || ~s~Get back in the ~b~car~s~!
+3D78D0CA || ~z~Go! Go! Go!
+3D8B93B4 || ~z~Wassup CJ!
+3E59E01F || ~z~C'mon, CJ, let's go!
+400B7EBE || To move the crosshair use the camera movement controls, to fire press ~k~~PED_FIREWEAPON~.
+40E89CA2 || ~z~Where the OG's at - I gotta get my brother, Sweet.
+4329799E || ~z~CJ! To our right!
+43C9AC77 || ~z~These fucking gang bangers!
+4444BD87 || ~z~Hey, CJ, watch to the left!
+44572B10 || ~z~So all the Families sets are gonna meet down at the Jefferson Motel.
+44A4686E || ~z~Neutralize that tango!
+478558BB || ~z~Fuck you cops! Fuck all y'all!
+495ED089 || ~z~Li'l bro, let's hit it!
+4A114D79 || ~s~Drive the crew to the meet at the ~y~motel~s~.
+4A7FE05C || ~z~Get into positions!
+4A8CA322 || ~z~Wassup, y'all!
+4D122445 || ~z~This is the Los Santos Police Department; Stay where you all are!
+4D7C8960 || You can purchase drinks at ~h~vending machines ~w~this will replenish your health.
+4DE1673B || ~z~Finally.
+4E331490 || ~z~Fuck it, let's get out of here!
+5045E1C8 || ~z~Man, it's getting intense! It's getting worse out here!
+50A53421 || ~z~One for a bag!
+53979263 || ~z~Keep that shit off our streets!
+54FA567A || ~z~A'ight - let's roll, homies.
+572825D1 || ~z~Holy shit! Look at that!
+57C8F038 || ~z~Tango on the right!
+59104FFF || To look around the car use the camera movement controls. To fire press ~k~~PED_FIREWEAPON~.
+59F3ADE3 || ~z~Get in!
+5D4C1A51 || ~z~That's right.
+5E7EBC13 || ~z~Room clear!
+5E9E69FA || ~z~I got a 'K here!
+6152B39F || ~z~Gimme some fucking covering fire!
+6156E9AE || Take all the nearby SWAT out. Then it will be safe to escape with ~b~Sweet~s~.
+61B50BB2 || ~z~We got trouble up front!
+6274EE8E || ~z~Man, that was some serious shit! Woo!
+62943B67 || ~z~Tell 'em, Smoke - back me up! It ain't true!
+65192A97 || ~z~Slow down, Smoke, SLOW DOWN!
+65F9FF7E || ~z~You know me, Sweet, cool as a Shaolin monk!
+663F7786 || ~z~Shoot out the lock!
+66D8CFAB || ~z~Let's roll
+68034799 || ~z~Aw man, my damn window down!
+68E4FFB4 || ~z~Mind your head.
+6B22774C || ~z~Man, I was just telling a joke on the little nigga.
+6B262D7D || ~r~Sweet died!
+6F6E8380 || ~z~I like things clean!
+6F893BAD || ~z~You can't hide for ever!
+711876D8 || ~z~Agh! I got a bit of a ear in my lap!
+71F8A331 || ~z~You gotta check yourself and stay cool.
+71FFCEF5 || ~z~All units Rock'n'roll!
+7239460D || ~z~Woo-Woo-WOO-AAIIEEGGH!
+72DEFE20 || ~z~Thanks, homie, but I'm down with these boys.
+7553EFD0 || ~z~This is Buzzard 1, we are taking ground fire!
+75B33A39 || ~z~Hey, I'm feelin' a little exposed, but I'm good.
+7675B2C1 || ~z~Oh, man, where'd I put my water?
+76920AEC || ~z~This is Buzzard 1, we're coming in hot!
+76956728 || ~z~OK, we're nearly there. Y'all cool?
+784982DE || ~z~Get in front!
+78AE3AF3 || ~z~The K's jammed!
+78BAC1A0 || ~z~Yeah, let's go, man.
+7B6FDFCF || ~z~Maybe if you have a nice word with these officers they'll let us on our way!
+7B8867E2 || ~z~We got tangos on the roof, where's that chopper?
+7C021BD6 || ~z~We're going around in circles!
+7C057612 || ~z~Carl, get back in, man we outta here baby!
+7CE5A3FB || ~z~Light up these tangos!
+7D2DBE65 || ~z~Carl, behind us! Behind us!
+7F2446C7 || ~z~We need to get Charlie Team down there!
+7FC3FEEA || ~z~Eh, I told you my clip is empty!
+8160E2AC || ~z~Guess we better lend a hand...
+81875A81 || ~z~Buzzard 1, light up the roof!
+8241D279 || ~z~Fuck you, Ryder.
+85284C51 || ~r~The car is wrecked
+852C1660 || ~z~That's right, that's my brother!
+85CCC389 || ~z~Ryder's right, everybody split up, and we'll meet up later.
+85CFF47C || ~s~Take out the swat shooters and the helicopter!
+860D26B5 || ~z~Put up your windows!
+86EA9E98 || ~z~Surprise, homeboy!
+883116AA || ~z~I'm taking fire, cover me!
+88D6AE87 || ~z~Trouble up ahead!
+8B174BBB || ~z~Ah man, I ain't touchin' not shit in your lap!
+8BF79E52 || ~z~What you mean? I resent your implication, and shit.
+8C7A8FA2 || ~z~Oh man we gonna diiie!
+8C9A5A4B || ~z~Remember, we're reuniting the Families, so no bullshit.
+8F5CD2B3 || ~z~Where are those shields?
+912A27EB || ~z~Block him!
+91CD9FC6 || ~z~Fuck it, I'm going through!
+920B173E || ~z~Oh shit!
+920C7AFA || ~z~Dammit, Smoke, I got soap in my eyes!
+92EBC2D7 || ~z~Damn!
+944E1B50 || ~z~Carl, they all over our ass, baby!
+9561BEE3 || ~z~Hey, I'm taking what options I have, a'ight?
+9566D327 || ~z~Man, it's every motherfucker for himself!
+958606CE || ~z~Wilco, team leader, I have a visual!
+9647E3F2 || ~z~Hit that vehicle with everything you got!
+987BD3ED || ~z~Back up, Smoke, Back up!
+989B0604 || ~z~Ice cold, baby.
+989C6BC0 || ~z~Blue 4-door in East Los Santos headed for Ganton!
+9B5AE338 || ~z~GOD NO, AAIIEEEGHH!
+9BBD5B15 || ~z~Relax. We straight, they straight. How about you, Smoke?
+9CD09F0C || ~z~OK, it's strictly one rep per set - you guys are gonna have to wait here.
+9CD7F2C8 || ~z~Somebody shoot him!
+9F1617F4 || ~z~Oooooooh SHIIIIIIIT!
+9FF1AFD9 || ~z~Unit down, repeat, unit down!
+9FF6C21D || ~z~but I'm always cool, fool!
+A03D75BC || ~z~They shook on us!
+A3181F58 || ~s~Go inside the ~y~motel ~w~and get Sweet out of there safely!
+A31C4569 || ~z~Freeze or we will open fire!
+A372E84C || ~s~Protect ~b~Sweet ~s~and destroy the ~r~SWAT helicopter~s~.
+A3EF0617 || ~z~Because the Ballas have been pumping our guys full of base for too long,
+A41F2C55 || ~s~Get in the ~b~car ~s~and drive the crew to the meet at the motel.
+A4718170 || ~z~Defensive positions!
+A482C20E || ~z~Turn that TV off right quick. Listen up, fellas,
+A4915499 || ~z~Cover the right, Carl!
+A750B1A5 || ~z~CJ, dump on that helicopter!
+A96C81BA || ~z~My hero deserves his honey!
+A98B3997 || ~z~Alright, man. Hang in there.
+AA4ADCAB || ~z~We really in the middle of this shit tonight!
+AAAA0942 || ~z~Tango down!
+AD2718B2 || ~z~Hell, I don't know, just shoot everybody, motherfucker!
+ADC7CD5B || ~z~We're gonna hump your cold bodies!
+AEE6FD8E || ~z~Shit, eh man, you alright?
+B077B0FB || ~z~LSPD, stop right, ARE YOU INSANE, YOU'LL KILL US ALL!
+B09008D6 || ~z~Hit the gas!
+B7FDCCCF || ~z~Ah shit, what now?
+B92644FD || ~z~Yeah, well... Emmet ain't the Pentagon!
+BAF43756 || ~z~Oh, yeah!
+BD99F34F || ~z~Hey, it's all good.
+BE4B80E4 || ~z~Man, they's got smoked! Did you see that?
+BEAB550D || ~z~Go Go Go!
+C777EDA9 || ~z~Clear!
+C7973840 || ~z~Nice to see you guys again!
+C94CB072 || ~z~Damn! That was close!
+C9AC659B || ~z~Breach that door!
+CA9EC3D9 || ~z~If Sweet thinks he can handle it, I'm down with him, man.
+CDF307C0 || ~z~Wassup, playa!
+CE21746B || ~z~This fucking antique?
+CEC1A182 || ~z~Clear to the right!
+D0578133 || ~z~CJ, that chopper's all over us! Hit it!
+D376B1E6 || ~z~Fall back!
+D385F298 || ~z~like we were saying. No more base in the streets.
+D396640F || ~z~CJ, watch our right!
+D41B75FF || ~z~stay where you all are!
+D475D8DA || ~r~You wrecked the car!
+D4E83681 || ~z~while we argue amongst ourselves.
+D73A452A || ~z~What took you? Where's Smoke and Ryder?
+DA202824 || ~z~Your left or my left?
+DAC0FDCD || ~z~Drop these ghetto bunnies!
+DD4DEC3D || ~z~It's like World War VIII!
+DDAD39D4 || ~z~Drop that guy!
+DE6BB12C || ~z~Oh baby, you're hurt!
+DE8C0901 || ~z~They were meeting in the back of the motel someplace...
+E140D364 || ~z~We got 'em like fish in a barrel!
+E1A76B49 || ~z~OH SHIT! Roadblock up ahead!
+E261E3B1 || ~z~I ain't leavin' my brother, I ain't no buster!
+E2668E75 || ~z~This ain't no Sunday cruise, CJ!
+E2813658 || ~z~Roger, I got 'em!
+E424EFDF || ~z~Oh shit! All I got in my rearview is bad guys!
+E50B4A6C || ~z~Hey, ain't we been here before?
+E50C27A8 || ~z~This is the Los Santos Police Department; Everybody stay where you are!
+E5ECF241 || ~z~Put some light down there!
+E62D177D || ~z~Four bangers in blue 4door heading back into South Central.
+E6CAAF50 || ~z~CJ, we got the ghetto bird up ahead!
+E8112762 || ~z~Oh man, that's nasty!
+E8F1F28B || ~z~Hey we all down with that, baby.
+E8F69F4F || ~z~Holy shit! Echo unit is down!
+EC5ABE6A || ~z~Put Charlie Team down on the roof, now!
+EC5DD3AE || ~z~OH CHRIST, AARRGGHH!
+ECBA6B83 || ~z~I don't like this, man. Look at all them other family hoods! They used to be Grove Streets.
+EF7CE37B || ~z~Hell no, I'm going through!
+EF9B5B56 || ~z~Buzzard 1 is leaving the party, adios, boys!
+EF9C3692 || ~z~For sure, homie.
+F10A1623 || ~z~Smoke, what are you thinking, man?
+F1EDAE0E || ~z~Take your last look at freedom, boys!
+F22B26F6 || ~z~That ain't true!
+F546E2EF || ~z~Ryder, give CJ a break, man. He's practically turned the Grove around by himself.
+F667D23A || ~z~Smoke, what the FUCK are you doin'?
+F6806A17 || ~z~Might as well come out!
+F85BE225 || ~z~Get those damn shields in here!
+F8BC5A08 || ~z~Eyes front, CJ!
+FB7DBF34 || ~z~Shit! That's gonna be a hell of a story to tell when we passin' the blunt!
+FB9D6ADD || ~z~Stay cool.
+FC107B2D || ~z~Hey, I can't see jack through all this fucking blood!
+FCF0AEC4 || ~z~Sweet's just sayin' you a natural killer, baby.
+FF36263C || ~z~Where's that shotgun?
+FFD19E11 || ~z~Waste of good donuts.

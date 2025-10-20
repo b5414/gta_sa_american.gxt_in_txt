@@ -1,0 +1,69 @@
+60CDF6 || ~z~He's gonna blow us all to hell!
+63C20A6 || ~z~Shit, I always wanted to pull a heist.
+70D09EF || ~z~What do you think you're doing?
+8E7A894 || ~z~Great shot, boss!
+9D681DD || ~z~Get away from that dynamite!
+CB8C373 || ~s~Push ~k~~VEHICLE_TURRETUP~ to lower the crate.
+F8A6C8D || ~z~Probably ain't just them. Rule of the streets; don't snitch.
+11FC99D5 || ~z~Bad luck.
+15A3F232 || 3 sticks of 4
+16915DCC || ~z~They must have explosives.
+20F854A9 || ~s~Follow the ~y~arrows ~s~to escape.
+22FBD21E || ~z~TWO...
+279590B0 || You'll need something heavy to smash those crates.
+39E365E8 || ~r~The dumper truck has been destroyed - it was the only way to break the crates!
+3AB69200 || ~s~Get back on the ~b~bike~s~!
+4B8A17D0 || ~z~Delivery for Woozie.
+4EE4557E || Visit the quarry to access the Quarry sub-missions.
+5092A026 || ~s~Get the ~g~Dynamite ~s~before the timer runs out and it's detonated.
+52912691 || ~z~ALL PERSONNEL CLEAR!
+55FCE288 || ~z~ONE...
+57FF643F || ~s~Get back home with the dynamite.
+61966D5A || ~z~You know what? There's an open cast mine South West of the city limits.
+62A4C2A4 || 2 sticks of 4
+65C906BD || You'll need something heavy to smash this dynamite crate.
+66FBA943 || ~z~What the-?
+700A3979 || ~z~Someone's stealing dynamite, call security!
+713B1030 || ~z~Yeah, you're right, it'll take some planning, but I'm down.
+7767FD60 || ~z~Dude, somebody stop that guy!
+788D5C1B || ~z~I wonder why it's only them and not the others?
+79BC7552 || ~z~Hey you can't come down here!
+7BBFF3E5 || ~s~Go to the ~y~Quarry~s~.
+7CD237FC || ~s~Now collect the ~r~Dynamite~s~!
+7ED1B14B || ~z~Hey, that's dangerous!
+7FE09802 || ~z~Ha ha ha! The glorious sound of a hole in one!
+851CEFA3 || 4 sticks of 4
+88F5C86F || ~z~Listen, you're gonna need a crew and some special equipment.
+8F980C76 || ~z~I'll go peep it out.
+90DFD067 || ~z~Meet my shovel asshole!
+91EEF92E || ~z~Not bad, Woozie.
+92DC56D0 || Security is blocking the exit.
+96833D37 || ~z~What we need... is to hit the mafia casino. Yeah, go jack the place.
+97B2147E || ~z~You don't have clearance for this area!
+99699C4C || ~z~Someone call security!
+9C07DEE2 || ~r~The bike was destroyed!
+9E045855 || ~z~He's stealing the demolition charges!
+A0EA3452 || ~r~You idiot you blew up the couriers car!
+A787F04B || ~s~Find another ~b~bike ~s~and escape!
+B72A8D21 || ~s~Now deliver the dynamite to the ~y~drop point~s~.
+B9F10513 || The dynamite is rigged to blow!
+BC9F47BD || ~z~THREE...
+C02DBDB7 || ~s~Pick up the ~r~Dynamite~s~.
+C99BF19C || Detonation
+CB98772B || ~z~FIVE SECONDS TO DETONATION!
+CEF63585 || Get it before the workers destroy it.
+D283466A || ~z~Hey, you be careful with that...
+D7ED04C4 || ~r~You idiot you killed the courier!
+E0B524E8 || ~z~Where's your safety gear?
+E1840DA1 || ~z~Hey, hitting a casino isn't like gangbanging - it's a whole different league!
+E5DB6646 || ~s~Use the ~b~dirt bike ~s~and find another way out!
+E6E9C9B8 || ~z~So the Sindacco Family was behind the attempts to sabotage our venture.
+E7D8E0F1 || ~z~Stay away from that stuff!
+E90368C3 || ~z~He's after the dynamite!
+EB00EE74 || ~r~The dynamite has been destroyed!
+EE6EACDA || ~z~Who's this asshole?
+F21BDF35 || ~r~You blew up the dynamite.
+F89F3CE0 || ~z~Thanks.
+FBAD931E || 1 stick of 4
+FCC05707 || Enter the Quarry and steal the dynamite.
+FFF2F8F9 || ~z~Yeah, it'll take some explosives. Always got to blow up shit to pull a heist.

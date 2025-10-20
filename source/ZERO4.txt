@@ -1,0 +1,111 @@
+E7FD57 || ~z~I already own it. What's wrong with you, man?
+57D98FF || ~z~Move it, Carl, Berkley's blocked me again!
+59A20D2 || ~z~He's dropping barrels in my way!
+8609835 || ~z~Behold, No Man's Land!
+8872018 || ~z~Carl, you were all a duelist like me could want in a second.
+951B17C || ~z~and I must ask myself if I am a sheep or a goat.
+9689B92 || ~s~Now drop the bomb on ~r~Berkley's Tigers~s~!
+E055F8B || ~s~This is your last Goblin.
+E3C7565 || ~z~What's happening, Zero?
+F0D5C2C || ~z~If I get the Bandit into Berkley's base, he must leave San Fierro for good!
+FEAE401 || ~z~Berkley, you sir, are a loser.
+104A803D || ~z~I may never again see Rome in the springtime.
+16F1D540 || ~z~Berkley, this is not the end of this, DO YOU HEAR ME?
+17274424 || ~z~I am to engage in battle with Berkley.
+1C811193 || ~z~Oh my God, Berkley's shot this bandit up pretty good!
+234DCBF6 || ~z~Berkley's trying to stop my progress with obstacles!
+23E3CEA3 || Press ~k~~PED_FIREWEAPON~ to pick up object.
+248E0ABA || Press ~k~~VEHICLE_ACCELERATE~ to increase the rotor speed of the helicopter this will propel it upwards.
+24C7B7C2 || ~z~You let Berkley blow up my Bandit!
+25280C48 || ~r~All your Goblins are destroyed.
+347294F6 || If your ~b~Bandit ~w~takes damage from Berkley's ~r~Tigers ~w~ it will reverse until it is safe.
+374BFA7D || ~z~Argh! Where's my backup, Carl!
+37AC4250 || ~z~Carl, there's no bridge, there's no bridge!
+3A56FAB7 || ~z~Carl, don't be an idiot, use the Goblin to move that barrel!
+3AA91CC4 || Your Goblin helicopter is fitted with a magnet which can pick up objects.
+3C333D09 || ~s~There are a few challenges along the way. You must use a RC Goblin to help clear a path for your Bandit.
+3DC4D8DD || You must remove any obstructions before your ~b~Bandit ~w~can continue.
+3DDC8683 || ~z~Luckily we still have two bandits left!
+404CCAEB || ~z~Protect the Bandit, Carl, it's getting shot up!
+40AB72C6 || ~z~Get me a plank to cross that river!
+4375A460 || When the ~b~Bandit ~w~gets to a river you must lift a plank from your base using the ~b~Goblin ~w~and place it over the river.
+47210EF2 || ~z~I'm taking hits, Carl, bomb Berkley's tanks!
+4AC3E84B || Berkley's ~r~Goblin~w~ will constantly try and block the path of your ~b~Bandit~w~.
+4ADBB615 || ~z~Carl, we're down to our last bandit!
+4B340D9F || ~s~To win you must safely escort the RC Bandit to Berkley's base.
+4C59C986 || Bandit
+522F3CDE || ~r~You ran out of time.
+53C08754 || ~z~Carl, who's side are you on?
+54E4FE35 || If the ~b~Bandit ~w~gets destroyed another will start from your base, be careful as you only have 3 ~b~Bandits~w~.
+5542F8C7 || ~s~You have 2 Bandits remaining.
+5E3A3FB3 || ~z~Get a plank from our base and make a bridge across that gap!
+602074B2 || ~z~At stake, honor and our very lives.
+61F6E5D6 || ~z~It's always one lazy soldier who lets the whole side down...isn't it, Carl?
+674DB0AB || ~z~C'mon with all the talking, man - is you going to battle Berkley or what?
+6B862105 || ~z~Shitskys! This bandit's nearly had it.
+6C0C5D31 || ~z~Berkley's using tanks!
+727AA869 || ~z~Curse you, Berkley! Carl, move that barrel!
+729D1044 || ~z~Another obstruction! Damn you Berkley!
+75176C70 || ~z~Carl, move that obstruction!
+75F0D45D || ~z~Get those barrels out the way, Carl!
+77E0CDC1 || ~z~We are crossing the Rubicon.
+780A6CBA || ~z~I'll drive the Bandit, you fly the Goblin and help any way you can!
+78EDD497 || ~z~Leave the field of battle in shame,
+79026F1D || ~s~This is your last Bandit.
+793B45F3 || ~z~I'm off to engage with destiny, good or bad.
+7E5681EA || ~z~Carl, will you be my second?
+7E6FAB04 || ~s~Pick up a ~g~Bomb~s~ from the base.
+7F80108E || ~z~Sir, I salute you!
+7FC9ADF6 || Use the camera movement controls to look around the helicopter.
+8943D187 || ~z~A butterfly...
+8E2E159E || ~z~how beautiful this time of year can be...
+8FF884FA || ~z~Failure... I only hope you are happy, Carl...I for one, am not.
+9058E0C6 || ~z~I have left everything to you in case I don't make it. Please.
+9169C98F || ~z~Man, y'all take this shit seriously.
+918E71A2 || ~z~and GET OUT OF MY TOWN!
+91C7CCDA || Press ~k~~VEHICLE_LOOKRIGHT~ to rotate the helicopter clockwise.
+96040D96 || ~z~LET BATTLE COMMENCE!
+96E3B5BB || ~z~Ha ha! HA!
+970C0E31 || ~s~Get a plank from your base.
+973524DF || ~z~The hour of judgment is upon me
+99D78603 || ~s~Pick up a ~g~plank~s~ from the base.
+9B190D5C || ~z~There's another cursed barrel in the way!
+9BFEB571 || ~z~Get out of my way, Berkley!
+A35FAB0D || ~z~Move the barrel with the Goblin's magnet, Carl!
+A4D5D739 || ~z~Ha, ha Berkley! I still have two bandits left!
+A92F6FDE || ~z~Carl, Berkley's tanks are tearing the Bandit to pieces!
+B2FAD5C0 || ~s~Your ~b~Bandit~s~ is obstructed by a barrel. Lift the barrel to allow the ~b~Bandit~s~ to continue.
+B431172B || Use the steering controls to tilt the helicopter in the direction you wish to maneuver it.
+BA449A4C || ~z~Curse you and your blocking tactics, Berkley!
+BAEA9F19 || Pick up a ~b~Bomb ~w~from your base and drop it on Berkley's ~r~Tigers ~w~to destroy them.
+BB4C99EB || ~s~You have 2 Goblins remaining.
+BD875B00 || Press ~k~~PED_FIREWEAPON~ to drop object.
+BDCEE678 || ~z~He nailed me, he nailed me.
+C33627BD || Press ~k~~VEHICLE_LOOKLEFT~ to rotate the helicopter counter-clockwise.
+C5FDE556 || ~s~Your ~b~Bandit~s~ is taking damage from a ~r~tank~s~! Use the bombs at your base to attack!
+CB266D64 || Timer
+CC4BA97D || ~r~All your Bandits have been destroyed.
+CD43AADA || ~z~My way is blocked! All will be lost!
+CDA412F7 || ~z~Damn you Berkley! Damn you to hell!
+CDEDAF8F || Other objects can also be dropped on ~r~Tigers ~w~which will cause them damage.
+D23D5C25 || ~s~This is the RC battlefield.
+D4589B9B || ~z~Use the Goblin to remove the obstacle!
+D4BF23B6 || ~z~Only one Bandit left, Carl, protect it at all costs!
+D9459B51 || ~z~Bomb those tanks! Bomb them, Carl!
+D9A2237C || ~z~Carl, I need a bridge, now!
+DE285F48 || ~z~Bomb that tank, Carl!
+E00B3EA7 || ~s~Drop the plank at the river crossing.
+E0321449 || ~z~What the hell are you talking about now?
+E66EF919 || ~z~Berkley's HQ is across No Man's Land.
+E6894134 || ~z~pack up your crummy mail order model business
+E6C0FC4C || Press ~k~~VEHICLE_BRAKE~ to decrease the rotor speed of the helicopter this will bring it down towards the ground.
+E75FD050 || ~z~Here are some letters.
+E766FABE || ~s~Your Bandit is obstructed by a ~r~RC TIGER~s~. Destroy or lift the tank to allow the Bandit to continue.
+EB9441FE || ~z~Berkley's dropping barrels all along the track!
+EC1E3DCA || ~z~Carl, I'm blocked!
+ECF985E7 || ~z~Carl, move those barrels!
+EED0B695 || ~s~Drop the plank at the river to bridge the gap.
+F28F70BF || ~z~Shite, Carl, this bandit's nearly had it!
+F5050C8B || ~z~Carl, grab a bomb and get rid of any tanks that threaten our progress!
+F9292508 || ~z~It's funny... I've never noticed before
+FE44E111 || ~z~It's a fight to the death! Come hither!

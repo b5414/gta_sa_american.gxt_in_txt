@@ -1,0 +1,46 @@
+38F1EDD || ~s~Attack enemy gang members while on foot.
+823E3D7 || ~z~Crack my ass, you lying piece of shit!
+F4E27CE || ~z~Poncho is my man
+1138D296 || ~z~Well it's a good thing we got our Doberman here to deal with it.
+1655168F || ~z~And Hernandez; don't ever laugh at me again.
+23DD8565 || ~s~Your gang members can now be found in this territory.
+24B0417C || ~s~The enemy have retaken the territory!
+3D78454C || ~z~Yeah, whatever, man.
+4A7F75DA || ~z~Get your ass outta here!
+4FE80A1F || ~z~Tenpenny set me up!
+53B771EA || ~s~Attack enemy gang members to start the territory take over!
+54DAB5F3 || ~s~The territory is now owned by the Grove street families and is marked green on the radar.
+61522619 || ~z~Get over there and get my fucking phone.
+663FE200 || ~z~You listening Carl?
+78491758 || ~z~and the DEA don't touch my asset, that's just the fucking law!
+7D3E6260 || ~s~You have flushed the ~r~grass~w~ out, kill him!
+7F24D341 || ~z~Listen to me!
+7FF7E630 || ~s~Enter the ~b~shop~s~ and buy a gun.
+8187CF07 || ~z~Hey, don't yank my dick, Carl.
+8831832C || ~z~Carver pulls in Poncho and he's gonna fold.
+8F5C4735 || ~z~Hey, don't even think that that approaches humor, Johnson.
+912AB26D || ~z~Go frame some other rock slinger.
+91F9871C || You will gain respect and money for taking over territory, the money will appear in Grove Street.
+96477674 || ~z~Now you listen to me, you sanctimonious piece of shit,
+989CFE46 || ~z~CARVER, YOU PIECE OF RAT SHIT! BITCH!
+9A864F67 || ~s~Get back to ~y~Glen Park~s~!
+A1E66B33 || ~z~Tenpenny sold me out!
+A31CD0EF || ~z~think of it as a little opportunity we threw your way.
+A47114F6 || ~z~And Poncho doesn't make it into custody - you get me?
+B40F5CED || Ballas territory is marked in purple on the radar.
+BAD4D4DF || ~s~This is Glen Park, which is Ballas territory.
+BDB910C6 || ~s~Your territory will come under constant attack from enemy gangs and you must defend it.
+C3086C7B || The radar icon indicates the territory to attack, it will stay on the radar until you own the territory.
+CABE2050 || ~s~When an attack takes place the territory will flash red and an icon will be placed on the radar.
+CDD3E449 || ~s~You must take out the enemy gang to gain this territory as your own.
+D3762460 || ~z~You get over there and freeze that bust in East Los Santos
+D41BE079 || ~z~There should be some weed being bagged as evidence -
+D6E15BA5 || ~z~Busta C.R.A.S.H. set me up!
+E14046E2 || ~z~CARL! GET OVER HERE!
+E62D82FB || ~z~Oh, I don't give a holy fuck about some targets,
+E6FEB78A || ~s~Go to ~b~Ammu-Nation~s~ and buy a gun.
+EAECBBE8 || ~s~Go to ~y~Glen Park, Ballas territory~s~ and take it over, if you need a gun go into ~b~Ammu-Nation~s~.
+EF9BCED0 || ~z~You leave him on the streets, got me?
+F680FF91 || ~z~No, didn't hear nothing
+F85B77A3 || ~z~Having a bad day, Officer Tenpenny?
+FF36B3BA || ~z~Move it!

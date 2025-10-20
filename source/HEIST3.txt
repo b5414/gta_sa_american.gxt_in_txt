@@ -1,0 +1,101 @@
+9B9B4 || ~z~Hey, hey hey hey! Damn, man - now he's seen the plans!
+1D5537B || ~z~Give me your number I have to see you again.
+3270B00 || ~r~You destroyed her car and the keycard!
+6B89762 || ~z~No more! You've broken me!
+7647DAD || ~z~Now all we need to do is get one of those cards...
+A91472B || ~r~The gimp got away!
+DFC8332 || ~s~You're too close, back off before you spook her!
+12BEA6E9 || ~z~Perfect!
+138A766A || ~s~Wait for the gimp to arrive, then take him out and take his place.
+14E7B273 || ~s~The ~r~Croupier ~s~has a keycard and knows the code, follow her.
+16F25225 || ~z~I'll call you, master, I promise!
+1829DA17 || ~z~Oh! It's...
+18CE623A || ~z~Hey, if you good, I'll punish you more.
+191288F5 || ~z~Alright, the cash room is on the bottom level.
+1A3C3A41 || ~s~The ~r~Croupier~s~ has left the shop. Follow her but remember not to get too close.
+1B08EAC2 || ~z~Cool, I'll see you at my house in a short while.
+1E7F4CEC || ~z~Hey, are you pointing again?
+1F441E0E || ~z~D.
+1FA3A623 || ~z~Enough, master!
+21BC14E8 || Press ~k~~PED_FIREWEAPON~ to swing the dildo.
+26D1D0F1 || ~s~The gimp is on his way.
+280A58C3 || ~s~The Croupier is in here somewhere, find her.
+2AF800B8 || ~z~Hey baby, I'm a need that security card and entry code for Caligula's.
+2B2B6816 || ~s~The gimp has nearly reached the house!
+2D95C4A1 || ~z~The door's open, Master!
+348EF5E0 || ~z~Where's the keycard?
+3FCAE1B0 || ~r~Something's spooked the Croupier!
+48CDD126 || ~s~Leave the shop and go after the Croupier.
+4FA0153F || ~r~You no longer have the gimp suit.
+50E230E4 || ~z~Luckily, there's always one guaranteed weak link in any security set up.
+51D6E067 || SPOOK-O-METER
+56BB247E || ~r~You failed to excite her.
+5B419C99 || ~s~Park up outside the ~y~Croupier's house~s~.
+5C2C5880 || ~r~The gimp has reached the house!
+5DFF302E || ~z~Oh I know! I know!
+5F0D6855 || ~s~You need to get her to give you the code.
+62D45266 || ~z~Wow, it's nice and tight!
+648D46FC || ~s~Go and get a ~g~gimp suit~s~.
+65B9967F || ~z~Oh hi, Benny...
+68432E98 || ~z~E.
+69787C7A || ~z~Now, security consists of CCTV, a keycode access and, in places, a swipe card.
+6D3B0AD7 || ~s~The gimp will be arriving shortly, wait around and make sure he doesn't make it to the Croupier's house.
+6E15B863 || ~z~Hear me out on this, homie.
+6F2EEA81 || ~z~A.
+6FC952AC || ~z~Spit it out, filthy worm!
+70634D3B || ~z~Alright, cool. This is a security card reader that Zero's sent over.
+74203B96 || ~r~You destroyed her car, she's not going to help you now!
+76D263ED || ~z~I know you're not Benny!
+770E8922 || ~z~Hey boss, this arrived for CJ.
+7AFBB3A4 || ~s~The ~r~Croupier~s~ is almost out of sight, you need to get closer!
+7BCF6327 || ~z~Another shift over! See you tomorrow!
+7D9677BD || ~r~You killed the croupier!
+801BD94F || ~z~Very clever. So what's the prognosis?
+81208BAD || ~z~ENTRY CODE NOW!
+81C73380 || ~z~I can take it!
+864D4FB4 || ~z~C.
+86AAF799 || ~z~The card's in my car outside!
+87761D56 || ~z~There's a bunch of rooms and a tunnel under the whole building
+8A8327D0 || ~s~Enter the ~y~house~s~.
+8BB7F753 || ~z~You got yours?
+8CDA334A || ~z~Let's have a look.
+8DEEE3C9 || ~s~If you get too close you'll spook her, but if she gets too far ahead you'll lose her.
+8EC0517D || ~z~Oh, my bad - habit.
+93981691 || ~r~You lost her!
+94F5D288 || ~s~The gimp is about to get away, stop him!
+97DB603C || ~z~Now I know you're blind, man - but you gotta see this.
+9900E80E || ~z~finally get a crew in on this.
+9E6D2C17 || ~z~Well, then we've got our first recruit.
+9FB1C6D8 || ~z~Gimme the code, you worthless trash!
+A6C3B00A || ~s~Get to the ~y~casino~s~.
+AD87A45A || ~z~Confess!
+B3F15102 || ~z~Oh Benny, you minx!
+B49C951B || ~z~Come on in, I'm ready for you!
+B54FFDB5 || SPOOK-O-METER
+B8B54552 || Spankometer
+BFD8814B || ~s~Now that the gimp's out of the way go and ring the ~y~doorbell~s~.
+C248CD23 || You have another girlfriend. You will have to wine and dine her before she will give you the keycard.
+C39BA58D || ~z~You've been a naughty girl!
+C4F66194 || ~z~I'll never tell, you wicked man, never, NEVER!
+C8DFB1DD || ~s~Get rid of the gimp.
+C9EB615E || ~z~The human heart.
+CFB275C4 || ~s~You need to get her to give you the keycard.
+D1C4809C || ~s~Get to ~y~Caligula's Palace casino~s~.
+DA8094CC || ~z~You'll never break me!
+E2C6329D || ~z~That was a long shift! See you tomorrow!
+E3F2E21E || ~s~Get the keycard from her ~r~car~s~.
+E49F2607 || ~r~You got too close!
+E8B6F64E || ~z~God, you're good at this!
+E96A1C81 || ~z~Come on in and shut the door.
+EE07D898 || ~z~Yeah, I know.
+F0712DC0 || ~z~with access to the casino floors at either end of the complex. Alright?
+F14A7F22 || ~z~B.
+F1ADC70F || ~z~And now, gimme the code!
+F6C00316 || ~z~Do your worst!
+F71CE9D9 || ~z~Is this just going to be extremely difficult, or next-to-impossible?
+F8FC3309 || ~z~F.
+F9C761EB || ~z~Ah, don't worry; it's good practice for when we
+FAE9D35F || ~s~She's gone into the ~y~sex shop~s~, follow her inside.
+FBDD03DC || ~z~I'm sure you'll squeeze in just fine!
+FCB0C7C5 || ~z~Yes, master, I'm just trying it on.
+FD841746 || ~s~The gimp's making a run for it, don't let him get away!
